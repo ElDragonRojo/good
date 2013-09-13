@@ -35,11 +35,13 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	John Gruber
 * __John Wilker, 360 Conferences__
 * __Josh Michaels__
+* __Klaas Speller__
 *	Kyle Kinkade
 * __Kyle Richter, Empirical Development__
 * __Marcus Zarra, Empirical Development__
 * __Matt Drance, Bookhouse Software__
 * __Matt Legend Gemmell__
+* Matteo Manferdini
 * __Michael Jurewitz__
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
