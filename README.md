@@ -43,6 +43,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Michael Jurewitz__
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
+*	_Peter Hosey_
 * __Rob Rhyne, MartianCraft__
 * __Samuel Goodwin__
 * __Saul Mora, Magical Panda__
