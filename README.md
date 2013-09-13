@@ -1,4 +1,4 @@
-The Good List
+# The Good List
 
 This is a partial list of good people I know—ethical, smart, hard-working—doing it the right way, for the right reasons. Names in bold are people with whom I have worked or know well enough to go so far as to risk my personal reputation to vouch for them.
 
