@@ -1,54 +1,53 @@
-# Vouched
+The Good List
 
-These people have my highest recommendation, as I feel I have worked with, know well enough, or have a strong enough sense of their ethics and skills, that I would risk your professional reputation to vouch for them.
+This is a partial list of good people I know—ethical, smart, hard-working—doing it the right way, for the right reasons. Names in bold are people with whom I have worked or know well enough to go so far as to risk my personal reputation to vouch for them.
 
-* Aaron Hillegass, Big Nerd Ranch
-* Alexander Repty
-* Bill Dudney
-* Bolot Kerimbaev, Big Nerd Ranch
-* Brent Simmons
-* Chris Clark
-* Chris Parrish, Aged and Distilled
-* Collin Donnell
-* Daniel Pasco, Black Pixel
-* Guy English, Aged and Distilled
-* Hernan Pelassini
-* Jeff LaMarche, MartianCraft
-* Joe Pezzillo, PushIO
-* John Wilker, 360 Conferences
-* Josh Michaels
-* Kyle Richter, Empirical Development
-* Marcus Zarra, Empirical Development
-* Matt Drance, Bookhouse Software
-* Matt Legend Gemmell
-* Michael Jurewitz
-* Nathan Eror, Empirical Development 
-* Rob Rhyne, MartianCraft
-* Samuel Goodwin
-* Saul Mora, Magical Panda
-* Stephen Ives, Smirk Design
-* Tom Ortega, Omega Ortega
-* Victor Agreda, Jr., TUAW
-* Wil Shipley, Delicious Monster
+This list should not be considered complete, nor does non-inclusion imply anything.
 
+## Companies
 
-# Trusted
-
-These are people and companies I know either personally, or by reputation, well enough that I would work with. 
-
-* Big Nerd Ranch
+*   Big Nerd Ranch
 *	Black Pixel
-*	Cabel Sasser, Panic
-*	Dave Wiskus
 *	Double Encore
 *	Empirical Development
-*	Jay Freeman
-*	John Gruber
-*	Kyle Kinkade
 *	MartianCraft
-*	Neven Mrgan, Panic
 *	Panic
 *	PushIO
-* Steven Frank, Panic
 
-__These lists should not be considered complete, and non-membership implies nothing__
+## People
+
+* __Aaron Hillegass, Big Nerd Ranch__
+* __Alexander Repty__
+* __Bill Dudney__
+* __Bolot Kerimbaev, Big Nerd Ranch__
+* __Brent Simmons__
+*	Cabel Sasser, Panic
+* __Chris Clark__
+* __Chris Parrish, Aged and Distilled__
+* __Collin Donnell__
+* __Daniel Pasco, Black Pixel__
+*	Dave Wiskus
+* __Guy English, Aged and Distilled__
+* __Hernan Pelassini__
+*	Jay Freeman
+* __Jeff LaMarche, MartianCraft__
+* __Joe Pezzillo, PushIO__
+*	John Gruber
+* __John Wilker, 360 Conferences__
+* __Josh Michaels__
+*	Kyle Kinkade
+* __Kyle Richter, Empirical Development__
+* __Marcus Zarra, Empirical Development__
+* __Matt Drance, Bookhouse Software__
+* __Matt Legend Gemmell__
+* __Michael Jurewitz__
+* __Nathan Eror, Empirical Development __
+*	Neven Mrgan, Panic
+* __Rob Rhyne, MartianCraft__
+* __Samuel Goodwin__
+* __Saul Mora, Magical Panda__
+* Steven Frank, Panic
+* __Stephen Ives, Smirk Design__
+* __Tom Ortega, Omega Ortega__
+* __Victor Agreda, Jr., TUAW__
+* __Wil Shipley, Delicious Monster__
