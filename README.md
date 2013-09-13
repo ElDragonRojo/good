@@ -49,6 +49,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Rob Rhyne, MartianCraft__
 * __Samuel Goodwin__
 * __Saul Mora, Magical Panda__
+* __Steve "Scotty" Scott__
 * Steven Frank, Panic
 * __Stephen Ives, Smirk Design__
 * __Tom Ortega, Omega Ortega__
