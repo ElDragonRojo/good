@@ -41,7 +41,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Matt Drance, Bookhouse Software__
 * __Matt Legend Gemmell__
 * __Michael Jurewitz__
-* __Nathan Eror, Empirical Development __
+* __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
 * __Rob Rhyne, MartianCraft__
 * __Samuel Goodwin__
