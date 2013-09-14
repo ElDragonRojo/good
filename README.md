@@ -17,35 +17,59 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 ## People
 
 * __Aaron Hillegass, Big Nerd Ranch, Industry Legend__
+* Aaron Tuller
 * __Alexander Repty__
+* Amber Cataldo
+* Andrew Stone, Stone Design, Industry Legend
+* August "Gus" Mueller, Flying Meat
+* __Bill Bumgarner, Apple, Industry Legend__
 * __Bill Dudney__
 * __Bolot Kerimbaev, Big Nerd Ranch__
 * __Brent Simmons, Industry Legend__
+* Brianna Wu, Giant Spacekat
 *	__Cabel Sasser, Panic, Industry Legend__
+*	Charles Perry
 * __Chris Clark__
+* Chris Espinoza, Apple, Industry Legend
 * __Chris Parrish, Aged and Distilled__
+* Christopher Phin
+* Colin Barrett
 * __Collin Donnell__
 * __Daniel Pasco, Black Pixel__
+* Dave Thomas, Bedarra Research Labs
 *	Dave Wiskus
+*	Erik Meijer
+*	Fraser Spiers
+*	__Graham Lee__
 * __Guy English, Aged and Distilled__
 * __Hernan Pelassini__
+* Jana Boruta
+* Jason Snell
 *	Jay Freeman
 * __Jeff LaMarche, MartianCraft__
 * __Joe Pezzillo, PushIO, Industry Legend__
 *	John Gruber
 * __John Wilker, 360 Conferences, Industry Legend__
+* Jonathan Penn
+* Jonathan Wight
+* Jørn Larsen, Trifork Software
 * __Josh Michaels__
 * __Klaas Speller__
 *	Kyle Kinkade
 * __Kyle Richter, Empirical Development__
+* Louie Mantia
 * __Marcus Zarra, Empirical Development__
 * __Matt Drance, Bookhouse Software, Industry Legend__
 * __Matt Legend Gemmell__
 * Matteo Manferdini
+* Maxie Ketschau-Repty
 * __Dr. Michael Johnson, Pixar, Industry Legend__
+* Mischa McLaclan
 * __Michael Jurewitz, Industry Legend__
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
+*	Pat Costaldo
+*	__Peter Cohen__
 *	__Peter Hosey__
 *	__Rachel Kinkade__
 * __Rob Rhyne, MartianCraft__
@@ -55,5 +79,6 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Steven Frank, Panic
 * __Stephen Ives, Smirk Design__
 * __Tom Ortega, Omega Ortega__
+* __Tristan O'Tierney__
 * __Victor Agreda, Jr., TUAW__
 * __Wil Shipley, Delicious Monster, Industry Legend__
