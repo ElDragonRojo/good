@@ -171,6 +171,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Michael Jurewitz](https://twitter.com/Jury), Industry Legend__
 * __Mike Lowdermilk__
 * *Mike Matas*
+* *Mike Monteiro*
 * Mischa McLaclan
 * Moshen Chan
 * Nate True
@@ -197,12 +198,12 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Richard Branson, Virgin, Industry Legend
 *	Richard Feldman
 *	Robb Albright
-* __[Rob Rhyne](https://twitter.com/capttaco), [MartianCraft]__
+* __[*Rob Rhyne*](https://twitter.com/capttaco), [MartianCraft]__
 * Ron Jones
 * Ronald Rietveld
 * Ros (Hodgekiss) De Vries
 * Ryan Nielsen
-* Sam Noble
+* *Sam Noble*
 * __[Samuel Goodwin](https://twitter.com/samuelgoodwin), [Roundwall Software](http://roundwallsoftware.com)__
 * __[Saul Mora](https://twitter.com/casademora), [Magical Panda](http://magicalpanda.com)__
 * __Scott Lopatin__
