@@ -6,10 +6,11 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 
 ## Companies
 
-*   Big Nerd Ranch
+* Big Nerd Ranch
 *	Black Pixel
 *	Double Encore
 *	Empirical Development
+*	Fingertips
 *	MartianCraft
 *	Panic
 *	PushIO
@@ -79,6 +80,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Steve "Scotty" Scott, NSConference, Industry Legend__
 * Steven Frank, Panic
 * __Stephen Ives, Smirk Design__
+* __Tara Ross, Appsterdam__
 * __Tom Ortega, Omega Ortega__
 * __Tristan O'Tierney__
 * __Victor Agreda, Jr., TUAW__
