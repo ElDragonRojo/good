@@ -48,6 +48,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Drew McCormack, Mental Faculty
 *	Edward Marczak
 *	Elon Musk, SpaceX, Tesla
+* Eloy Durán
 *	Erik Meijer
 *	Federico Viticci
 *	Fraser Spiers
