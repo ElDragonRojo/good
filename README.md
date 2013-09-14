@@ -44,6 +44,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dave Thomas, Bedarra Research Labs
 *	Dave Wiskus
 *	David Chartier
+*	Diederik Hoogenboom, Obvious Matter
+*	Drew McCormack, Mental Faculty
 *	Edward Marczak
 *	Erik Meijer
 *	Federico Viticci
@@ -71,7 +73,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, Empirical Development__
 * Louie Mantia
 * __Marcus Zarra, Empirical Development__
-* Marga Keuvelaar
+* Marga Keuvelaar, Obvious Matter
 * Martinus Meiborg, Appsterdam
 * __Matt Drance, Bookhouse Software, Industry Legend__
 * __Matt Legend Gemmell__
