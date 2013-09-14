@@ -34,6 +34,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Charles Perry
 * __Chris Clark__
 * Chris Espinoza, Apple, Industry Legend
+* Chris Foresman
 * __Chris Parrish, Aged and Distilled__
 * Christopher Phin
 * Colin Barrett
@@ -54,6 +55,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jason Snell
 *	Jay Freeman
 * __Jeff LaMarche, MartianCraft__
+* Jessi Chartier
 * __Joe Pezzillo, PushIO, Industry Legend__
 *	John Gruber
 * __John Wilker, 360 Conferences, Industry Legend__
