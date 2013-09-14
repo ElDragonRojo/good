@@ -100,6 +100,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Neven Mrgan, Panic
 *	Nicole Wilker
 *	Pat Costaldo
+*	Patrick Burleson
 *	Patrick de Laive, The Next Web
 *	Paul Darcey
 *	Paul de Medeiros
