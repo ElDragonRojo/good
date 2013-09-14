@@ -11,6 +11,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Double Encore
 *	Empirical Development
 *	Fingertips
+*	Iconfactory
 *	MartianCraft
 *	Panic
 *	PushIO
@@ -38,6 +39,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Colin Barrett
 * __Collin Donnell__
 * __Daniel Pasco, Black Pixel__
+* Dave Hayden, Puzzllotto Champion
 * Dave Thomas, Bedarra Research Labs
 *	Dave Wiskus
 *	Edward Marczak
