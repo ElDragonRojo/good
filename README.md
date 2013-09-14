@@ -95,6 +95,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__[Graham Lee](https://twitter.com/secboffin)__
 * __[Guy English](https://twitter.com/gte), Aged and Distilled__
 * Guy Kawasaki, Industry Legend
+* [Hans verschooten](https://twitter.com/hansv)
 * Dr. Helge Staedtler
 * Henry Balanon
 * __*[Hernan Pelassini](https://twitter.com/hernanp)*__
@@ -221,6 +222,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Tara Ross](https://twitter.com/tross6), [Appsterdam]__
 * Timo de Winter
 * Tom Clark, [Apple]
+* [Tom Maes](https://twitter.com/tmaes)
 * __[Tom Ortega](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)__
 * __Tristan O'Tierney__
 *	[Vicki Wenderlich](https://twitter.com/vwenderlich)
