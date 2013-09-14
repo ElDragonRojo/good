@@ -37,6 +37,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Chris Foresman
 * __Chris Parrish, Aged and Distilled__
 * Christopher Phin
+* Cindy Morris
 * Colin Barrett
 * __Collin Donnell__
 * __Daniel Pasco, Black Pixel__
@@ -75,6 +76,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Klaas Speller__
 *	*Kyle Kinkade*
 * __Kyle Richter, Empirical Development__
+* Laurens Bon
 * *Louie Mantia*
 * __Marcus Zarra, Empirical Development__
 * Marga Keuvelaar, Obvious Matter
@@ -103,6 +105,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ros (Hodgekiss) De Vries
 * __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
+* Scott Perry
 * Sebastiaan de With
 * Simon Wolf
 * __Steve "Scotty" Scott, NSConference, Industry Legend__
