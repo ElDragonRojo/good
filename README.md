@@ -50,6 +50,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Elon Musk, SpaceX, Tesla
 * Eloy Durán
 *	Erik Meijer
+*	Erik Romijn
 *	Federico Viticci
 *	Fraser Spiers
 *	__Graham Lee__
@@ -83,6 +84,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Matt Legend Gemmell__
 * Matteo Manferdini
 * Maxie Ketschau-Repty
+* Merel Ivens
 * __Dr. Michael Johnson, Pixar, Industry Legend__
 * Mischa McLaclan
 * __Michael Jurewitz, Industry Legend__
