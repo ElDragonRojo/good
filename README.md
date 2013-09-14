@@ -80,6 +80,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Dr. Michael Johnson, Pixar, Industry Legend__
 * Mischa McLaclan
 * __Michael Jurewitz, Industry Legend__
+* Nathan De Vries
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
 *	Pat Costaldo
@@ -89,6 +90,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Peter Hosey__
 *	__Rachel Kinkade__
 * __Rob Rhyne, MartianCraft__
+* Ros (Hodgekiss) De Vries
 * __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
 * Sebastiaan de With
