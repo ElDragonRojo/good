@@ -46,7 +46,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Michael Jurewitz, Industry Legend__
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
-*	_Peter Hosey_
+*	__Peter Hosey__
+*	__Rachel Kinkade__
 * __Rob Rhyne, MartianCraft__
 * __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
