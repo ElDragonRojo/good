@@ -194,6 +194,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Peter Tuszynski
 *	__Rachel Kinkade__
 *	Raul Portales
+*	[Ray Wenderlich](https://twitter.com/rwenderlich)
 *	Rich Siegel, BBEdit, Industry Legend
 *	Richard Branson, Virgin, Industry Legend
 *	Richard Feldman
@@ -222,6 +223,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Tom Clark, [Apple]
 * __[Tom Ortega](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)__
 * __Tristan O'Tierney__
+*	[Vicki Wenderlich](https://twitter.com/vwenderlich)
 * __[Victor Agreda, Jr.](https://twitter.com/superpixels), [TUAW](http://www.tuaw.com)__
 * Vinay Gupta
 * Whitney Deathrage
