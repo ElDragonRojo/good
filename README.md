@@ -42,6 +42,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Matt Drance, Bookhouse Software, Industry Legend__
 * __Matt Legend Gemmell__
 * Matteo Manferdini
+* __Dr. Michael Johnson, Pixar, Industry Legend__
 * __Michael Jurewitz, Industry Legend__
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
