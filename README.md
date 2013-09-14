@@ -109,6 +109,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Jay Freeman
 * __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
 * Jeremy Bierbach, Avocado Legal
+* Jerrol Spier
 * Jessi Chartier
 * Jessica Char, [Pacific Helm]
 * Jim Dalrymple, Industry Legend
