@@ -1,8 +1,8 @@
 # The Good List
 
-This is a partial list of good companies and people I know to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Names in bold are people with whom I have worked or know well enough to go so far as to risk my personal reputation to vouch for them.
+This is a partial list of good companies and people I know to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Names in bold are people with whom I have worked or know well enough to go so far as to risk my personal reputation to vouch for them. Names in italics are intensely strong-willed people with me on the A* list.
 
-This list should not be considered complete, nor does non-inclusion imply anything.
+This list should not be considered complete, nor does non-inclusion imply anything. Please file issues to suggest changes, and fork this list to create your own.
 
 ## Companies
 
