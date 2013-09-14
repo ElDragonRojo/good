@@ -224,6 +224,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Tom Clark, [Apple]
 * [Tom Maes](https://twitter.com/tmaes)
 * __[Tom Ortega](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)__
+* [*Tom Santero*](https://twitter.com/tsantero)
 * __Tristan O'Tierney__
 *	[Vicki Wenderlich](https://twitter.com/vwenderlich)
 * __[Victor Agreda, Jr.](https://twitter.com/superpixels), [TUAW](http://www.tuaw.com)__
