@@ -132,7 +132,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Keith Duncan, GitHub
 * __Kevin Avila__
 * Kirby Turner
-* __Klaas Speller__
+* __[Klaas Speller](https://twitter.com/spllr)__
 *	*Kyle Kinkade*
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
