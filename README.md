@@ -77,6 +77,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Diederik Hoogenboom, Obvious Matter
 *	Dieter Oude Kotte, City of Amsterdam
 *	Dirk Stoop
+* Don Ritzen, Rockstart
 *	Drew McCormack, Mental Faculty
 *	Edward Marczak
 *	Elon Musk, SpaceX, Tesla
