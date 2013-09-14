@@ -52,6 +52,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Guy English, Aged and Distilled__
 * Guy Kawasaki, Industry Legend
 * __Hernan Pelassini__
+* James Thomson, PCalc
 * Jana Boruta
 * Jason Snell
 *	Jay Freeman
