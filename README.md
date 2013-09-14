@@ -33,7 +33,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Cesare Rocchi
 *	Charles Perry
 * __Chris Clark__
-* Chris Espinoza, Apple, Industry Legend
+* *Chris Espinoza*, Apple, Industry Legend
 * Chris Foresman
 * __Chris Parrish, Aged and Distilled__
 * Christopher Phin
@@ -42,7 +42,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Daniel Pasco, Black Pixel__
 * Dave Hayden, Puzzllotto Champion
 * Dave Thomas, Bedarra Research Labs
-*	Dave Wiskus
+*	*Dave Wiskus*
 *	David Chartier
 *	Diederik Hoogenboom, Obvious Matter
 *	Drew McCormack, Mental Faculty
@@ -54,7 +54,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Graham Lee__
 * __Guy English, Aged and Distilled__
 * Guy Kawasaki, Industry Legend
-* __Hernan Pelassini__
+* __*Hernan Pelassini*__
 * James Thomson, PCalc
 * Jana Boruta
 * Jason Snell
@@ -62,17 +62,18 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Jeff LaMarche, MartianCraft__
 * Jessi Chartier
 * __Joe Pezzillo, PushIO, Industry Legend__
-*	John Gruber
+*	*John Gruber*
 * __John Wilker, 360 Conferences, Industry Legend__
 * Jonathan Penn
-* Jonathan Wight
+* *Jonathan Wight*
 * Jørn Larsen, Trifork Software
 * __Josh Michaels__
 * __Judy Chen, Appsterdam__
+* Justin Williams
 * __Klaas Speller__
-*	Kyle Kinkade
+*	*Kyle Kinkade*
 * __Kyle Richter, Empirical Development__
-* Louie Mantia
+* *Louie Mantia*
 * __Marcus Zarra, Empirical Development__
 * Marga Keuvelaar, Obvious Matter
 * Martinus Meiborg, Appsterdam
@@ -108,4 +109,4 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tristan O'Tierney__
 * __Victor Agreda, Jr., TUAW__
 * Vinay Gupta
-* __Wil Shipley, Delicious Monster, Industry Legend__
+* __*Wil Shipley*, Delicious Monster, Industry Legend__
