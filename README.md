@@ -29,6 +29,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Brent Simmons, Industry Legend__
 * Brianna Wu, Giant Spacekat
 *	__Cabel Sasser, Panic, Industry Legend__
+*	Cesare Rocchi
 *	Charles Perry
 * __Chris Clark__
 * Chris Espinoza, Apple, Industry Legend
@@ -39,6 +40,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Daniel Pasco, Black Pixel__
 * Dave Thomas, Bedarra Research Labs
 *	Dave Wiskus
+*	Edward Marczak
 *	Erik Meijer
 *	Federico Viticci
 *	Fraser Spiers
@@ -62,6 +64,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, Empirical Development__
 * Louie Mantia
 * __Marcus Zarra, Empirical Development__
+* Marga Keuvelaar
 * __Matt Drance, Bookhouse Software, Industry Legend__
 * __Matt Legend Gemmell__
 * Matteo Manferdini
@@ -73,12 +76,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Neven Mrgan, Panic
 *	Pat Costaldo
 *	Paul Darcey
+*	Paul van Dijk
 *	__Peter Cohen__
 *	__Peter Hosey__
 *	__Rachel Kinkade__
 * __Rob Rhyne, MartianCraft__
 * __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
+* Sebastiaan de With
 * __Steve "Scotty" Scott, NSConference, Industry Legend__
 * Steven Frank, Panic
 * __Stephen Ives, Smirk Design__
