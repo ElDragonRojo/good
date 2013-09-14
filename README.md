@@ -20,9 +20,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 
 * __[Aaron Hillegass](https://twitter.com/aaronhillegass), [Big Nerd Ranch], Industry Legend__
 * Aaron Tuller
-* __[Alexander Repty](https://twitter.com/arepty)__
 * Adam Swift
-* __Alexander Repty__
+* __[Alexander Repty](https://twitter.com/arepty)__
 * Allan Schaffer, Apple
 * Amber Cataldo
 * Amber Conville, Detroit Labs
@@ -162,10 +161,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Dr. Michael Johnson, Pixar, Industry Legend__
 * *Michael Margolis*
 * __Michael Simmons__
-* Mischa McLaclan
 * __[Michael Jurewitz](https://twitter.com/Jury), Industry Legend__
 * __Mike Lowdermilk__
 * *Mike Matas*
+* Mischa McLaclan
 * Moshen Chan
 * Nate True
 * Nathan De Vries
@@ -180,10 +179,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Paul Kafasis, Rogue Amoeba
 *	Paul van Dijk
 *	__Peter Cohen__
-*	__Peter Hosey__
+*	__[Peter Hosey](https://twitter.com/boredzo)__
 *	Peter Mitchell
 *	Peter Robinett
-*	__[Peter Hosey](https://twitter.com/boredzo)__
 *	Peter Tuszynski
 *	__Rachel Kinkade__
 *	Raul Portales
@@ -216,6 +214,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Vinay Gupta
 * Whitney Deathrage
 * __*[Wil Shipley](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend*__
+* William Mottl
+* Zee Kane, The Next Web
 
 [Black Pixel]: http://blackpixel.com/
 [Big Nerd Ranch]: http://bignerdranch.com
@@ -225,6 +225,3 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Empirical Development]: http://www.empiricaldevelopment.com
 [MartianCraft]: http://martiancraft.com
 [Appsterdam]: http://appsterdam.rs
-* William Mottl
-* __*Wil Shipley*, Delicious Monster, Industry Legend__
-* Zee Kane, The Next Web
