@@ -9,10 +9,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * [Big Nerd Ranch]
 *	[Black Pixel]
 *	Double Encore
-*	Empirical Development
+*	[Empirical Development]
 *	[Fingertips](http://www.fngtps.com)
 *	Iconfactory
-*	MartianCraft
+*	[MartianCraft]
 *	[Panic]
 *	[PushIO]
 
@@ -217,11 +217,11 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * William Mottl
 * Zee Kane, The Next Web
 
-[Black Pixel]: http://blackpixel.com/
-[Big Nerd Ranch]: http://bignerdranch.com
-[Panic]: http://panic.com
 [Apple]: http://apple.com
-[PushIO]: http://push.io
+[Appsterdam]: http://appsterdam.rs
+[Big Nerd Ranch]: http://bignerdranch.com
+[Black Pixel]: http://blackpixel.com/
 [Empirical Development]: http://www.empiricaldevelopment.com
 [MartianCraft]: http://martiancraft.com
-[Appsterdam]: http://appsterdam.rs
+[Panic]: http://panic.com
+[PushIO]: http://push.io
