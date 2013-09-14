@@ -40,6 +40,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dave Thomas, Bedarra Research Labs
 *	Dave Wiskus
 *	Erik Meijer
+*	Federico Viticci
 *	Fraser Spiers
 *	__Graham Lee__
 * __Guy English, Aged and Distilled__
