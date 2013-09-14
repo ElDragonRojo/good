@@ -97,4 +97,5 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tom Ortega, Omega Ortega__
 * __Tristan O'Tierney__
 * __Victor Agreda, Jr., TUAW__
+* Vinay Gupta
 * __Wil Shipley, Delicious Monster, Industry Legend__
