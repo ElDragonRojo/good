@@ -170,7 +170,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * *Michael Margolis*
 * __Michael Simmons__
 * __[Michael Jurewitz](https://twitter.com/Jury), Industry Legend__
-* __Mike Lowdermilk__
+* __Michael Lowdermilk__
+* [Mike Cohen](https://twitter.com/mike3k)
 * *Mike Matas*
 * *Mike Monteiro*
 * Mischa McLaclan
