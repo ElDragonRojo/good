@@ -27,6 +27,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Amber Conville, Detroit Labs
 * Amy Worrall
 * André LaBranche
+* *Andrew Kimpel*
 * Andrew Stone, Stone Design, Industry Legend
 * Anne Halsall
 * *Aral Balkan*
