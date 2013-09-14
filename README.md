@@ -70,6 +70,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Louie Mantia
 * __Marcus Zarra, Empirical Development__
 * Marga Keuvelaar
+* Martinus Meiborg, Appsterdam
 * __Matt Drance, Bookhouse Software, Industry Legend__
 * __Matt Legend Gemmell__
 * Matteo Manferdini
