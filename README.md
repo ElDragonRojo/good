@@ -27,6 +27,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Bill Bumgarner, Apple, Industry Legend__
 * __Bill Dudney__
 * __Bolot Kerimbaev, Big Nerd Ranch__
+* Boris Veldhuijzen van Zanten, The Next Web
 * __Brent Simmons, Industry Legend__
 * Brianna Wu, Giant Spacekat
 *	__Cabel Sasser, Panic, Industry Legend__
@@ -45,6 +46,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dave Thomas, Bedarra Research Labs
 *	*Dave Wiskus*
 *	David Chartier
+*	David Lanham
 *	Diederik Hoogenboom, Obvious Matter
 *	Drew McCormack, Mental Faculty
 *	Edward Marczak
@@ -53,6 +55,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Erik Meijer
 *	Erik Romijn
 *	Federico Viticci
+*	Floris van Alkemade
 *	Fraser Spiers
 *	__Graham Lee__
 * __Guy English, Aged and Distilled__
@@ -60,6 +63,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __*Hernan Pelassini*__
 * James Thomson, PCalc
 * Jana Boruta
+* Jason Harris
 * Jason Snell
 *	Jay Freeman
 * __Jeff LaMarche, MartianCraft__
@@ -70,6 +74,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jonathan Penn
 * *Jonathan Wight*
 * Jørn Larsen, Trifork Software
+* Jorn van Dijk
 * __Josh Michaels__
 * __Judy Chen, Appsterdam__
 * Justin Williams
@@ -95,7 +100,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Neven Mrgan, Panic
 *	Nicole Wilker
 *	Pat Costaldo
+*	Patrick de Laive, The Next Web
 *	Paul Darcey
+*	Paul de Medeiros
 *	Paul van Dijk
 *	__Peter Cohen__
 *	__Peter Hosey__
@@ -103,11 +110,13 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Richard Branson, Virgin, Industry Legend
 * __Rob Rhyne, MartianCraft__
 * Ros (Hodgekiss) De Vries
+* Sam Noble
 * __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
 * Scott Perry
 * Sebastiaan de With
 * Simon Wolf
+* Soesanto Arp
 * __Steve "Scotty" Scott, NSConference, Industry Legend__
 * Steven Frank, Panic
 * __Stephen Ives, Smirk Design__
@@ -117,3 +126,4 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Victor Agreda, Jr., TUAW__
 * Vinay Gupta
 * __*Wil Shipley*, Delicious Monster, Industry Legend__
+* Zee Kane, The Next Web
