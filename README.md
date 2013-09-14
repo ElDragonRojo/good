@@ -119,7 +119,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Joe Ricioppo__
 * __John Fox__
 * John Geleynse, [Apple]
-*	[John Gruber](https://twitter.com/gruber)
+*	[*John Gruber*](https://twitter.com/gruber)
 * __[John Wilker](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), Industry Legend__
 * Jonathan Carter, [Glimworm]
 * Jonathan Deutsch
