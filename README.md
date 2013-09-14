@@ -71,6 +71,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
 *	Pat Costaldo
+*	Paul Darcey
 *	__Peter Cohen__
 *	__Peter Hosey__
 *	__Rachel Kinkade__
