@@ -42,6 +42,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dave Hayden, Puzzllotto Champion
 * Dave Thomas, Bedarra Research Labs
 *	Dave Wiskus
+*	David Chartier
 *	Edward Marczak
 *	Erik Meijer
 *	Federico Viticci
