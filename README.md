@@ -50,6 +50,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Fraser Spiers
 *	__Graham Lee__
 * __Guy English, Aged and Distilled__
+* Guy Kawasaki, Industry Legend
 * __Hernan Pelassini__
 * Jana Boruta
 * Jason Snell
