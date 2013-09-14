@@ -42,7 +42,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Daniel Pasco](https://twitter.com/dlpasco), Black Pixel__
 * Dave Hayden, Puzzllotto Champion
 * [Dave Thomas](http://www.davethomas.net), Bedarra Research Labs
-*	[Dave Wiskus](https://twitter.com/dwiskus)
+*	*[Dave Wiskus](https://twitter.com/dwiskus)*
 *	David Chartier
 *	Diederik Hoogenboom, Obvious Matter
 *	Drew McCormack, Mental Faculty
@@ -56,8 +56,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__[Graham Lee](https://twitter.com/secboffin)__
 * __[Guy English](https://twitter.com/gte), Aged and Distilled__
 * Guy Kawasaki, Industry Legend
-* __*Hernan Pelassini*__
-* __[Hernan Pelassini](https://twitter.com/hernanp)__
+* __*[Hernan Pelassini](https://twitter.com/hernanp)*__
 * James Thomson, PCalc
 * Jana Boruta
 * Jason Snell
@@ -75,8 +74,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Justin Williams
 * __Klaas Speller__
 *	*Kyle Kinkade*
-* __Kyle Richter, Empirical Development__
-* *Louie Mantia*
+* __Kyle Richter, [Empirical Development]__
+* *[Louie Mantia](http://http://dribbble.com/mantia)*
 * __Marcus Zarra, Empirical Development__
 * Marga Keuvelaar, Obvious Matter
 * Mark Pospesel
@@ -114,7 +113,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tristan O'Tierney__
 * __[Victor Agreda, Jr.](https://twitter.com/superpixels), [TUAW](http://www.tuaw.com)__
 * Vinay Gupta
-* __[Wil Shipley](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend__
+* __*[Wil Shipley](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend*__
 
 [Black Pixel]: http://blackpixel.com/
 [Big Nerd Ranch]: http://bignerdranch.com
