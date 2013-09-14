@@ -111,6 +111,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jason Harris
 * Jason Snell
 *	Jay Freeman
+*	Jay Thrash [{@}](https://twitter.com/jaythrash)
 * __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
 * Jeremy Bierbach, Avocado Legal
 * Jerrol Spier
