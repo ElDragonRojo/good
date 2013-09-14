@@ -8,11 +8,11 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 
 * [Big Nerd Ranch]
 *	[Black Pixel]
-*	Double Encore
+*	[Double Encore]
 *	[Empirical Development]
 *	[Fingertips](http://www.fngtps.com)
 *	[Glimworm]
-*	Iconfactory
+*	[Iconfactory]
 *	[MartianCraft]
 *	[Panic]
 *	[PushIO]
@@ -62,6 +62,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Colin Barrett
 * __Collin Donnell__
 * __Corbin Dunn, Apple, Industry Legend__
+* Dan Burcaw, [Double Encore]
 * Dan Weeks
 * Daniel Jalkut
 * __[Daniel Pasco](https://twitter.com/dlpasco), Black Pixel__
@@ -240,8 +241,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Appsterdam]: http://appsterdam.rs
 [Big Nerd Ranch]: http://bignerdranch.com
 [Black Pixel]: http://blackpixel.com/
+[Double Encore]: http://www.doubleencore.com
 [Empirical Development]: http://www.empiricaldevelopment.com
 [Glimworm]: http://www.glimworm.com
+[Iconfactory]: http://iconfactory.com
 [MartianCraft]: http://martiancraft.com
 [New Lemurs]: http://newlemurs.com
 [Pacific Helm]: http://pacifichelm.com
