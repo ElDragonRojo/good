@@ -47,6 +47,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Diederik Hoogenboom, Obvious Matter
 *	Drew McCormack, Mental Faculty
 *	Edward Marczak
+*	Elon Musk, SpaceX, Tesla
 *	Erik Meijer
 *	Federico Viticci
 *	Fraser Spiers
@@ -92,11 +93,13 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Peter Cohen__
 *	__Peter Hosey__
 *	__Rachel Kinkade__
+*	Richard Branson, Virgin, Industry Legend
 * __Rob Rhyne, MartianCraft__
 * Ros (Hodgekiss) De Vries
 * __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
 * Sebastiaan de With
+* Simon Wolf
 * __Steve "Scotty" Scott, NSConference, Industry Legend__
 * Steven Frank, Panic
 * __Stephen Ives, Smirk Design__
