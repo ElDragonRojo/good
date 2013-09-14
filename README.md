@@ -20,9 +20,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 
 * __[Aaron Hillegass](https://twitter.com/aaronhillegass), [Big Nerd Ranch], Industry Legend__
 * Aaron Tuller
-* __[Alexander Repty](https://twitter.com/arepty)__
 * Adam Swift
-* __Alexander Repty__
+* __[Alexander Repty](https://twitter.com/arepty)__
 * Allan Schaffer, Apple
 * Amber Cataldo
 * Amber Conville, Detroit Labs
@@ -133,15 +132,15 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Keith Duncan, GitHub
 * __Kevin Avila__
 * Kirby Turner
-* __Klaas Speller__
+* __[Klaas Speller](https://twitter.com/spllr)__
 *	*Kyle Kinkade*
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
 * Lauwrens Metz
-* *[Louie Mantia](http://http://dribbble.com/mantia)*
+* *[Louie Mantia](http://http://dribbble.com/mantia), Pacific Helm*
 * Lucius Kwok
 * Magnus Dahl
-* Marcel Speller, Big Nerd Ranch
+* Marcel Speller, [Big Nerd Ranch]
 * __Marcus Zarra, Empirical Development__
 * Marga Keuvelaar, Obvious Matter
 * Mark Johns
@@ -150,7 +149,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Mark Pospesel
 * Mark Voermans, Microsoft
 * Martin Adoue
-* Martinus Meiborg, Appsterdam
+* Martinus Meiborg, [Appsterdam]
 * __Matt Drance, Bookhouse Software, Industry Legend__
 * Matt Feigal
 * __[Matt Legend Gemmell](https://twitter.com/mattgemmell)__
@@ -216,6 +215,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Vinay Gupta
 * Whitney Deathrage
 * __*[Wil Shipley](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend*__
+* William Mottl
+* Zee Kane, The Next Web
 
 [Black Pixel]: http://blackpixel.com/
 [Big Nerd Ranch]: http://bignerdranch.com
@@ -225,6 +226,3 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Empirical Development]: http://www.empiricaldevelopment.com
 [MartianCraft]: http://martiancraft.com
 [Appsterdam]: http://appsterdam.rs
-* William Mottl
-* __*Wil Shipley*, Delicious Monster, Industry Legend__
-* Zee Kane, The Next Web
