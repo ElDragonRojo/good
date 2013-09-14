@@ -85,6 +85,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Nathan De Vries
 * __Nathan Eror, Empirical Development__
 *	Neven Mrgan, Panic
+*	Nicole Wilker
 *	Pat Costaldo
 *	Paul Darcey
 *	Paul van Dijk
