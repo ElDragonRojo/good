@@ -212,6 +212,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Scott Lopatin__
 * Scott McAlister
 * Scott Perry
+* [Sebastiaan Capel](http://sebastiaancapel.nl/pages/english)
 * Sebastiaan de With
 * Shaan Pruden, [Apple]
 * Simon Wolf
