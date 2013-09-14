@@ -48,7 +48,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Neven Mrgan, Panic
 *	_Peter Hosey_
 * __Rob Rhyne, MartianCraft__
-* __Samuel Goodwin__
+* __Samuel Goodwin, Roundwall Software__
 * __Saul Mora, Magical Panda__
 * __Steve "Scotty" Scott, NSConference, Industry Legend__
 * Steven Frank, Panic
