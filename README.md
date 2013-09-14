@@ -41,7 +41,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Blake Chaffin
 * __[Bolot Kerimbaev](https://twitter.com/bolot), [Big Nerd Ranch]__
 * Boris Veldhuijzen van Zanten, The Next Web
-* Bradley Ellis, Pacific Helm
+* Bradley Ellis, [Pacific Helm]
 * __[Brent Simmons](https://twitter.com/brentsimmons), Industry Legend__
 * Brian LeRoux
 * Brianna Wu, Giant Spacekat
@@ -110,7 +110,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
 * Jeremy Bierbach, Avocado Legal
 * Jessi Chartier
-* Jessica Char, Pacific Helm
+* Jessica Char, [Pacific Helm]
 * Jim Dalrymple, Industry Legend
 * __[Joe Pezzillo](https://twitter.com/ejoep), [PushIO], Industry Legend__
 * __Joe Ricioppo__
@@ -141,7 +141,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
 * Lauwrens Metz
-* *[Louie Mantia](http://http://dribbble.com/mantia)*
+* *[Louie Mantia](http://http://dribbble.com/mantia), [Pacific Helm]*
 * Lucius Kwok
 * Magnus Dahl
 * Marcel Speller, [Big Nerd Ranch]
@@ -234,5 +234,6 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Glimworm]: http://www.glimworm.com
 [MartianCraft]: http://martiancraft.com
 [New Lemurs]: http://newlemurs.com
+[Pacific Helm]: http://pacifichelm.com
 [Panic]: http://panic.com
 [PushIO]: http://push.io
