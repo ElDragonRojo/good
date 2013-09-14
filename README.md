@@ -54,6 +54,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jonathan Wight
 * Jørn Larsen, Trifork Software
 * __Josh Michaels__
+* __Judy Chen, Appsterdam__
 * __Klaas Speller__
 *	Kyle Kinkade
 * __Kyle Richter, Empirical Development__
