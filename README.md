@@ -65,6 +65,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dan Burcaw, [Double Encore]
 * Dan Weeks
 * Daniel Jalkut
+* [Daniel Jilg](http://breakthesystem.org) [{@}](https://twitter.com/breakthesystem)
 * __[Daniel Pasco](https://twitter.com/dlpasco), Black Pixel__
 * Dave Hayden, Puzzllotto Champion
 * [Dave Thomas](http://www.davethomas.net), Bedarra Research Labs
