@@ -145,6 +145,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
 * Lauwrens Metz
+* [Lindsay Giachetti](dribbble.com/lgiachetti), [Double Encore]
 * [*Louie Mantia*](http://http://dribbble.com/mantia), [Pacific Helm]
 * Lucius Kwok
 * Magnus Dahl
