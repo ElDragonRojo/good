@@ -98,7 +98,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * [Hans verschooten](https://twitter.com/hansv)
 * Dr. Helge Staedtler
 * Henry Balanon
-* __*[Hernan Pelassini](https://twitter.com/hernanp)*__
+* __[*Hernan Pelassini*](https://twitter.com/hernanp)__
 * Ian Baird
 * Ivo Jansch, Egeniq
 * Jacqui Cheng
@@ -144,7 +144,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
 * Lauwrens Metz
-* *[Louie Mantia](http://http://dribbble.com/mantia), [Pacific Helm]*
+* [*Louie Mantia*](http://http://dribbble.com/mantia), [Pacific Helm]
 * Lucius Kwok
 * Magnus Dahl
 * Marcel Speller, [Big Nerd Ranch]
@@ -230,7 +230,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Victor Agreda, Jr.](https://twitter.com/superpixels), [TUAW](http://www.tuaw.com)__
 * Vinay Gupta
 * Whitney Deathrage
-* __*[Wil Shipley](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend*__
+* __[*Wil Shipley*](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend__
 * William Mottl
 * Zee Kane, The Next Web
 
