@@ -52,7 +52,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Charles Perry
 *	Chris Adamson
 * __Chris Clark__
-* *Chris Espinoza*, [Apple], Industry Legend
+* *Chris Espinosa*, [Apple], Industry Legend
 * Chris Foresman
 * Chris Nebel
 * __Chris Parrish, Aged and Distilled__
