@@ -22,6 +22,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Aaron Hillegass](https://twitter.com/aaronhillegass), [Big Nerd Ranch], Industry Legend__
 * Aaron Tuller
 * Adam Swift
+* Alex Lagutin, [Rogue Amoeba]
 * __[Alexander Repty](https://twitter.com/arepty)__
 * Allan Schaffer, [Apple]
 * Amber Cataldo
@@ -191,7 +192,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Patrick de Laive, The Next Web
 *	[Paul Darcey](https://twitter.com/pauldarcey)
 *	Paul de Medeiros
-*	Paul Kafasis, Rogue Amoeba
+*	Paul Kafasis, [Rogue Amoeba]
 *	Paul Manwaring, [Glimworm]
 *	Paul van Dijk
 *	__Peter Cohen__
@@ -199,6 +200,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Peter Mitchell
 *	Peter Robinett
 *	Peter Tuszynski
+*	Quentin Carnicelli, [Rogue Amoeba]
 *	__Rachel Kinkade__
 *	Raul Portales
 *	[Ray Wenderlich](https://twitter.com/rwenderlich)
