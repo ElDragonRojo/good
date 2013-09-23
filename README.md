@@ -22,11 +22,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Aaron Hillegass](https://twitter.com/aaronhillegass), [Big Nerd Ranch], Industry Legend__
 * Aaron Tuller
 * Adam Swift
+* Adrian Kosmaczewski
 * Alex Lagutin, [Rogue Amoeba]
+* Alexander Klöpping
 * __[Alexander Repty](https://twitter.com/arepty)__
 * Allan Schaffer, [Apple]
 * Amber Cataldo
 * Amber Conville, Detroit Labs
+* Amy Hoy
 * Amy Worrall
 * André LaBranche
 * *Andrew Kimpel*
@@ -35,6 +38,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * *Aral Balkan*
 * August "Gus" Mueller, Flying Meat
 * Ben Jackson
+* Ben Scheirman
 * Ben Trumbull
 * Beth Massa, Microsoft
 * __Bill Bumgarner, Apple, Industry Legend__
@@ -70,6 +74,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Daniel Jalkut
 * [Daniel Jilg](http://breakthesystem.org) [{@}](https://twitter.com/breakthesystem)
 * __[Daniel Pasco](https://twitter.com/dlpasco), Black Pixel__
+* Dave Addey
+* Dave DeLong, Apple
 * Dave Hayden, Puzzllotto Champion
 * [Dave Thomas](http://www.davethomas.net), Bedarra Research Labs
 *	*[Dave Wiskus](https://twitter.com/dwiskus)*
@@ -83,6 +89,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Dieter Oude Kotte, City of Amsterdam
 *	Dirk Stoop
 * Don Ritzen, Rockstart
+* *Doug Russell*
 *	Drew McCormack, Mental Faculty
 *	Ed Wynne, [Rogue Amoeba]
 *	Edward Marczak
@@ -92,12 +99,15 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Erik Meijer](http://www.linkedin.com/pub/erik-meijer/0/5ba/924)
 *	Erik Rietveld
 *	Erik Romijn
+*	Evadne Wu
+*	Faruk Ates
 *	Federico Viticci
 *	Felix Lepoutre
 *	Florian Brueckner
 *	Floris van Alkemade, [New Lemurs]
 *	Fraser Spiers
 *	George Dick, [Black Pixel]
+*	Gerald Hensel
 *	__[Graham Lee](https://twitter.com/secboffin)__
 *	Grant Farr, [Rogue Amoeba]
 * __[Guy English](https://twitter.com/gte), Aged and Distilled__
@@ -119,7 +129,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Jay Thrash [{𝝰}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
 *	Jeff Johnson, [Rogue Amoeba]
 * __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
+* Jennifer Newell
 * Jeremy Bierbach, Avocado Legal
+* Jerica Lurve
 * Jerrol Spier
 * Jessi Chartier
 * Jessica Char, [Pacific Helm]
@@ -143,10 +155,13 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Josh Clark, "Tapworthy"
 * __Josh Michaels__
 * __[Judy Chen](https://twitter.com/judykitteh), [Appsterdam]__
+* Judy Hoctor
 * Justin Williams
 * Kai Cherry
 * Keith Duncan, GitHub
 * __Kevin Avila__
+* Kevin Ballard
+* Kevin Hoctor
 * Kirby Turner
 * __[*Klaas Speller*](https://twitter.com/spllr)__
 * Krzysztof Zabłocki
@@ -154,7 +169,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
 * Lauwrens Metz
+* Layton Duncan
 * Lee Falin, [Rogue Amoeba]
+* Lex Friedman
 * Lindsay Giachetti [{@}](https://twitter.com/lgiachetti) [{d}](http://dribbble.com/lgiachetti), [Double Encore]
 * [*Louie Mantia*](http://http://dribbble.com/mantia), [Pacific Helm]
 * Lucius Kwok
@@ -162,6 +179,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Marcel Speller, [Big Nerd Ranch]
 * __Marcus Zarra, Empirical Development__
 * Marga Keuvelaar, Obvious Matter
+* Mark Boscko
 * Mark Johns
 * Mark Malone, [Apple]
 * Mark Pauley
@@ -193,6 +211,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Nathan Eror, [Empirical Development]__
 *	Neven Mrgan, [Panic]
 *	Nicole Wilker
+*	Pamela Fox
 *	Pat Costaldo
 *	Patrick Burleson
 *	Patrick de Laive, The Next Web
@@ -205,20 +224,24 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__[Peter Hosey](https://twitter.com/boredzo)__
 *	Peter Mitchell
 *	Peter Robinett
+*	Peter Steinberger
 *	Peter Tuszynski
 *	Quentin Carnicelli, [Rogue Amoeba]
 *	__Rachel Kinkade__
 *	Raul Portales
 *	[Ray Wenderlich](https://twitter.com/rwenderlich)
+*	Rene Ritchie
 *	Rich Siegel, BBEdit, Industry Legend
 *	Richard Branson, Virgin, Industry Legend
 *	Richard Feldman
+*	Rick Ballard
 *	Robb Albright
 * __[*Rob Rhyne*](https://twitter.com/capttaco), [MartianCraft]__
 * Ron Jones
 * Ronald Rietveld
 * Ros (Hodgekiss) De Vries
 * Ryan Nielsen
+* Sal Conigliaro
 * *Sam Noble*
 * __[Samuel Goodwin](https://twitter.com/samuelgoodwin), [Roundwall Software](http://roundwallsoftware.com)__
 * __[Saul Mora](https://twitter.com/casademora), [Magical Panda](http://magicalpanda.com)__
@@ -228,15 +251,18 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * [Sebastiaan Capel](http://sebastiaancapel.nl/pages/english)
 * Sebastiaan de With
 * Shaan Pruden, [Apple]
+* Shawn Grimes
 * Simon Wolf
 * Soesanto Arp
-* Sophia Teutschler
+* Sophia Teutschler, Apple
+* Stephanie Grimes
 * __[Steve "Scotty" Scott](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), Industry Legend__
 * Steven Frank, [Panic]
 * __Stephen Ives, Smirk Design__
 * __[Tara Ross](https://twitter.com/tross6), [Appsterdam]__
 * Timo de Winter
 * Tom Clark, [Apple]
+* Tom Harrington
 * [Tom Maes](https://twitter.com/tmaes)
 * __[Tom Ortega](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)__
 * [*Tom Santero*](https://twitter.com/tsantero)
@@ -244,9 +270,12 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Vicki Wenderlich](https://twitter.com/vwenderlich)
 * __[Victor Agreda, Jr.](https://twitter.com/superpixels), [TUAW](http://www.tuaw.com)__
 * Vinay Gupta
+* Volker Mohr
 * Whitney Deathrage
 * __[*Wil Shipley*](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), Industry Legend__
 * William Mottl
+* William Scarvie
+* Zbigniew Sobiecki
 * Zee Kane, The Next Web
 
 [Apple]: http://apple.com
