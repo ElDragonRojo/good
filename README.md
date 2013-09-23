@@ -125,7 +125,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Felix Lepoutre
 *	Florian Brueckner
 *	Floris van Alkemade, [New Lemurs]
-*	Fraser Speirs [{@}](https://twitter.com/FraserSpeirs)
+*	[Fraser Speirs](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	George Dick, [Black Pixel]
 *	Gerald Hensel
 *	Giovanni Maggini
