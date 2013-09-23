@@ -158,6 +158,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jeff Atwood
 *	Jeff Johnson, [Rogue Amoeba]
 * __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
+* [Jeff McLeman](http://about.me/Jeffmc) [{@}](https://twitter.com/jeffmc), [Black Pixel]
 * Jennifer Newell
 * Jeremy Bierbach, Avocado Legal
 * Jerica Lurve
