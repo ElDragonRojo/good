@@ -10,7 +10,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Black Pixel]
 *	[Double Encore]
 *	[Empirical Development]
-*	[Fingertips](http://www.fngtps.com)
+*	[Fingertips]
 *	[Glimworm]
 *	[Iconfactory]
 *	[MartianCraft]
