@@ -172,6 +172,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __John Fox__
 * John Geleynse, [Apple]
 *	[*John Gruber*](https://twitter.com/gruber)
+*	[John Moltz](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
 *	*John Randolph*, Industry Legend
 *	*John Welch*
 * __[John Wilker](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), Industry Legend__
