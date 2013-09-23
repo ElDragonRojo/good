@@ -318,6 +318,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Tara Ross](https://twitter.com/tross6), [Appsterdam]__
 * Terry Cabeen
 * Thad McDowell
+* [*Thijs van der Vossen*](http://www.vandervossen.net), [Fingertips] [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen)
 * Thomas Muldowney
 * Tim Wood
 * Timo de Winter
@@ -345,6 +346,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Black Pixel]: http://blackpixel.com/
 [Double Encore]: http://www.doubleencore.com
 [Empirical Development]: http://www.empiricaldevelopment.com
+[Fingertips]: http://www.fngtps.com
 [Glimworm]: http://www.glimworm.com
 [Iconfactory]: http://iconfactory.com
 [MartianCraft]: http://martiancraft.com
