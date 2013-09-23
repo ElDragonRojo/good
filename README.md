@@ -133,6 +133,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jordan Breeding, [Apple]
 * Jørn Larsen, Trifork Software
 * Jorn van Dijk
+* [Jose Vazquez](@josevazquez), NSCoderNightDC, [Rogue Amoeba]
 * Josh Clark, "Tapworthy"
 * __Josh Michaels__
 * __[Judy Chen](https://twitter.com/judykitteh), [Appsterdam]__
