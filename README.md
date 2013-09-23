@@ -249,6 +249,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Michael Lowdermilk__
 * Michele Titolo
 * Michelle Yaiser
+* [*Mike Ash*](http://mikeash.com) [{@}](https://twitter.com/mikeash)
 * [Mike Cohen](https://twitter.com/mike3k)
 * *Mike Matas*
 * *Mike Monteiro*
