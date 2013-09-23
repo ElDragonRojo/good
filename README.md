@@ -270,6 +270,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Pat Costaldo
 *	Patrick Burleson
 *	Patrick de Laive, The Next Web
+*	[Patrick Gibson](http://fadeover.org) [{@}](https://twitter.com/patr1ck), [Pacific Helm]
 *	[Paul Darcey](https://twitter.com/pauldarcey)
 *	Paul de Medeiros
 *	Paul Kafasis, [Rogue Amoeba]
