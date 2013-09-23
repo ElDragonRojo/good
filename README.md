@@ -46,7 +46,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ben Scheirman
 * Ben Trumbull
 * Beth Massa, Microsoft
-* __Bill Bumgarner, Apple, Industry Legend__
+* __Bill Bumgarner [{@}](https://twitter.com/bbum), [Apple], Industry Legend__
 * __[Bill Dudney](https://twitter.com/bdudney)__
 * Blake Chaffin
 * __[Bolot Kerimbaev](https://twitter.com/bolot), [Big Nerd Ranch]__
@@ -146,7 +146,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * [Jake Behrens](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
-* James Dempsey, Industry Legend
+* James Dempsey [{@}](https://twitter.com/JamesDempsey), Industry Legend
 * James Thomson, PCalc
 * Jana Boruta
 * Jane Lee [{G+}](https://plus.google.com/117394978411570387460)
