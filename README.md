@@ -62,18 +62,18 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Casper Koomen
 *	Cesare Rocchi
 *	Charles Perry
-*	Chris Adamson
+*	[Chris Adamson](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 *	Chris Barajas, [Rogue Amoeba]
 * __Chris Clark__
 * *Chris Espinosa*, [Apple], Industry Legend
 * Chris Foresman
+* [Chris Le Petit](https://twitter.com/clepetit)
 * Chris Nebel
 * __Chris Parrish, Aged and Distilled__
 * Christa Mrgan, [Rogue Amoeba]
 * [Christopher Phin](https://twitter.com/chrisphin)
 * Chuck Toporek
 * Cindy Morris
-* [Chris Le Petit](https://twitter.com/clepetit)
 * Colin Barrett
 * __Collin Donnell__
 * __Corbin Dunn, Apple, Industry Legend__
@@ -200,7 +200,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Kelly Somers
 * [Ken Aspeslagh](https://twitter.com/massivevector)
 * Ken Case
-* __Kevin Avila__
+* __Kevin Avila__, ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 * Kevin Ballard
 * Kevin Hoctor
 * Kirby Turner
