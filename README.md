@@ -52,11 +52,13 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Cesare Rocchi
 *	Charles Perry
 *	Chris Adamson
+*	Chris Barajas, [Rogue Amoeba]
 * __Chris Clark__
 * *Chris Espinosa*, [Apple], Industry Legend
 * Chris Foresman
 * Chris Nebel
 * __Chris Parrish, Aged and Distilled__
+* Christa Mrgan, [Rogue Amoeba]
 * [Christopher Phin](https://twitter.com/chrisphin)
 * Chuck Toporek
 * Cindy Morris
@@ -82,6 +84,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Dirk Stoop
 * Don Ritzen, Rockstart
 *	Drew McCormack, Mental Faculty
+*	Ed Wynne, [Rogue Amoeba]
 *	Edward Marczak
 *	Elon Musk, SpaceX, Tesla
 * Eloy Durán
@@ -96,6 +99,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Fraser Spiers
 *	George Dick, [Black Pixel]
 *	__[Graham Lee](https://twitter.com/secboffin)__
+*	Grant Farr, [Rogue Amoeba]
 * __[Guy English](https://twitter.com/gte), Aged and Distilled__
 * Guy Kawasaki, Industry Legend
 * [Hans verschooten](https://twitter.com/hansv)
@@ -113,6 +117,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jason Snell
 *	Jay Freeman
 *	Jay Thrash [{𝝰}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
+*	Jeff Johnson, [Rogue Amoeba]
 * __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
 * Jeremy Bierbach, Avocado Legal
 * Jerrol Spier
@@ -149,6 +154,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Kyle Richter, [Empirical Development]__
 * Laurens Bon
 * Lauwrens Metz
+* Lee Falin, [Rogue Amoeba]
 * Lindsay Giachetti [{@}](https://twitter.com/lgiachetti) [{d}](http://dribbble.com/lgiachetti), [Double Encore]
 * [*Louie Mantia*](http://http://dribbble.com/mantia), [Pacific Helm]
 * Lucius Kwok
