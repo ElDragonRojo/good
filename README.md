@@ -318,7 +318,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Tara Ross](https://twitter.com/tross6), [Appsterdam]__
 * Terry Cabeen
 * Thad McDowell
-* [*Thijs van der Vossen*](http://www.vandervossen.net), [Fingertips] [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen)
+* [*Thijs van der Vossen*](http://www.vandervossen.net) [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen), [Fingertips] 
 * Thomas Muldowney
 * Tim Wood
 * Timo de Winter
