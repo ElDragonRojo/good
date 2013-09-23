@@ -40,6 +40,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Anne Halsall
 * *Aral Balkan*
 * Ariel Michaeli
+* Ash Furrow
 * August "Gus" Mueller, Flying Meat
 * Ben Jackson
 * Ben Scheirman
@@ -117,6 +118,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Erik Rietveld
 *	Erik Romijn
 *	Evadne Wu
+*	Evan Davis
 *	Faruk Ates
 *	Federico Viticci
 *	Felix Lepoutre
@@ -185,6 +187,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jorn van Dijk
 * [Jose Vazquez](@josevazquez), NSCoderNightDC, [Rogue Amoeba]
 * Josh Clark, "Tapworthy"
+* Josh Johnson
 * __Josh Michaels__
 * Joshua McKenty
 * __[Judy Chen](https://twitter.com/judykitteh), [Appsterdam]__
@@ -313,6 +316,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Stephen Ives, Smirk Design__
 * __[Tara Ross](https://twitter.com/tross6), [Appsterdam]__
 * Terry Cabeen
+* Thad McDowell
 * Thomas Muldowney
 * Tim Wood
 * Timo de Winter
