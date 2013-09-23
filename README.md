@@ -70,6 +70,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * [Chris Le Petit](https://twitter.com/clepetit)
 * Chris Nebel
 * __Chris Parrish, Aged and Distilled__
+* Chris Walters [{@}](https://twitter.com/chwalters)
 * Christa Mrgan, [Rogue Amoeba]
 * [Christopher Phin](https://twitter.com/chrisphin)
 * Chuck Toporek
@@ -144,7 +145,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jacqui Cheng
 * [Jake Behrens](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
-* James Dempsey
+* James Cox [{@}](https://twitter.com/JamesAaronCox)
+* James Dempsey, Industry Legend
 * James Thomson, PCalc
 * Jana Boruta
 * Jane Lee [{G+}](https://plus.google.com/117394978411570387460)
