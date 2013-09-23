@@ -252,6 +252,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Michael Lowdermilk__
 * Michele Titolo
 * Michelle Yaiser
+* [Michiel de Graaf](http://www.michieldegraaf.com) [{@}](https://twitter.com/graafdemichiel) [{d}](http://dribbble.com/michieldegraaf)
 * [*Mike Ash*](http://mikeash.com) [{@}](https://twitter.com/mikeash)
 * [Mike Cohen](https://twitter.com/mike3k)
 * *Mike Matas*
