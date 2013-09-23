@@ -52,8 +52,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Boris Veldhuijzen van Zanten, The Next Web
 * Bradley Ellis, [Pacific Helm]
 * __[Brent Simmons](https://twitter.com/brentsimmons), Industry Legend__
-* Brian LeRoux
-* Brianna Wu, Giant Spacekat
+* Brian LeRoux 
+* Brianna Wu, Giant Spacekat [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal)
 *	__Cabel Sasser, [Panic], Industry Legend__
 *	Carl Brown, King of Demos [{@}](https://twitter.com/CarlBrwn)
 *	Carolien Gehrels, City of Amsterdam
