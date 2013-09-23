@@ -65,7 +65,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Chris Adamson](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 *	Chris Barajas, [Rogue Amoeba]
 * __Chris Clark__
-* *Chris Espinosa*, [Apple], Industry Legend
+* *Chris Espinosa* [{@}](https://twitter.com/cdespinosa), [Apple], Industry Legend
 * Chris Foresman
 * [Chris Le Petit](https://twitter.com/clepetit)
 * Chris Nebel
