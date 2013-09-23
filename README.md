@@ -87,7 +87,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dan Weeks
 * Dan Wood
 * Daniel Jalkut
-* [Daniel Jilg](http://breakthesystem.org) [{@}](https://twitter.com/breakthesystem)
+* [Daniel Jilg](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
 * __[Daniel Pasco](https://twitter.com/dlpasco), Black Pixel__
 * Dave Addey
 * Dave DeLong, Apple
