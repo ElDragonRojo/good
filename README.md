@@ -142,7 +142,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ivo Jansch, Egeniq
 * Jack Brewster
 * Jacqui Cheng
-* Jake Behrens, [Apple]
+* [Jake Behrens](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
 * James Dempsey
 * James Thomson, PCalc
