@@ -108,7 +108,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Drew McCormack, Mental Faculty
 *	Duncan Davidson
 *	[Duncan Wilcox](https://twitter.com/duncanwilcox)
-*	Ed Wynne, [Rogue Amoeba]
+*	__Ed Wynne, [Rogue Amoeba]__
 *	Edward Marczak
 *	Eli Hodapp
 *	Elon Musk, SpaceX, Tesla
@@ -296,6 +296,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ron Jones
 * Ronald Rietveld
 * Ros (Hodgekiss) De Vries
+* *Rudy Richter*
 * Ryan Nielsen
 * Sal Conigliaro
 * *Sam Noble*
