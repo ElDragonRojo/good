@@ -265,6 +265,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Nathan De Vries
 * __Nathan Eror, [Empirical Development]__
 * [Neil Inglis](http://neilinglis.com/)  [{@}](https://twitter.com/neilinglis)
+*	Nevan King [{@}](https://twitter.com/NevanKing)
 *	Neven Mrgan, [Panic]
 *	Nicole Wilker
 *	Pam Lefkowitz
