@@ -27,10 +27,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Alex Blewitt
 * Alex Lagutin, [Rogue Amoeba]
 * Alexander Griekspoor
-* Alexander Klöpping
+* Alexander Klöpping [{@}](https://twitter.com/AlexanderNL)
 * __[Alexander Repty](https://twitter.com/arepty)__
 * Allan Schaffer, [Apple]
-* Amber Cataldo
+* Amber Castaldo
 * Amber Conville, Detroit Labs
 * Amy Hoy
 * Amy Worrall
