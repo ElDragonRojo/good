@@ -21,6 +21,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 
 * __[Aaron Hillegass](https://twitter.com/aaronhillegass), [Big Nerd Ranch], Industry Legend__
 * Aaron Tuller
+* [Adam Betts](http://www.artofadambetts.com) [{@}](https://twitter.com/AdamBetts)
 * Adam Swift
 * Adrian Kosmaczewski
 * Alan Francis
@@ -55,6 +56,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __[Brent Simmons](https://twitter.com/brentsimmons), Industry Legend__
 * Brian LeRoux 
 * Brianna Wu, Giant Spacekat [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal)
+* [Bryan Bell](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 *	__Cabel Sasser, [Panic], Industry Legend__
 *	Carl Brown, King of Demos [{@}](https://twitter.com/CarlBrwn)
 *	Carolien Gehrels, City of Amsterdam
