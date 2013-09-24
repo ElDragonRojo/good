@@ -135,10 +135,11 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Glen Aspeslagh](https://twitter.com/pimpinglen)
 *	__[Graham Lee](https://twitter.com/secboffin)__
 *	Grant Farr, [Rogue Amoeba]
+*	[Greg Parker](http://www.sealiesoftware.com)
 * __[Guy English](https://twitter.com/gte), Aged and Distilled__
 * Guy Kawasaki, Industry Legend
-* Halle Winkler
-* [Hans verschooten](https://twitter.com/hansv)
+* Halle Winkler [{@}](https://twitter.com/Politepix)
+* Hans verschooten [{@}](https://twitter.com/hansv)
 * Dr. Helge Staedtler
 * Henry Balanon
 * __[*Hernan Pelassini*](https://twitter.com/hernanp)__
