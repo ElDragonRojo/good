@@ -127,15 +127,15 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Felix Lepoutre
 *	Florian Brueckner
 *	Floris van Alkemade, [New Lemurs]
-*	[Fraser Speirs](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
+*	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	George Dick, [Black Pixel]
 *	George Warner, [Apple]
 *	Gerald Hensel
 *	Giovanni Maggini
-*	[Glen Aspeslagh](https://twitter.com/pimpinglen)
+*	Glen Aspeslagh [{@}](https://twitter.com/pimpinglen)
 *	__[Graham Lee](https://twitter.com/secboffin)__
 *	Grant Farr, [Rogue Amoeba]
-*	[Greg Parker](http://www.sealiesoftware.com)
+*	Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
 * __[Guy English](https://twitter.com/gte), Aged and Distilled__
 * Guy Kawasaki, Industry Legend
 * Halle Winkler [{@}](https://twitter.com/Politepix)
@@ -147,7 +147,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ivo Jansch, Egeniq
 * Jack Brewster
 * Jacqui Cheng
-* [Jake Behrens](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
+* Jake Behrens [{W3}](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
 * James Dempsey [{@}](https://twitter.com/JamesDempsey), Industry Legend
@@ -159,12 +159,12 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jason Harris
 * Jason Snell
 *	Jay Freeman
-*	Jay Thrash [{ùù∞}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
+*	Jay Thrash [{a}ÌΩ∞}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
 * Jed Wesley-Smith
 * Jeff Atwood
 *	Jeff Johnson, [Rogue Amoeba]
-* __[Jeff LaMarche](https://twitter.com/jeff_lamarche), [MartianCraft]__
-* [Jeff McLeman](http://about.me/Jeffmc) [{@}](https://twitter.com/jeffmc), [Black Pixel]
+* __Jeff LaMarche [{@}](https://twitter.com/jeff_lamarche), [MartianCraft]__
+* Jeff McLeman [{me}](http://about.me/Jeffmc) [{@}](https://twitter.com/jeffmc), [Black Pixel]
 * Jennifer Newell
 * Jeremy Bierbach, Avocado Legal
 * Jerica Lurve
@@ -174,15 +174,15 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jim Dalrymple, Industry Legend
 * Jim Dovey
 * Jiva DeVoe
-* __[Joe Pezzillo](https://twitter.com/ejoep), [PushIO], Industry Legend__
+* __Joe Pezzillo [{@}](https://twitter.com/ejoep), [PushIO], Industry Legend__
 * __Joe Ricioppo__
 * __John Fox__
 * John Geleynse, [Apple]
-*	[*John Gruber*](https://twitter.com/gruber)
-*	[John Moltz](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
+*	*John Gruber* [{@}](https://twitter.com/gruber)
+*	John Moltz [{W3}](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
 *	*John Randolph*, Industry Legend
 *	*John Welch*
-* __[John Wilker](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), Industry Legend__
+* __John Wilker [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), Industry Legend__
 * Jonah Neugass
 * Jonathan Carter, [Glimworm]
 * Jonathan Deutsch
@@ -198,7 +198,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Josh Johnson
 * __Josh Michaels__
 * Joshua McKenty
-* __[Judy Chen](https://twitter.com/judykitteh), [Appsterdam]__
+* __Judy Chen [{@}](https://twitter.com/judykitteh), [Appsterdam]__
 * Judy Hoctor
 * Justin Williams
 * Kai Cherry
