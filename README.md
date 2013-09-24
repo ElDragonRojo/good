@@ -148,7 +148,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Grant Farr, [Rogue Amoeba]
 *	Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
 * __Guy English__ [{@}](https://twitter.com/gte), [Aged and Distilled]
-* Guy Kawasaki, Industry Legend
+* Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), Industry Legend
 * Halle Winkler [{@}](https://twitter.com/Politepix)
 * Hans verschooten [{@}](https://twitter.com/hansv)
 * Dr. Helge Staedtler
@@ -250,8 +250,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Markus Nigrin
 * Martin Adoue
 * Martinus Meiborg, [Appsterdam]
-* Mathys van Abbe, Mobypicture
-* __Matt Drance__, Bookhouse Software, __Industry Legend__
+* Mathys van Abbe [{@}](https://twitter.com/mathys), [Mobypicture](http://mobypicture.com)
+* __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
