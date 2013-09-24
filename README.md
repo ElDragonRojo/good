@@ -72,7 +72,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Carl Brown [{@}](https://twitter.com/CarlBrwn), __King of Demos__
 *	Carolien Gehrels, City of Amsterdam
 *	Casey Fleser
-*	Casper Koomen
+*	Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
 *	Cesare Rocchi
 *	Charles Perry
 *	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
