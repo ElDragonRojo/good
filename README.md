@@ -90,7 +90,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Cindy Morris
 * Colin Barrett
 * __Collin Donnell__
-* __Corbin Dunn__, Apple, __Industry Legend__
+* __Corbin Dunn__, [Apple], __Industry Legend__
 * Craig Hockenberry, [Iconfactory]
 * Dallas Brown [{G+}](https://plus.google.com/110990329338234434988)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
