@@ -1,11 +1,19 @@
 # The Good List
 
-This is a partial list of good companies and people I believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Names in __bold__ are people of exceptional quality—typically people I have worked with or know well enough to go so far as to risk my personal reputation to vouch for them. Names in *italics* are intensely strong-willed people with me on the A* list.
+This is a partial list of good companies and people I believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. 
+
+Companies listed are large enough that I don't know everyone who works there, but well regarded enough that merely working there is enough to earn my respect and admiration.
+
+Names in __bold__ are people of exceptional quality—typically people I have worked with or know well enough to go so far as to risk my personal reputation to vouch for them. Names in *italics* are intensely strong-willed people with me on the A* list.
+
+Industry Legends are people who have been around for a very long time, are very well known, have been involved in so many things that there's no easy way to describe them, or are generally considered to have made such tremendous contributions to the industry in the past that nothing further is expected from them.
 
 This list should not be considered complete, nor does non-inclusion imply anything. Please file issues to suggest changes, and fork this list to create your own.
 
 ## Companies
 
+* [Apple]
+* [Atlassian]
 * [Big Nerd Ranch]
 *	[Black Pixel]
 *	[Double Encore]
@@ -14,8 +22,11 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Glimworm]
 *	[Iconfactory]
 *	[MartianCraft]
+*	[Omni Group]
+*	[Pacific Helm]
 *	[Panic]
 *	[PushIO]
+*	[Rogue Amoeba]
 
 ## People
 
@@ -205,12 +216,12 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Keith Duncan__, GitHub
 * __Kelly Somers__
 * __Ken Aspeslagh__ [{@}](https://twitter.com/massivevector)
-* Ken Case
+* Ken Case, [Omni Group]
 * __Kevin Avila__, ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 * Kevin Ballard
 * Kevin Hoctor
 * Kirby Turner
-* __*Klaas Speller*__ [{@}](https://twitter.com/spllr)
+* __*Klaas Speller*__ [{@}](https://twitter.com/spllr), [New Lemurs]
 * Krzysztof Zabłocki
 *	*Kyle Kinkade*
 * __Kyle Richter__, [Empirical Development]
@@ -355,6 +366,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Aged and Distilled]: http://aged-and-distilled.com
 [Apple]: http://apple.com
 [Appsterdam]: http://appsterdam.rs
+[Atlassian]: https://atlassian.com
 [Big Nerd Ranch]: http://bignerdranch.com
 [Black Pixel]: http://blackpixel.com/
 [Double Encore]: http://www.doubleencore.com
@@ -364,6 +376,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Iconfactory]: http://iconfactory.com
 [MartianCraft]: http://martiancraft.com
 [New Lemurs]: http://newlemurs.com
+[Omni Group]: http://omnigroup.com
 [Pacific Helm]: http://pacifichelm.com
 [Panic]: http://panic.com
 [PushIO]: http://push.io
