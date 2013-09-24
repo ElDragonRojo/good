@@ -129,6 +129,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Floris van Alkemade, [New Lemurs]
 *	[Fraser Speirs](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	George Dick, [Black Pixel]
+*	George Warner, [Apple]
 *	Gerald Hensel
 *	Giovanni Maggini
 *	[Glen Aspeslagh](https://twitter.com/pimpinglen)
