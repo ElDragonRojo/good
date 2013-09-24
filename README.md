@@ -351,6 +351,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
 * __Tristan O'Tierney__
+* Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
 *	Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
 * Vinay Gupta
