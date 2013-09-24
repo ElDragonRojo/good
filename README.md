@@ -254,6 +254,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
+* Matt Pennig [{W3}](http://space150.com) [{@}](https://twitter.com/pennig)
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
 * Maxie Ketschau-Repty
