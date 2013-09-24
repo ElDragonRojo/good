@@ -243,7 +243,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Marga Keuvelaar, Obvious Matter
 * Mark Boscko
 * Mark Johns
-* Mark Malone, [Apple]
+* Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
 * Mark Pospesel
 * Mark Voermans, Microsoft
