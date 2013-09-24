@@ -182,7 +182,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jerrol Spier
 * Jessi Chartier
 * Jessica Char, [Pacific Helm]
-* Jim Dalrymple, __Industry Legend__
+* Jim Dalrymple, [The Loop], __Industry Legend__
 * Jim Dovey
 * Jiva DeVoe
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep), [PushIO], __Industry Legend__
@@ -292,7 +292,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Paul Kafasis, [Rogue Amoeba]
 *	Paul Manwaring, [Glimworm]
 *	Paul van Dijk
-*	__Peter Cohen__
+*	__Peter Cohen__, [The Loop]
 *	__Peter Hosey__ [{@}](https://twitter.com/boredzo)
 *	Peter Mitchell
 *	Peter Robinett
@@ -381,5 +381,6 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Panic]: http://panic.com
 [PushIO]: http://push.io
 [Rogue Amoeba]: http://www.rogueamoeba.com
+[The Loop]: http://loopinsight.com
 [The Next Web]: http://thenextweb.com
 [TUAW]: http://tuaw.com
