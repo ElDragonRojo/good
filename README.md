@@ -100,7 +100,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dan Weeks
 * Dan Wood
 * Daniel Jalkut, __Industry Legend__
-* Daniel Jilg [{@}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
+* Daniel Jilg [{W3}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
 * __Daniel Pasco__ [{@}](https://twitter.com/dlpasco), [Black Pixel]
 * Dave Addey
 * Dave DeLong, [Apple]
