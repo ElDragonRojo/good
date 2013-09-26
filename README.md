@@ -32,14 +32,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 ## People
 
 * __Aaron Hillegass__ [{@}](https://twitter.com/aaronhillegass), [Big Nerd Ranch], __Industry Legend__
-* Aaron Tuller
+* Aaron Tuller [{@}](https://twitter.com/tullera) [{f}](https://www.facebook.com/tullera) [{LI}](http://www.linkedin.com/in/tullera)
 * Adam Betts [{W3}](http://www.artofadambetts.com) [{@}](https://twitter.com/AdamBetts)
 * Adam Swift [{f}](https://www.facebook.com/redmud), [Apple]
-* Adrian Kosmaczewski
-* Alan Francis
-* Alex Blewitt
+* Adrian Kosmaczewski [{W3}](http://kosmaczewski.net) [{@}](https://twitter.com/akosma) [{LI}](http://www.linkedin.com/in/akosma)
+* Alan Francis [{W3}](http://alancfrancis.com) [{a}](https://alpha.app.net/acf) [{@}](https://twitter.com/alancfrancis) [{LI}](http://www.linkedin.com/in/alancfrancis) [{GH}](https://github.com/acf), [LivingSocial](https://corporate.livingsocial.com)
+* Alex Blewitt [{W3}](http://alblue.bandlem.com) [{@}](https://twitter.com/alblue) [{LI}](http://www.linkedin.com/in/alblue) 
 * Alex Lagutin, [Rogue Amoeba]
-* Alexander Griekspoor
+* Alexander Griekspoor [{@}](https://twitter.com/mekentosj)
 * Alexander Klöpping [{@}](https://twitter.com/AlexanderNL)
 * __Alexander Repty__ [{@}](https://twitter.com/arepty) [{f}](https://www.facebook.com/alexander.repty)
 * __Allan Schaffer__ [{@}](https://twitter.com/funnest) [{f}](https://www.facebook.com/allan.schaffer.9), [Apple]
@@ -332,6 +332,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Midas Kwant [{f}](https://www.facebook.com/midaskwant)
 * Milly Pagán-Dunaway [{f}](https://www.facebook.com/milly.pagandunaway), [Apple]
 * __*Mike Ash*__ [{W3}](http://mikeash.com) [{@}](https://twitter.com/mikeash)
+* Mike Berg [{@}](https://twitter.com/weheartgames) [We Heart Games](http://weheartgames.com)
 * Mike Cohen [{@}](https://twitter.com/mike3k) [{f}](https://www.facebook.com/mike3k)
 * __*Mike Matas*__ [{f}](https://www.facebook.com/mikematas), [Facebook]
 * *Mike Monteiro* [{W3}](http://mikemonteiro.com) [{@}](https://twitter.com/mike_ftw)
@@ -372,7 +373,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Raul Portales
 *	Ray Wenderlic [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
-*	Rene Ritchie, [iMore]
+*	Rene Ritchie [{me}](http://about.me/reneritchie) [{@}](https://twitter.com/reneritchie), [iMore]
 *	Rich Siegel [{@}](https://twitter.com/siegel) [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
 *	Richard Branson [{@}](https://twitter.com/richardbranson), Virgin, __Industry Legend__
 *	Richard Feldman
