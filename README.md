@@ -77,6 +77,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 * Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
 *	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
+*	Cameron Barrie [{@}](https://twitter.com/whalec), [Bilue](http://bilue.com.au)
 *	Carl Brown [{@}](https://twitter.com/CarlBrwn), __King of Demos__
 *	Carolien Gehrels, City of Amsterdam
 *	Casey Fleser
