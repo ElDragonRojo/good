@@ -121,7 +121,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dan Counsell [{W3}](dancounsell.com) [{@}](https://twitter.com/dancounsell), [Realmac Software]
 * Dan Frakes
 * Dan North
-* Dan Weeks
+* Dan Weeks [{@}](https://twitter.com/danimal)
 * Dan Wood
 * Daniel Jalkut [{f}](https://www.facebook.com/jalkut), __Industry Legend__
 * Daniel Jilg [{W3}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
@@ -339,6 +339,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __*Mike Ash*__ [{W3}](http://mikeash.com) [{@}](https://twitter.com/mikeash)
 * Mike Berg [{@}](https://twitter.com/weheartgames) [We Heart Games](http://weheartgames.com)
 * Mike Cohen [{@}](https://twitter.com/mike3k) [{f}](https://www.facebook.com/mike3k)
+* __*Mike Hay*__ [{@}](https://twitter.com/hay)
 * __*Mike Matas*__ [{f}](https://www.facebook.com/mikematas), [Facebook]
 * *Mike Monteiro* [{W3}](http://mikemonteiro.com) [{@}](https://twitter.com/mike_ftw)
 * __Mikey Ward__ [{@}](https://twitter.com/wookiee), [Big Nerd Ranch]
