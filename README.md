@@ -39,14 +39,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Alan Francis [{W3}](http://alancfrancis.com) [{a}](https://alpha.app.net/acf) [{@}](https://twitter.com/alancfrancis) [{LI}](http://www.linkedin.com/in/alancfrancis) [{GH}](https://github.com/acf), [LivingSocial](https://corporate.livingsocial.com)
 * Alex Blewitt [{W3}](http://alblue.bandlem.com) [{@}](https://twitter.com/alblue) [{LI}](http://www.linkedin.com/in/alblue) 
 * Alex Lagutin, [Rogue Amoeba]
-* Alexander Griekspoor [{@}](https://twitter.com/mekentosj)
+* Alexander Griekspoor [{@}](https://twitter.com/mekentosj) [{LI}](http://www.linkedin.com/in/mekentosj)
 * Alexander Klöpping [{@}](https://twitter.com/AlexanderNL)
 * __Alexander Repty__ [{@}](https://twitter.com/arepty) [{f}](https://www.facebook.com/alexander.repty)
 * __Allan Schaffer__ [{@}](https://twitter.com/funnest) [{f}](https://www.facebook.com/allan.schaffer.9), [Apple]
 * Amanda Wixted [{f}](https://www.facebook.com/amanda.wixted)
-* Amber Castaldo
-* Amber Conville, Detroit Labs
-* Amy Hoy
+* Amber Castaldo [{@}](https://twitter.com/ambercastaldo)
+* Amber Conville [{LI}](http://www.linkedin.com/pub/amber-conville/8/855/61), [Detroit Labs]
+* Amy Hoy [{W3}](http://unicornfree.com) [{@}](https://twitter.com/amyhoy)
 * Amy Jane Gruber [{@}](https://twitter.com/amyjane), ["Just The Tip"](http://justthetip.fm)
 * Amy Worrall
 * André LaBranche
@@ -100,8 +100,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Chris "Kansas" McMichael [{f}](https://www.facebook.com/macmichael01), [Apple]
 * Chris Nebel [{@}](https://twitter.com/nebelch) [{f}](https://www.facebook.com/nebelch), [Apple]
 * __Chris Parrish__ [{@}](https://twitter.com/twenty3) [{f}](https://www.facebook.com/chris.twenty3), [Aged and Distilled]
+* Chris Parker [{W3}](http://playswithfire.com) [{@}](https://twitter.com/ctp), President and Co-Founder of the Hair Club for Engineers
 * Chris Walters [{@}](https://twitter.com/chwalters)
-* Christa Mrgan, [Rogue Amoeba]
+* Christa Mrgan [{@}](https://twitter.com/antichrista), [Rogue Amoeba]
 * __Christine Palmieri-Bumgarner__ [{f}](https://www.facebook.com/bbumgarner)
 * Christopher Bowns [{f}](https://www.facebook.com/cbowns)
 * Christopher Phin [{@}](https://twitter.com/chrisphin)
@@ -134,13 +135,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	David Barnard [{@}](https://twitter.com/drbarnard), [Contrast](http://contrast.co) (Formerly App Cubby)
 *	David Chartier [{W3}](http://davidchartier.com) [{@}](https://twitter.com/chartier)
 *	David Duncan [{@}](https://twitter.com/rincewindsama) [{f}](https://www.facebook.com/wizzard42), [Apple]
-*	David Lanham
+*	__David Lanham__ [{W3}](http://dlanham.com) [{@}](https://twitter.com/dlanham) [{f}](https://www.facebook.com/pages/David-Lanham/37915836001)
+*	David Smith [{W3}](http://dscoder.com) [{@}](https://twitter.com/Catfish_Man)
 *	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
 *	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
-*	Dieter Oude Kotte, City of Amsterdam
+*	Dieter Oude Kotte [{LI}](http://www.linkedin.com/pub/dieter-oude-kotte/21/a26/b76), City of Amsterdam
 *	Dirk Stoop [{f}](https://www.facebook.com/djstoop), [Facebook]
 * Don Ritzen [{@}](https://twitter.com/donritzen), [Rockstart]
-* *Doug Russell*
+* *Doug Russell* [{W3}](http://takingnotes.co) [{a}](https://alpha.app.net/rustle) [{GH}](https://github.com/rustle)
 *	Drew McCormack, Mental Faculty
 *	Duncan Davidson
 *	Duncan Wilcox [{@}](https://twitter.com/duncanwilcox)
@@ -261,15 +263,15 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Keith Duncan__ [{@}](https://twitter.com/keith_duncan) [{GH}](https://github.com/keithduncan), [GitHub]
 * Keith Mortensen [{f}](https://www.facebook.com/keith.mortensen), [Apple]
 * Keith Stattenfield [{f}](https://www.facebook.com/keith.stattenfield), [Apple]
-* __Kelly Somers__
+* __Kelly Somers__ [{W3}](http://kellabyte.com) [{@}](https://twitter.com/kellabyte) [{GH}](https://github.com/kellabyte)
 * __Ken Aspeslagh__ [{@}](https://twitter.com/massivevector)
-* Ken Case, [Omni Group]
+* Ken Case [{@}](https://twitter.com/kcase), [Omni Group]
 * Kenneth Ballenegger [{f}](https://www.facebook.com/kennethb)
 * __Kevin Avila__ [{@}](https://twitter.com/eddienull) [{f}](https://www.facebook.com/eddienull), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 * Kevin Ballard [{f}](https://www.facebook.com/kevinballard)
 * Kevin Elliott [{f}](https://www.facebook.com/kevin.elliott.3323), [Apple]
 * Kevin Hoctor [{f}](https://www.facebook.com/kevinhoctor)
-* Kirby Turner
+* Kirby Turner [{W3}](http://kirbyturner.com) [{@}](https://twitter.com/kirbyt) [{GH}](https://github.com/kirbyt)
 * Klaas Pieter Annema [{f}](https://www.facebook.com/klaaspieter)
 * __*Klaas Speller*__ [{@}](https://twitter.com/spllr) [{f}](https://www.facebook.com/klaasspeller), [New Lemurs]
 * Krzysztof Zabłocki
@@ -365,7 +367,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Peter Hosey__ [{@}](https://twitter.com/boredzo)
 *	Peter Mitchell
 *	Peter Robinett [{f}](https://www.facebook.com/probinett)
-*	Peter Steinberger
+*	Peter Steinberger [{W3}](http://petersteinberger.com) [{@}](https://twitter.com/steipete)
 *	Peter Tuszynski
 *	Phillip Bowden
 *	Quentin Carnicelli, [Rogue Amoeba]
@@ -398,7 +400,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Scott Lopatin__ [{f}](https://www.facebook.com/Sceeter), [Apple]
 * Scott McAlister
 * Scott Maier [{@}](https://twitter.com/rezedit) [{f}](https://www.facebook.com/rezedit), [Apple]
-* Scott Perry
+* Scott Perry [{W3}](http://numist.net) [{@}](https://twitter.com/numist)
 * __Scott Richie__ [{f}](https://www.facebook.com/scottaritchie), [Big Nerd Ranch]
 * *Scott Stevenson* [{f}](https://www.facebook.com/scott.stevenson.9421)
 * Sean Fannan [{f}](https://www.facebook.com/fannan)
@@ -420,10 +422,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Terry Cabeen
 * Thad McDowell
 * *Thijs van der Vossen* [{W3}](http://www.vandervossen.net) [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen), [Fingertips] 
-* Thomas Muldowney
+* Thomas Muldowney [{@}](https://twitter.com/temas) [{LI}](http://www.linkedin.com/profile/view?id=4877683)
 * Tim Titus [{f}](https://www.facebook.com/TimTituskukje)
-* Tim Wood
-* Timo de Winter
+* Tim Wood [{@}](https://twitter.com/tjw) [{LI}](http://www.linkedin.com/pub/timothy-wood/10/727/860), [Omni Group]
+* Timo de Winter [{W3}](http://timodewinter.nl) [{@}](https://twitter.com/timotje) [{LI}](http://www.linkedin.com/in/timodewinter)
 * Tom Clark, [Apple]
 * Tom Harrington
 * Tom Maes [{@}](https://twitter.com/tmaes)
@@ -435,10 +437,11 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Vicki Tourtouras [{@}](https://twitter.com/vickitourtouras)
 *	Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
+* __Victoria Wang__ [{@}](https://twitter.com/violasong)
 * Vinay Gupta [{W3}](http://vinay.howtolivewiki.com) [{@}](https://twitter.com/leashless)
-* Volker Mohr
+* Volker Mohr [{W3}](http://elgrowzone.com) [{@}](https://twitter.com/elgrowzone)
 * Werner Vogels [{f}](https://www.facebook.com/wernervogels), [Amazon]
-* Whitney Deathrage
+* Whitney Deatherage
 * __*Wil Shipley*__ [{W3}](http://wilshipley.com) [{@}](https://twitter.com/wilshipley) [{f}](https://www.facebook.com/wilshipley), [Delicious Monster](http://delicious-monster.com), __Industry Legend__
 * William Mottl
 * William Scarvie
@@ -454,6 +457,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Atlassian]: https://atlassian.com
 [Big Nerd Ranch]: http://bignerdranch.com
 [Black Pixel]: http://blackpixel.com/
+[Detroit Labs]: http://detroitlabs.com
 [Double Encore]: http://www.doubleencore.com
 [Empirical Development]: http://www.empiricaldevelopment.com
 [Facebook]: http://facebook.com
@@ -464,6 +468,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Iconfactory]: http://iconfactory.com
 [iMore]: http://imore.com
 [MartianCraft]: http://martiancraft.com
+[Mental Faculty]: http://mentalfaculty.com
 [Microsoft]: http://microsoft.com
 [New Lemurs]: http://newlemurs.com
 [Omni Group]: http://omnigroup.com
