@@ -153,6 +153,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Evadne Wu
 *	Evan Davis
 *	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
+*	Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
 *	Faruk Ates
 *	Federico Viticci
 *	Felix Lepoutre
@@ -177,6 +178,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Henry Balanon
 * __*Hernan Pelassini*__ [{@}](https://twitter.com/hernanp)
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
+* Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
 * Igor Sutton [{f}](https://www.facebook.com/igorsutton)
 * Ivo Jansch, Egeniq
 * Jack Brewster
@@ -188,9 +190,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * James Dempsey [{@}](https://twitter.com/JamesDempsey), __Industry Legend__
 * James Thomson, PCalc
 * Jana Boruta
-* Jane Lee [{G+}](https://plus.google.com/117394978411570387460)
+* Jane Lee [{W3}](http://janeylicious.com) [{@}](https://twitter.com/janeylicious) [{f}](https://www.facebook.com/janeylicious) [{G+}](https://plus.google.com/117394978411570387460)
 * Janene Pappas, [Black Pixel]
 * Jared Wyles
+* Jason Beaver [{f}](https://www.facebook.com/jasoncbeaver), [Apple]
 * Jason Harris [{@}](https://twitter.com/smeger) [{f}](https://www.facebook.com/smeger)
 * Jason Snell
 * Jason Yeo [{f}](https://www.facebook.com/jasonyeoyeoyeo), [Apple]
@@ -200,7 +203,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jed Wesley-Smith
 * Jeff Atwood
 *	Jeff Johnson, [Rogue Amoeba]
-* __Jeff LaMarche__ [{@}](https://twitter.com/jeff_lamarche), [MartianCraft]
+* __Jeff LaMarche__ [{@}](https://twitter.com/jeff_lamarche) [{f}](https://www.facebook.com/jeff.lamarche.50), [MartianCraft]
 * Jeff McLeman [{me}](http://about.me/Jeffmc) [{@}](https://twitter.com/jeffmc), [Black Pixel]
 * __*Jeffrey Czerniak*__ [{@}](https://twitter.com/geekable)
 * Jennifer Newell
@@ -211,11 +214,13 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jessi Chartier
 * Jessica Char [{f}](https://www.facebook.com/jessiechar), [Pacific Helm]
 * Jim Dalrymple, [The Loop], __Industry Legend__
-* Jim Dovey
+* Jim Dovey [{f}](https://www.facebook.com/jimdovey)
 * Jim Puls [{@}](https://twitter.com/puls)
 * Jiva DeVoe
+* Joe Heck [{f}](https://www.facebook.com/ccjoe)
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
 * __Joe Ricioppo__
+* Joey Hagedorn [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
 * __John Fox__
 * John Geleynse, [Apple]
 *	*John Gruber* [{@}](https://twitter.com/gruber)
@@ -230,8 +235,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jonathan Penn
 * Jonathan Rhyne, Smith Debnam Attorneys at Law
 * __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
-* *Jonathan Wight*
-* Jordan Breeding, [Apple]
+* *Jonathan Wight* [{@}](https://twitter.com/schwa) [{f}](https://www.facebook.com/schwa)
+* Jordan Breeding [{@}](https://twitter.com/jorbsd) [{f}](https://www.facebook.com/jorbsd), [Apple]
 * Jørn Larsen, Trifork Software
 * Jorn van Dijk
 * Jorn van Dijk [{f}](https://www.facebook.com/jornvandijk)
@@ -267,7 +272,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Lauwrens Metz
 * Layton Duncan
 * Lee Falin, [Rogue Amoeba]
-* Lemont Washington
+* Lemont Washington [{f}](https://www.facebook.com/lemontw)
 * Len Case
 * Lex Friedman
 * Lili Sang [{f}](https://www.facebook.com/lili.sang.3), [Apple]
@@ -283,7 +288,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Marcus Zarra__ [{f}](https://www.facebook.com/marcus.zarra), [Empirical Development]
 * Marga Keuvelaar [{@}](https://twitter.com/whakkee) [{f}](https://www.facebook.com/whakkee), Obvious Matter
 * Mark Aufflick [{W3}](http://mark.aufflick.com) [{@}](https://twitter.com/markaufflick)
-* Mark Boscko
+* Mark Boszko [{@}](https://twitter.com/bobtiki) [{f}](https://www.facebook.com/bobtiki)
 * __Mark Johns__ [{W3}](http://doomlaser.com) [{@}](https://twitter.com/doomlaser) [{f}](https://www.facebook.com/hobos)
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
@@ -317,7 +322,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Midas Kwant [{f}](https://www.facebook.com/midaskwant)
 * Milly Pagán-Dunaway [{f}](https://www.facebook.com/milly.pagandunaway), [Apple]
 * __*Mike Ash*__ [{W3}](http://mikeash.com) [{@}](https://twitter.com/mikeash)
-* Mike Cohen [{@}](https://twitter.com/mike3k)
+* Mike Cohen [{@}](https://twitter.com/mike3k) [{f}](https://www.facebook.com/mike3k)
 * __*Mike Matas*__ [{f}](https://www.facebook.com/mikematas), [Facebook]
 * *Mike Monteiro*
 * __Mikey Ward__ [{@}](https://twitter.com/wookiee), [Big Nerd Ranch]
@@ -342,7 +347,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Paul Goracke [{@}](https://twitter.com/pgor)
 *	*Paul Kafasis* [{W3}](http://onefoottsunami.com) [{@}](https://twitter.com/pbones) [{f}](https://www.facebook.com/paulkafasis), [Rogue Amoeba]
 *	Paul Manwaring, [Glimworm]
+*	Paul Schreiber [{f}](https://www.facebook.com/paulschreiber)
 *	Paul van Dijk
+*	Peter Bierman [{W3}](http://peter.bierman.com) [{@}](https://twitter.com/pmb777) [{f}](https://www.facebook.com/peter.bierman)
 *	__Peter Cohen__, [The Loop]
 *	__Peter Hosey__ [{@}](https://twitter.com/boredzo)
 *	Peter Mitchell
