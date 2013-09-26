@@ -26,6 +26,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Pacific Helm]
 *	[Panic]
 *	[PushIO]
+*	[Realmac Software]
 *	[Rogue Amoeba]
 
 ## People
@@ -112,6 +113,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dallas Brown [{G+}](https://plus.google.com/110990329338234434988)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
 * Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
+* Dan Counsell [{W3}](dancounsell.com) [{@}](https://twitter.com/dancounsell), [Realmac Software]
 * Dan Frakes
 * Dan North
 * Dan Weeks
@@ -458,6 +460,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Pacific Helm]: http://pacifichelm.com
 [Panic]: http://panic.com
 [PushIO]: http://push.io
+[Realmac Software]: http://realmacsoftware.com
 [Rockstart]: http://rockstart.com
 [Rogue Amoeba]: http://www.rogueamoeba.com
 [Salesforce]: http://salesforce.com
