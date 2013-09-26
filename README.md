@@ -276,6 +276,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Marcus Alkemade [{f}](https://www.facebook.com/marcus.alkemade.7)
 * __Marcus Zarra__ [{f}](https://www.facebook.com/marcus.zarra), [Empirical Development]
 * Marga Keuvelaar [{@}](https://twitter.com/whakkee) [{f}](https://www.facebook.com/whakkee), Obvious Matter
+* Mark Aufflick [{W3}](http://mark.aufflick.com) [{@}](https://twitter.com/markaufflick)
 * Mark Boscko
 * __Mark Johns__ [{W3}](http://doomlaser.com) [{@}](https://twitter.com/doomlaser) [{f}](https://www.facebook.com/hobos)
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
