@@ -38,6 +38,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Adrian Kosmaczewski [{W3}](http://kosmaczewski.net) [{@}](https://twitter.com/akosma) [{LI}](http://www.linkedin.com/in/akosma)
 * Alan Francis [{W3}](http://alancfrancis.com) [{a}](https://alpha.app.net/acf) [{@}](https://twitter.com/alancfrancis) [{LI}](http://www.linkedin.com/in/alancfrancis) [{GH}](https://github.com/acf), [LivingSocial](https://corporate.livingsocial.com)
 * Alex Blewitt [{W3}](http://alblue.bandlem.com) [{@}](https://twitter.com/alblue) [{LI}](http://www.linkedin.com/in/alblue) 
+* Alex Cone [{@}](https://twitter.com/alexcone), [CodeFab]
 * Alex Lagutin, [Rogue Amoeba]
 * Alexander Griekspoor [{@}](https://twitter.com/mekentosj) [{LI}](http://www.linkedin.com/in/mekentosj)
 * Alexander Klöpping [{@}](https://twitter.com/AlexanderNL)
@@ -173,8 +174,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Gedeon Maheux [{W3}](http://gedblog.com) [{@}](https://twitter.com/gedeon), [Iconfactory]
 *	George Dick [{@}](https://twitter.com/georgedick) [{f}](https://www.facebook.com/georgedick), [Black Pixel]
 *	George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
-*	Gerald Hensel
-*	Giovanni Maggini
+*	Gerald Hensel [{@}](https://twitter.com/ghensel)
+*	Gertjan Rösken, [{@}](https://twitter.com/GertjanRosken) [{LI}](http://www.linkedin.com/pub/gertjan-rösken/4/12/a41), [Rabobank](http://rabobank.com)
+*	Giovanni Maggini [{@}](https://twitter.com/maggix)
 *	__Glen Aspeslagh__ [{@}](https://twitter.com/pimpinglen)
 *	__Graham Lee__ [{@}](https://twitter.com/secboffin) [{f}](https://www.facebook.com/iamleeg)
 *	Grant Farr, [Rogue Amoeba]
@@ -184,7 +186,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Halle Winkler [{@}](https://twitter.com/Politepix)
 * Hans verschooten [{@}](https://twitter.com/hansv)
 * Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
-* Dr. Helge Staedtler
+* Dr. Helge Staedtler [{W3}](http://noxymo.com) [{@}](https://twitter.com/noxymo) [{GH}](https://github.com/trailblazr)
 * Henry Balanon [{W3}](http://balanon.com) [{@}](https://twitter.com/balanon)
 * __*Hernan Pelassini*__ [{@}](https://twitter.com/hernanp)
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
@@ -388,6 +390,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Robert Andersen [{f}](https://www.facebook.com/robertshane)
 *	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
 *	Robert McGovern
+*	Robert-Jan Mersch [{a}](https://alpha.app.net/fohn)
 *	Robi Ganguly, [Apptentive]
 * Ron Jones
 * Ronald Rietveld
@@ -410,6 +413,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Sebastiaan de With [{f}](https://www.facebook.com/sdewith)
 * Shaan Pruden, [Apple]
 * Shawn Grimes
+* Sidney de Koning [{W3}](http://funky-monkey.nl) [{@}](https://twitter.com/sidneydekoning)
 * Simon Wolf
 * Soesanto Arp
 * Sophia Teutschler [{f}](https://www.facebook.com/sophiateutschler), [Apple]
@@ -459,6 +463,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Atlassian]: https://atlassian.com
 [Big Nerd Ranch]: http://bignerdranch.com
 [Black Pixel]: http://blackpixel.com/
+[CodeFab]: http://codefab.com
 [Detroit Labs]: http://detroitlabs.com
 [Double Encore]: http://www.doubleencore.com
 [Empirical Development]: http://www.empiricaldevelopment.com
