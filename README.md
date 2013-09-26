@@ -142,7 +142,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Duncan Wilcox [{@}](https://twitter.com/duncanwilcox)
 *	__Ed Wynne__, [Rogue Amoeba]
 *	Edward Marczak
-*	Eli Hodapp
+*	Elger van der Avoird [{@}](https://twitter.com/evanderavoird)
+*	Eli Hodapp [{@}](https://twitter.com/hodapp)
 *	Elliot Harris [{f}](https://www.facebook.com/elliotth), [Apple]
 *	__Elon Musk__, SpaceX, Tesla
 * Eloy Durán
@@ -151,7 +152,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Erik Meijer [{LI}](http://www.linkedin.com/pub/erik-meijer/0/5ba/924)
 *	Erik Rietveld
 *	Erik Romijn [{f}](https://www.facebook.com/cavia)
-*	Evadne Wu
+*	Evadne Wu [{@}](https://twitter.com/evadne)
 *	Evan Davis
 *	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
 *	Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
