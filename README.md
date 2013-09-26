@@ -237,6 +237,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
 * *Jonathan Wight* [{@}](https://twitter.com/schwa) [{f}](https://www.facebook.com/schwa)
 * Jordan Breeding [{@}](https://twitter.com/jorbsd) [{f}](https://www.facebook.com/jorbsd), [Apple]
+* Joris Kluivers [{W3}](http://joris.kluivers.nl) [{@}](https://twitter.com/kluivers)
 * Jørn Larsen, Trifork Software
 * Jorn van Dijk
 * Jorn van Dijk [{f}](https://www.facebook.com/jornvandijk)
@@ -364,7 +365,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
 *	Rene Ritchie
 *	Rich Siegel [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
-*	Richard Branson, Virgin, __Industry Legend__
+*	Richard Branson [{@}](https://twitter.com/richardbranson), Virgin, __Industry Legend__
 *	Richard Feldman
 *	Rick Ballard
 *	Rob Elkin [{@}](https://twitter.com/robelkin)
