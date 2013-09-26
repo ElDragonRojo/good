@@ -83,17 +83,17 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
 *	Cameron Barrie [{@}](https://twitter.com/whalec), [Bilue](http://bilue.com.au)
 *	Carl Brown [{@}](https://twitter.com/CarlBrwn), __King of Demos__
-*	Carolien Gehrels, City of Amsterdam
-*	Casey Fleser
+*	Carolien Gehrels [{W3}](http://www.iamsterdam.com/en-GB/living/city-of-amsterdam/city-government/portfolios-mayor-alderpersons/alderperson-carolien-gehrels), City of Amsterdam
+*	Casey Fleser [{W3}](http://somegeekintn.com) [{@}](https://twitter.com/somegeekintn)
 *	Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
 *	Cesare Rocchi [{@}](https://twitter.com/_funkyboy)
 *	Cathy Shive [{f}](https://www.facebook.com/cathy.shive)
-*	Charles Perry
+*	Charles Perry [{@}](https://twitter.com/dazeend), [Leaf Hut Software](http://leafhut.com)
 *	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 *	Chris Barajas, [Rogue Amoeba]
 * __Chris "Clarko" Clark__ [{f}](https://www.facebook.com/christopher.russell.clark)
 * *Chris Espinosa* [{@}](https://twitter.com/cdespinosa) [{f}](https://www.facebook.com/cdespinosa), [Apple], __Industry Legend__
-* Chris Foresman
+* Chris Foresman [{@}](https://twitter.com/foresmac)
 * Chris Hansen [{@}](https://twitter.com/eschaton) [{f}](https://www.facebook.com/eschaton), [Apple]
 * Chris Le Petit [{@}](https://twitter.com/clepetit)
 * Chris "Kansas" McMichael [{f}](https://www.facebook.com/macmichael01), [Apple]
@@ -310,6 +310,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
 * Matt Long [{W3}](http://skyeroadsystems.com) [{@}](https://twitter.com/perlmunger)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
+* Matt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt)
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
 * Maxie Ketschau-Repty
