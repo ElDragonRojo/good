@@ -50,8 +50,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * André LaBranche
 * *Andrew Kimpel*
 * __Andrew Stone__, Stone Design, __Industry Legend__
+* Andy Finnell [{@}](https://twitter.com/macgeek02)
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
 * Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
+* Anthony Agius [{W3}](http://decryption.wordpress.com) [{@}](https://twitter.com/decryption)
 * *Aral Balkan*
 * Ariel Michaeli
 * Ash Furrow
@@ -203,12 +205,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __*Jeffrey Czerniak*__ [{@}](https://twitter.com/geekable)
 * Jennifer Newell
 * Jeremy Bierbach, Avocado Legal
+* Jeremy Tanner [{@}](https://twitter.com/Penguin)
 * Jerica Lurve
 * Jerrol Spier
 * Jessi Chartier
 * Jessica Char [{f}](https://www.facebook.com/jessiechar), [Pacific Helm]
 * Jim Dalrymple, [The Loop], __Industry Legend__
 * Jim Dovey
+* Jim Puls [{@}](https://twitter.com/puls)
 * Jiva DeVoe
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
 * __Joe Ricioppo__
@@ -291,6 +295,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Mathys van Abbe [{@}](https://twitter.com/mathys), [Mobypicture](http://mobypicture.com)
 * __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance) [{f}](https://www.facebook.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
+* Matt Johnson [{W3}](http://cimota.com) [{@}](https://twitter.com/cimota)
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
