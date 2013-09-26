@@ -437,7 +437,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
 * __Tristan O'Tierney__ [{W3}](http://otierney.net) [{me}](http://about.me/tristanotierney) [{@}](https://twitter.com/tristan) [{f}](https://www.facebook.com/omnivector) [{LI}](http://www.linkedin.com/in/tristanotierney)
-* Tyler Morrison, [Haiku Software](http://haikusoftware.com)
+* Tyler Morrison, [Haiku Software](http://haikusoftware.com) [{a}](https://alpha.app.net/geekanddad) [{@}](https://twitter.com/geekanddad) 
 * __Uli Kusterer__ [{@}](https://twitter.com/uliwitness) [{f}](https://www.facebook.com/uliwitness)
 * Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
 * Vicki Tourtouras [{@}](https://twitter.com/vickitourtouras)
