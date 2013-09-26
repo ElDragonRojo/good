@@ -54,7 +54,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
 * Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
 * Anthony Agius [{W3}](http://decryption.wordpress.com) [{@}](https://twitter.com/decryption)
-* *Aral Balkan*
+* *Aral Balkan* [{W3}](http://aralbalkan.com) [{@}](https://twitter.com/aral), [Codename Prometheus}(http://codename-prometheus.eu)
 * Ariel Michaeli
 * Ash Furrow
 * August Joki [{f}](https://www.facebook.com/august.joki)
