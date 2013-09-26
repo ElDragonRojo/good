@@ -303,6 +303,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Matt Feigal
 * Matt Johnson [{W3}](http://cimota.com) [{@}](https://twitter.com/cimota)
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
+* Matt Long [{W3}](http://skyeroadsystems.com) [{@}](https://twitter.com/perlmunger)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
