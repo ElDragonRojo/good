@@ -52,6 +52,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * André LaBranche
 * *Andrew Kimpel*
 * __Andrew Stone__, Stone Design, __Industry Legend__
+* Andria Jensen [{@}](https://twitter.com/andriajensen), [Appsolute Genius](http://appsolutegenius.com)
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
 * Andy Ihnatko [{W3}](http://ihnatko.com) [{@}](https://twitter.com/ihnatko), Chicago Sun-Times
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
@@ -254,7 +255,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Josh Clark, "Tapworthy"
 * Josh Johnson
 * __Josh Michaels__ [{@}](https://twitter.com/joshjet) [Jetson Creative](http://magicwindowapp.com)
-* Joshua McKenty
+* Joshua McKenty [{me}](http://about.me/jmckenty) [{@}](https://twitter.com/jmckenty)
 * Joy-Vincent Niemantsverdriet [{f}](https://www.facebook.com/joyvincentn), [Instagram]
 * __Judy Chen__ [{@}](https://twitter.com/judykitteh), [Appsterdam]
 * Judy Hoctor
@@ -274,7 +275,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Kirby Turner [{W3}](http://kirbyturner.com) [{@}](https://twitter.com/kirbyt) [{GH}](https://github.com/kirbyt)
 * Klaas Pieter Annema [{f}](https://www.facebook.com/klaaspieter)
 * __*Klaas Speller*__ [{@}](https://twitter.com/spllr) [{f}](https://www.facebook.com/klaasspeller), [New Lemurs]
-* Krzysztof Zabłocki
+* Krzysztof Zabłocki [{W3}](http://merowing.info) [{@}](https://twitter.com/merowing_) [{LI}](http://www.linkedin.com/pub/krzysztof-zabłocki/26/200/442) [{GH}](https://github.com/krzysztofzablocki)
 *	*Kyle Kinkade*
 * __Kyle Richter__ [{f}](https://www.facebook.com/kyle.richter.33), [Empirical Development]
 * Lassi Kurkijärvi [{@}](https://twitter.com/lassi), [Sanoma]
@@ -432,6 +433,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
 * __Tristan O'Tierney__ [{W3}](http://otierney.net) [{me}](http://about.me/tristanotierney) [{@}](https://twitter.com/tristan) [{f}](https://www.facebook.com/omnivector) [{LI}](http://www.linkedin.com/in/tristanotierney)
+* Tyler Morrison, [Haiku Software](http://haikusoftware.com)
 * __Uli Kusterer__ [{@}](https://twitter.com/uliwitness) [{f}](https://www.facebook.com/uliwitness)
 * Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
 * Vicki Tourtouras [{@}](https://twitter.com/vickitourtouras)
