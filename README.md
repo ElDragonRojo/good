@@ -322,6 +322,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Nevan King [{@}](https://twitter.com/NevanKing)
 *	Neven Mrgan, [Panic]
 *	Nicole Wilker
+*	Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
 *	Pam Lefkowitz
 *	Pamela Fox
 *	Pat Costaldo
