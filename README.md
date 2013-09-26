@@ -33,15 +33,16 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Aaron Hillegass__ [{@}](https://twitter.com/aaronhillegass), [Big Nerd Ranch], __Industry Legend__
 * Aaron Tuller
 * Adam Betts [{W3}](http://www.artofadambetts.com) [{@}](https://twitter.com/AdamBetts)
-* Adam Swift
+* Adam Swift [{f}](https://www.facebook.com/redmud), [Apple]
 * Adrian Kosmaczewski
 * Alan Francis
 * Alex Blewitt
 * Alex Lagutin, [Rogue Amoeba]
 * Alexander Griekspoor
 * Alexander Klöpping [{@}](https://twitter.com/AlexanderNL)
-* __Alexander Repty__ [{@}](https://twitter.com/arepty)
-* Allan Schaffer, [Apple]
+* __Alexander Repty__ [{@}](https://twitter.com/arepty) [{f}](https://www.facebook.com/alexander.repty)
+* __Allan Schaffer__ [{@}](https://twitter.com/funnest) [{f}](https://www.facebook.com/allan.schaffer.9), [Apple]
+* Amanda Wixted [{f}](https://www.facebook.com/amanda.wixted)
 * Amber Castaldo
 * Amber Conville, Detroit Labs
 * Amy Hoy
@@ -49,74 +50,86 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * André LaBranche
 * *Andrew Kimpel*
 * __Andrew Stone__, Stone Design, __Industry Legend__
-* Anne Halsall
+* Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
+* Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
 * *Aral Balkan*
 * Ariel Michaeli
 * Ash Furrow
-* August "Gus" Mueller, Flying Meat
+* August Joki [{f}](https://www.facebook.com/august.joki)
+* August "Gus" Mueller [{@}](https://twitter.com/ccgus) [{f}](https://www.facebook.com/ccgus), Flying Meat
 * Ben Jackson
 * Ben Scheirman
 * Ben Trumbull
 * Beth Massa, Microsoft
-* __Bill Bumgarner__ [{@}](https://twitter.com/bbum), [Apple], __Industry Legend__
+* __Bill Bumgarner__ [{W3}](http://friday.com) [{@}](https://twitter.com/bbum) [{f}](https://www.facebook.com/bbumgarner), [Apple], __Industry Legend__
 * __Bill Dudney__ [{@}](https://twitter.com/bdudney)
+* Birgit Reizevoort [{f}](https://www.facebook.com/birgit.reizevoort)
 * Blake Chaffin
-* __Bolot Kerimbaev__ [{@}](https://twitter.com/bolot), [Big Nerd Ranch]
+* Bob Ippolito [{f}](https://www.facebook.com/etrepum)
+* __Bolot Kerimbaev__ [{@}](https://twitter.com/bolot) [{f}](https://www.facebook.com/bolot), [Big Nerd Ranch]
 * Boris Veldhuijzen van Zanten, [The Next Web]
-* Bradley Ellis, [Pacific Helm]
+* Bradley Ellis [{f}](https://www.facebook.com/BradleyEllis), [Pacific Helm]
+* Brandon Walkin [{f}](https://www.facebook.com/bwalkin)
 * __Brent Simmons__ [{@}](https://twitter.com/brentsimmons), __Industry Legend__
 * Brian LeRoux 
 * Brianna Wu [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal), Giant Spacekat
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
+* Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
 *	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
 *	Carl Brown [{@}](https://twitter.com/CarlBrwn), __King of Demos__
 *	Carolien Gehrels, City of Amsterdam
 *	Casey Fleser
 *	Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
 *	Cesare Rocchi
+*	Cathy Shive [{f}](https://www.facebook.com/cathy.shive)
 *	Charles Perry
 *	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 *	Chris Barajas, [Rogue Amoeba]
-* __Chris Clark__
-* *Chris Espinosa* [{@}](https://twitter.com/cdespinosa), [Apple], __Industry Legend__
+* __Chris "Clarko" Clark__ [{f}](https://www.facebook.com/christopher.russell.clark)
+* *Chris Espinosa* [{@}](https://twitter.com/cdespinosa) [{f}](https://www.facebook.com/cdespinosa), [Apple], __Industry Legend__
 * Chris Foresman
+* Chris Hansen [{@}](https://twitter.com/eschaton) [{f}](https://www.facebook.com/eschaton), [Apple]
 * Chris Le Petit [{@}](https://twitter.com/clepetit)
-* Chris Nebel, [Apple]
-* __Chris Parrish__, [Aged and Distilled]
+* Chris "Kansas" McMichael [{f}](https://www.facebook.com/macmichael01), [Apple]
+* Chris Nebel [{@}](https://twitter.com/nebelch) [{f}](https://www.facebook.com/nebelch), [Apple]
+* __Chris Parrish__ [{@}](https://twitter.com/twenty3) [{f}](https://www.facebook.com/chris.twenty3), [Aged and Distilled]
 * Chris Walters [{@}](https://twitter.com/chwalters)
 * Christa Mrgan, [Rogue Amoeba]
+* __Christine Palmieri-Bumgarner__ [{f}](https://www.facebook.com/bbumgarner)
+* Christopher Bowns [{f}](https://www.facebook.com/cbowns)
 * Christopher Phin [{@}](https://twitter.com/chrisphin)
-* Chuck Toporek
+* Chuck Toporek [{f}](https://www.facebook.com/chuckdude)
 * Cindy Morris
-* Colin Barrett
-* __Collin Donnell__
-* __Corbin Dunn__, [Apple], __Industry Legend__
+* Colin Barrett [{f}](https://www.facebook.com/colin.barrett)
+* __Collin Donnell__ [{f}](https://www.facebook.com/collindonnell)
+* __Corbin Dunn__ [{@}](https://twitter.com/nibroc) [{f}](https://www.facebook.com/nibroc), [Apple], __Industry Legend__
 * Craig Hockenberry, [Iconfactory]
 * Dallas Brown [{G+}](https://plus.google.com/110990329338234434988)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
-* Dan Burcaw, [Double Encore]
+* Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
 * Dan Frakes
 * Dan North
 * Dan Weeks
 * Dan Wood
-* Daniel Jalkut, __Industry Legend__
+* Daniel Jalkut [{f}](https://www.facebook.com/jalkut), __Industry Legend__
 * Daniel Jilg [{W3}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
-* __Daniel Pasco__ [{@}](https://twitter.com/dlpasco), [Black Pixel]
+* __Daniel Pasco__ [{@}](https://twitter.com/dlpasco) [{f}](https://www.facebook.com/dlpasco), [Black Pixel]
 * Dave Addey
 * Dave DeLong, [Apple]
-* Dave Hayden, __Puzzllotto Champion__
+* Dave Dribin [{W3}](http://www.dribin.org/dave/) [{@}](https://twitter.com/ddribin)
+* Dave Hayden [{W3}](http://opaque.net/~dave/) [{@}](https://twitter.com/davehayden), __Puzzllotto Champion__
 * __Dave Thomas__ [{W3}](http://www.davethomas.net), Bedarra Research Labs
 * Dave Verwer
-*	*Dave Wiskus* [{@}](https://twitter.com/dwiskus)
+*	*Dave Wiskus* [{@}](https://twitter.com/dwiskus) [{f}](https://www.facebook.com/dwiskus)
 *	David Ballard
 *	David Barnard
 *	David Chartier
-*	David Duncan
+*	David Duncan [{f}](https://www.facebook.com/wizzard42), [Apple]
 *	David Lanham
-*	Deric Horn
-*	Diederik Hoogenboom, Obvious Matter
+*	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
+*	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
 *	Dieter Oude Kotte, City of Amsterdam
-*	Dirk Stoop
+*	Dirk Stoop [{f}](https://www.facebook.com/djstoop), [Facebook]
 * Don Ritzen, Rockstart
 * *Doug Russell*
 *	Drew McCormack, Mental Faculty
@@ -125,38 +138,45 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Ed Wynne__, [Rogue Amoeba]
 *	Edward Marczak
 *	Eli Hodapp
+*	Elliot Harris [{f}](https://www.facebook.com/elliotth), [Apple]
 *	__Elon Musk__, SpaceX, Tesla
 * Eloy Durán
+* Eric Sabban [{f}](https://www.facebook.com/ericsabban)
 * Erik Lammerding
 *	Erik Meijer [{LI}](http://www.linkedin.com/pub/erik-meijer/0/5ba/924)
 *	Erik Rietveld
-*	Erik Romijn
+*	Erik Romijn [{f}](https://www.facebook.com/cavia)
 *	Evadne Wu
 *	Evan Davis
+*	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
 *	Faruk Ates
 *	Federico Viticci
 *	Felix Lepoutre
 *	Florian Brueckner
 *	Floris van Alkemade, [New Lemurs]
 *	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
-*	George Dick, [Black Pixel]
-*	George Warner, [Apple]
+*	Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
+*	George Dick [{f}](https://www.facebook.com/georgedick), [Black Pixel]
+*	George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
 *	Gerald Hensel
 *	Giovanni Maggini
 *	__Glen Aspeslagh__ [{@}](https://twitter.com/pimpinglen)
-*	__Graham Lee__ [{@}](https://twitter.com/secboffin)
+*	__Graham Lee__ [{@}](https://twitter.com/secboffin) [{f}](https://www.facebook.com/iamleeg)
 *	Grant Farr, [Rogue Amoeba]
 *	Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
-* __Guy English__ [{@}](https://twitter.com/gte), [Aged and Distilled]
+* __Guy English__ [{W3}](http://kickingbear.com) [{@}](https://twitter.com/gte) [{f}](https://www.facebook.com/kickingbear), [Aged and Distilled]
 * Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), Industry Legend
 * Halle Winkler [{@}](https://twitter.com/Politepix)
 * Hans verschooten [{@}](https://twitter.com/hansv)
+* Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
 * Dr. Helge Staedtler
 * Henry Balanon
 * __*Hernan Pelassini*__ [{@}](https://twitter.com/hernanp)
-* Ian Baird
+* Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
+* Igor Sutton [{f}](https://www.facebook.com/igorsutton)
 * Ivo Jansch, Egeniq
 * Jack Brewster
+* Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
 * Jacqui Cheng
 * Jake Behrens [{W3}](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
@@ -167,8 +187,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jane Lee [{G+}](https://plus.google.com/117394978411570387460)
 * Janene Pappas, [Black Pixel]
 * Jared Wyles
-* Jason Harris
+* Jason Harris [{@}](https://twitter.com/smeger) [{f}](https://www.facebook.com/smeger)
 * Jason Snell
+* Jason Yeo [{f}](https://www.facebook.com/jasonyeoyeoyeo), [Apple]
+* Jasper Hauser [{f}](https://www.facebook.com/jasper.hauser), [Facebook]
 *	Jay Freeman
 *	Jay Thrash [{a}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
 * Jed Wesley-Smith
@@ -176,82 +198,95 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Jeff Johnson, [Rogue Amoeba]
 * __Jeff LaMarche__ [{@}](https://twitter.com/jeff_lamarche), [MartianCraft]
 * Jeff McLeman [{me}](http://about.me/Jeffmc) [{@}](https://twitter.com/jeffmc), [Black Pixel]
+* __*Jeffrey Czerniak*__ [{@}](https://twitter.com/geekable)
 * Jennifer Newell
 * Jeremy Bierbach, Avocado Legal
 * Jerica Lurve
 * Jerrol Spier
 * Jessi Chartier
-* Jessica Char, [Pacific Helm]
+* Jessica Char [{f}](https://www.facebook.com/jessiechar), [Pacific Helm]
 * Jim Dalrymple, [The Loop], __Industry Legend__
 * Jim Dovey
 * Jiva DeVoe
-* __Joe Pezzillo__ [{@}](https://twitter.com/ejoep), [PushIO], __Industry Legend__
+* __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
 * __Joe Ricioppo__
 * __John Fox__
 * John Geleynse, [Apple]
 *	*John Gruber* [{@}](https://twitter.com/gruber)
 *	John Moltz [{W3}](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
-*	*John Randolph*, __Industry Legend__
+*	*John Randolph* [{@}](https://twitter.com/NSResponder) [{f}](https://www.facebook.com/NSResponder), __Industry Legend__
 *	*John Welch*
 * __John Wilker__ [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), __Industry Legend__
 * Jonah Neugass
 * Jonathan Carter, [Glimworm]
-* Jonathan Deutsch
+* Jonathan Dann [{f}](https://www.facebook.com/j.p.dann), [Facebook]
+* Jonathan Deutsch [{f}](https://www.facebook.com/tumultco), [Tumult]
 * Jonathan Penn
 * Jonathan Rhyne, Smith Debnam Attorneys at Law
-* __Jonathan "Wolf" Rentzsch__, __Industry Legend__
+* __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
 * *Jonathan Wight*
 * Jordan Breeding, [Apple]
 * Jørn Larsen, Trifork Software
 * Jorn van Dijk
+* Jorn van Dijk [{f}](https://www.facebook.com/jornvandijk)
 * Jose Vazquez [{@}](https://twitter.com/josevazquez), NSCoderNightDC, [Rogue Amoeba]
 * Josh Clark, "Tapworthy"
 * Josh Johnson
 * __Josh Michaels__
 * Joshua McKenty
+* Joy-Vincent Niemantsverdriet [{f}](https://www.facebook.com/joyvincentn), [Instagram]
 * __Judy Chen__ [{@}](https://twitter.com/judykitteh), [Appsterdam]
 * Judy Hoctor
 * Justin Williams
 * __Kai Cherry__
 * __Keith Duncan__, GitHub
+* Keith Mortensen [{f}](https://www.facebook.com/keith.mortensen), [Apple]
+* Keith Stattenfield [{f}](https://www.facebook.com/keith.stattenfield), [Apple]
 * __Kelly Somers__
 * __Ken Aspeslagh__ [{@}](https://twitter.com/massivevector)
 * Ken Case, [Omni Group]
-* __Kevin Avila__, ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
-* Kevin Ballard
-* Kevin Hoctor
+* Kenneth Ballenegger [{f}](https://www.facebook.com/kennethb)
+* __Kevin Avila__ [{@}](https://twitter.com/eddienull) [{f}](https://www.facebook.com/eddienull), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
+* Kevin Ballard [{f}](https://www.facebook.com/kevinballard)
+* Kevin Elliott [{f}](https://www.facebook.com/kevin.elliott.3323), [Apple]
+* Kevin Hoctor [{f}](https://www.facebook.com/kevinhoctor)
 * Kirby Turner
-* __*Klaas Speller*__ [{@}](https://twitter.com/spllr), [New Lemurs]
+* Klaas Pieter Annema [{f}](https://www.facebook.com/klaaspieter)
+* __*Klaas Speller*__ [{@}](https://twitter.com/spllr) [{f}](https://www.facebook.com/klaasspeller), [New Lemurs]
 * Krzysztof Zabłocki
 *	*Kyle Kinkade*
-* __Kyle Richter__, [Empirical Development]
+* __Kyle Richter__ [{f}](https://www.facebook.com/kyle.richter.33), [Empirical Development]
 * Lassi Kurkijärvi
-* Laurens Bon
+* Laurens Bon [{f}](https://www.facebook.com/laurens.bon)
 * Lauwrens Metz
 * Layton Duncan
 * Lee Falin, [Rogue Amoeba]
 * Lemont Washington
 * Len Case
 * Lex Friedman
+* Lili Sang [{f}](https://www.facebook.com/lili.sang.3), [Apple]
+* Linda Ouandji [{f}](https://www.facebook.com/linda.ouandji)
 * Lindsay Giachetti [{@}](https://twitter.com/lgiachetti) [{d}](http://dribbble.com/lgiachetti), [Double Encore]
 * __*Louie Mantia*__ [{@}](https://twitter.com/mantia) [{d}](http://dribbble.com/mantia), [Pacific Helm]
 * Lucius Kwok
+* Lyndia Ives Zarra [{f}](https://www.facebook.com/lizarra)
 * Magnus Dahl
 * Malcolm Crawford, __Industry Legend__
 * Marcel Speller, [Big Nerd Ranch]
-* __Marcus Zarra__, [Empirical Development]
-* Marga Keuvelaar, Obvious Matter
+* Marcus Alkemade [{f}](https://www.facebook.com/marcus.alkemade.7)
+* __Marcus Zarra__ [{f}](https://www.facebook.com/marcus.zarra), [Empirical Development]
+* Marga Keuvelaar [{@}](https://twitter.com/whakkee) [{f}](https://www.facebook.com/whakkee), Obvious Matter
 * Mark Boscko
-* Mark Johns
+* __Mark Johns__ [{W3}](http://doomlaser.com) [{@}](https://twitter.com/doomlaser) [{f}](https://www.facebook.com/hobos)
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
 * Mark Pospesel
 * Mark Voermans, Microsoft
 * Markus Nigrin
 * Martin Adoue
-* Martinus Meiborg, [Appsterdam]
+* Martinus Meiborg [{f}](https://www.facebook.com/martinus.meiborg), [Appsterdam]
 * Mathys van Abbe [{@}](https://twitter.com/mathys), [Mobypicture](http://mobypicture.com)
-* __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
+* __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance) [{f}](https://www.facebook.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
@@ -259,23 +294,28 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Matthew "Trent" Trentacoste
 * Maxie Ketschau-Repty
 * Mercedes Portales
-* Merel Ivens
+* Merel Ivens [{f}](https://www.facebook.com/MissMerel)
+* Michael Gorbach [{f}](https://www.facebook.com/mgorbach), [Black Pixel]
 * __Dr. Michael Johnson__, [Pixar], __Industry Legend__
 * *Michael Margolis*
 * Michael Rose, [TUAW]
 * __Michael Simmons__
-* __Michael Jurewitz__ [{@}](https://twitter.com/Jury), __Industry Legend__
-* __Michael Lowdermilk__
+* __Michael Jurewitz__ [{@}](https://twitter.com/Jury) [{f}](https://www.facebook.com/jurewitz), __Industry Legend__
+* __Michael Lowdermilk__ [{f}](https://www.facebook.com/michael.lowdermilk)
 * Michele Titolo
 * Michelle Yaiser
-* Michiel de Graaf [{W3}](http://www.michieldegraaf.com) [{@}](https://twitter.com/graafdemichiel) [{d}](http://dribbble.com/michieldegraaf)
+* Michiel de Graaf [{W3}](http://www.michieldegraaf.com) [{@}](https://twitter.com/graafdemichiel) [{f}](https://www.facebook.com/graafmichiel) [{d}](http://dribbble.com/michieldegraaf)
+* Michiel van Meeteren [{f}](https://www.facebook.com/michielvanmeeteren)
+* Midas Kwant [{f}](https://www.facebook.com/midaskwant)
+* Milly Pagán-Dunaway [{f}](https://www.facebook.com/milly.pagandunaway), [Apple]
 * __*Mike Ash*__ [{W3}](http://mikeash.com) [{@}](https://twitter.com/mikeash)
 * Mike Cohen [{@}](https://twitter.com/mike3k)
-* __*Mike Matas*__
+* __*Mike Matas*__ [{f}](https://www.facebook.com/mikematas), [Facebook]
 * *Mike Monteiro*
+* __Mikey Ward__ [{@}](https://twitter.com/wookiee), [Big Nerd Ranch]
 * Mischa McLaclan
 * Moshen Chan
-* Nate True
+* Nate True [{W3}](http://cre.ations.net/blog) [{@}](https://twitter.com/natetrue) [{f}](https://www.facebook.com/Natetrue)
 * Nathan De Vries
 * __Nathan Eror__, [Empirical Development]
 * Neil Inglis [{W3}](http://neilinglis.com/)  [{@}](https://twitter.com/neilinglis)
@@ -290,13 +330,14 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Patrick Gibson [{W3}](http://fadeover.org) [{@}](https://twitter.com/patr1ck), [Pacific Helm]
 *	Paul Darcey [{@}](https://twitter.com/pauldarcey)
 *	Paul de Medeiros
-*	Paul Kafasis, [Rogue Amoeba]
+*	Paul Goracke [{@}](https://twitter.com/pgor)
+*	*Paul Kafasis* [{W3}](http://onefoottsunami.com) [{@}](https://twitter.com/pbones) [{f}](https://www.facebook.com/paulkafasis), [Rogue Amoeba]
 *	Paul Manwaring, [Glimworm]
 *	Paul van Dijk
 *	__Peter Cohen__, [The Loop]
 *	__Peter Hosey__ [{@}](https://twitter.com/boredzo)
 *	Peter Mitchell
-*	Peter Robinett
+*	Peter Robinett [{f}](https://www.facebook.com/probinett)
 *	Peter Steinberger
 *	Peter Tuszynski
 *	Phillip Bowden
@@ -304,9 +345,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Rachel Kinkade__
 *	Raul Portales
 *	Ray Wenderlic [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
-*	Renato Olmos
+*	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
 *	Rene Ritchie
-*	Rich Siegel, [Bare Bones](http://barebones.com), __Industry Legend__
+*	Rich Siegel [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
 *	Richard Branson, Virgin, __Industry Legend__
 *	Richard Feldman
 *	Rick Ballard
@@ -314,36 +355,46 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	__Rob Longridge__
 * __*Rob Rhyne* [{@}](https://twitter.com/capttaco), [MartianCraft]
 *	Robb Albright
+*	Robert Andersen [{f}](https://www.facebook.com/robertshane)
+*	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
 *	Robert McGovern
+*	Robi Ganguly, [Apptentive]
 * Ron Jones
 * Ronald Rietveld
 * Ros (Hodgekiss) De Vries
 * *Rudy Richter*
-* Ryan Nielsen
+* Ryan Nielsen [{@}](https://twitter.com/ryannielsen) [{f}](https://www.facebook.com/ryannielsen), [Tumult]
 * Sal Conigliaro
 * *Sam Noble*
-* __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin), [Roundwall Software](http://roundwallsoftware.com)
-* __Saul Mora__ [{@}](https://twitter.com/casademora), [Magical Panda](http://magicalpanda.com)__
-* __Scott Lopatin__
+* __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
+* __Saul Mora__ [{@}](https://twitter.com/casademora) [{f}](https://www.facebook.com/saulmora), [Magical Panda](http://magicalpanda.com)__
+* __Scott Lopatin__ [{f}](https://www.facebook.com/Sceeter), [Apple]
 * Scott McAlister
+* Scott Maier [{@}](https://twitter.com/rezedit) [{f}](https://www.facebook.com/rezedit), [Apple]
 * Scott Perry
+* __Scott Richie__ [{f}](https://www.facebook.com/scottaritchie), [Big Nerd Ranch]
+* *Scott Stevenson* [{f}](https://www.facebook.com/scott.stevenson.9421)
+* Sean Fannan [{f}](https://www.facebook.com/fannan)
 * Sean Heber
 * Sebastiaan Capel [{W3}](http://sebastiaancapel.nl/pages/english), City of Amsterdam
-* Sebastiaan de With
+* Sebastiaan de With [{f}](https://www.facebook.com/sdewith)
 * Shaan Pruden, [Apple]
 * Shawn Grimes
 * Simon Wolf
 * Soesanto Arp
-* Sophia Teutschler, [Apple]
+* Sophia Teutschler [{f}](https://www.facebook.com/sophiateutschler), [Apple]
 * Stephanie Grimes
+* __Stephen Ives__ [{f}](https://www.facebook.com/smives), Smirk Design
+* *Stephen Martin* [{f}](https://www.facebook.com/stephen.martin.9081)
 * __Steve "Scotty" Scott__ [{@}](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), __Industry Legend__
 * Steven Frank, [Panic]
-* __Stephen Ives__, Smirk Design
-* __Tara Ross__ [{@}](https://twitter.com/tross6), [Appsterdam]
+* Stoney Gamble [{f}](https://www.facebook.com/stoneygamble)
+* __Tara Ross__ [{@}](https://twitter.com/tross6) [{f}](https://www.facebook.com/tara.ross.520), [Appsterdam]
 * Terry Cabeen
 * Thad McDowell
 * *Thijs van der Vossen* [{W3}](http://www.vandervossen.net) [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen), [Fingertips] 
 * Thomas Muldowney
+* Tim Titus [{f}](https://www.facebook.com/TimTituskukje)
 * Tim Wood
 * Timo de Winter
 * Tom Clark, [Apple]
@@ -351,14 +402,16 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Tom Maes [{@}](https://twitter.com/tmaes)
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
-* __Tristan O'Tierney__
+* __Tristan O'Tierney__ [{W3}](http://otierney.net) [{me}](http://about.me/tristanotierney) [{@}](https://twitter.com/tristan) [{f}](https://www.facebook.com/omnivector) [{LI}](http://www.linkedin.com/in/tristanotierney)
+* __Uli Kusterer__ [{@}](https://twitter.com/uliwitness) [{f}](https://www.facebook.com/uliwitness)
 * Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
 *	Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
 * Vinay Gupta
 * Volker Mohr
+* Werner Vogels [{f}](https://www.facebook.com/wernervogels), [Amazon]
 * Whitney Deathrage
-* __*Wil Shipley*__ [{W3}](http://wilshipley.com) [{@}](https://twitter.com/wilshipley), [Delicious Monster](http://delicious-monster.com), __Industry Legend__
+* __*Wil Shipley*__ [{W3}](http://wilshipley.com) [{@}](https://twitter.com/wilshipley) [{f}](https://www.facebook.com/wilshipley), [Delicious Monster](http://delicious-monster.com), __Industry Legend__
 * William Mottl
 * William Scarvie
 * Yuan-Ping Wu
@@ -366,8 +419,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Zee Kane, [The Next Web]
 
 [Aged and Distilled]: http://aged-and-distilled.com
+[Amazon]: http://amazon.com
 [Apple]: http://apple.com
 [Appsterdam]: http://appsterdam.rs
+[Apptentive]: http://apptentive.com
 [Atlassian]: https://atlassian.com
 [Big Nerd Ranch]: http://bignerdranch.com
 [Black Pixel]: http://blackpixel.com/
@@ -386,3 +441,4 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [The Loop]: http://loopinsight.com
 [The Next Web]: http://thenextweb.com
 [TUAW]: http://tuaw.com
+[Tumult]: http://tumult.com
