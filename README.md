@@ -310,7 +310,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Matt Legend Gemmell__ [{@}](https://twitter.com/mattgemmell)
 * Matt Long [{W3}](http://skyeroadsystems.com) [{@}](https://twitter.com/perlmunger)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
-* Matt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt)
+* Matt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
 * Maxie Ketschau-Repty
@@ -457,6 +457,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Fingertips]: http://www.fngtps.com
 [GitHub]: http://github.com
 [Glimworm]: http://www.glimworm.com
+[Heroku]: https://heroku.com
 [Iconfactory]: http://iconfactory.com
 [iMore]: http://imore.com
 [MartianCraft]: http://martiancraft.com
