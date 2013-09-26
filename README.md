@@ -47,6 +47,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Amber Castaldo
 * Amber Conville, Detroit Labs
 * Amy Hoy
+* Amy Jane Gruber [{@}](https://twitter.com/amyjane), ["Just The Tip"](http://justthetip.fm)
 * Amy Worrall
 * André LaBranche
 * *Andrew Kimpel*
@@ -123,7 +124,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Daniel Jilg [{W3}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
 * __Daniel Pasco__ [{@}](https://twitter.com/dlpasco) [{f}](https://www.facebook.com/dlpasco), [Black Pixel]
 * Dave Addey
-* Dave DeLong, [Apple]
+* Dave DeLong [{W3}](http://davedelong.com) [{@}](https://twitter.com/davedelong), [Apple]
 * Dave Dribin [{W3}](http://www.dribin.org/dave/) [{@}](https://twitter.com/ddribin)
 * Dave Hayden [{W3}](http://opaque.net/~dave/) [{@}](https://twitter.com/davehayden), __Puzzllotto Champion__
 * __Dave Thomas__ [{W3}](http://www.davethomas.net), Bedarra Research Labs
@@ -166,6 +167,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Floris van Alkemade, [New Lemurs]
 *	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
+*	Gedeon Maheux [{W3}](http://gedblog.com) [{@}](https://twitter.com/gedeon), [Iconfactory]
 *	George Dick [{@}](https://twitter.com/georgedick) [{f}](https://www.facebook.com/georgedick), [Black Pixel]
 *	George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
 *	Gerald Hensel
@@ -216,7 +218,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jeremy Tanner [{@}](https://twitter.com/Penguin)
 * Jerica Lurve
 * Jerrol Spier
-* Jessi Chartier
+* Jessi Chartier [{@}](https://twitter.com/pensandpaws)
 * Jessica Char [{f}](https://www.facebook.com/jessiechar), [Pacific Helm]
 * Jim Dalrymple, [The Loop], __Industry Legend__
 * Jim Dovey [{f}](https://www.facebook.com/jimdovey)
@@ -371,7 +373,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Ray Wenderlic [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
 *	Rene Ritchie, [iMore]
-*	Rich Siegel [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
+*	Rich Siegel [{@}](https://twitter.com/siegel) [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
 *	Richard Branson [{@}](https://twitter.com/richardbranson), Virgin, __Industry Legend__
 *	Richard Feldman
 *	Rick Ballard
