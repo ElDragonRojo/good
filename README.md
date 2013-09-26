@@ -129,8 +129,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Dave Verwer
 *	*Dave Wiskus* [{@}](https://twitter.com/dwiskus) [{f}](https://www.facebook.com/dwiskus)
 *	David Ballard
-*	David Barnard
-*	David Chartier
+*	David Barnard [{@}](https://twitter.com/drbarnard), [Contrast](http://contrast.co) (Formerly App Cubby)
+*	David Chartier [{W3}](http://davidchartier.com) [{@}](https://twitter.com/chartier)
 *	David Duncan [{f}](https://www.facebook.com/wizzard42), [Apple]
 *	David Lanham
 *	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
@@ -187,7 +187,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ivo Jansch, Egeniq
 * Jack Brewster
 * Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
-* Jacqui Cheng
+* Jacqui Cheng [{me}](http://about.me/jacquicheng) [{@}](https://twitter.com/ejacqui)
 * Jake Behrens [{W3}](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
@@ -429,7 +429,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
 *	Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
-* Vinay Gupta
+* Vinay Gupta [{W3}](http://vinay.howtolivewiki.com) [{@}](https://twitter.com/leashless)
 * Volker Mohr
 * Werner Vogels [{f}](https://www.facebook.com/wernervogels), [Amazon]
 * Whitney Deathrage
