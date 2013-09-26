@@ -255,7 +255,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Judy Hoctor
 * Justin Williams
 * __Kai Cherry__
-* __Keith Duncan__, GitHub
+* __Keith Duncan__ [{@}](https://twitter.com/keith_duncan) [{GH}](https://github.com/keithduncan), [GitHub]
 * Keith Mortensen [{f}](https://www.facebook.com/keith.mortensen), [Apple]
 * Keith Stattenfield [{f}](https://www.facebook.com/keith.stattenfield), [Apple]
 * __Kelly Somers__
@@ -452,6 +452,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Empirical Development]: http://www.empiricaldevelopment.com
 [Facebook]: http://facebook.com
 [Fingertips]: http://www.fngtps.com
+[GitHub]: http://github.com
 [Glimworm]: http://www.glimworm.com
 [Iconfactory]: http://iconfactory.com
 [MartianCraft]: http://martiancraft.com
