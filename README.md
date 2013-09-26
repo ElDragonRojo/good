@@ -84,7 +84,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Carolien Gehrels, City of Amsterdam
 *	Casey Fleser
 *	Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
-*	Cesare Rocchi
+*	Cesare Rocchi [{@}](https://twitter.com/_funkyboy)
 *	Cathy Shive [{f}](https://www.facebook.com/cathy.shive)
 *	Charles Perry
 *	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
@@ -135,7 +135,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
 *	Dieter Oude Kotte, City of Amsterdam
 *	Dirk Stoop [{f}](https://www.facebook.com/djstoop), [Facebook]
-* Don Ritzen, Rockstart
+* Don Ritzen [{@}](https://twitter.com/donritzen), [Rockstart]
 * *Doug Russell*
 *	Drew McCormack, Mental Faculty
 *	Duncan Davidson
@@ -448,6 +448,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Black Pixel]: http://blackpixel.com/
 [Double Encore]: http://www.doubleencore.com
 [Empirical Development]: http://www.empiricaldevelopment.com
+[Facebook]: http://facebook.com
 [Fingertips]: http://www.fngtps.com
 [Glimworm]: http://www.glimworm.com
 [Iconfactory]: http://iconfactory.com
@@ -457,6 +458,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Pacific Helm]: http://pacifichelm.com
 [Panic]: http://panic.com
 [PushIO]: http://push.io
+[Rockstart]: http://rockstart.com
 [Rogue Amoeba]: http://www.rogueamoeba.com
 [Salesforce]: http://salesforce.com
 [Sanoma]: http://sanoma.com
