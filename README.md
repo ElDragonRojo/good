@@ -52,6 +52,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * *Andrew Kimpel*
 * __Andrew Stone__, Stone Design, __Industry Legend__
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
+* Andy Ihnatko [{W3}](http://ihnatko.com) [{@}](https://twitter.com/ihnatko), Chicago Sun-Times
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
 * Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
 * Anthony Agius [{W3}](http://decryption.wordpress.com) [{@}](https://twitter.com/decryption)
@@ -165,7 +166,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Floris van Alkemade, [New Lemurs]
 *	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
-*	George Dick [{f}](https://www.facebook.com/georgedick), [Black Pixel]
+*	George Dick [{@}](https://twitter.com/georgedick) [{f}](https://www.facebook.com/georgedick), [Black Pixel]
 *	George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
 *	Gerald Hensel
 *	Giovanni Maggini
@@ -330,7 +331,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __*Mike Ash*__ [{W3}](http://mikeash.com) [{@}](https://twitter.com/mikeash)
 * Mike Cohen [{@}](https://twitter.com/mike3k) [{f}](https://www.facebook.com/mike3k)
 * __*Mike Matas*__ [{f}](https://www.facebook.com/mikematas), [Facebook]
-* *Mike Monteiro*
+* *Mike Monteiro* [{W3}](http://mikemonteiro.com) [{@}](https://twitter.com/mike_ftw)
 * __Mikey Ward__ [{@}](https://twitter.com/wookiee), [Big Nerd Ranch]
 * Mischa McLaclan
 * Moshen Chan
@@ -356,7 +357,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Paul Schreiber [{f}](https://www.facebook.com/paulschreiber)
 *	Paul van Dijk
 *	Peter Bierman [{W3}](http://peter.bierman.com) [{@}](https://twitter.com/pmb777) [{f}](https://www.facebook.com/peter.bierman)
-*	__Peter Cohen__, [The Loop]
+*	__Peter Cohen__ [{@}](https://twitter.com/flargh), [iMore], [The Loop]
 *	__Peter Hosey__ [{@}](https://twitter.com/boredzo)
 *	Peter Mitchell
 *	Peter Robinett [{f}](https://www.facebook.com/probinett)
@@ -368,7 +369,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Raul Portales
 *	Ray Wenderlic [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
-*	Rene Ritchie
+*	Rene Ritchie, [iMore]
 *	Rich Siegel [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
 *	Richard Branson [{@}](https://twitter.com/richardbranson), Virgin, __Industry Legend__
 *	Richard Feldman
@@ -427,6 +428,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Tristan O'Tierney__ [{W3}](http://otierney.net) [{me}](http://about.me/tristanotierney) [{@}](https://twitter.com/tristan) [{f}](https://www.facebook.com/omnivector) [{LI}](http://www.linkedin.com/in/tristanotierney)
 * __Uli Kusterer__ [{@}](https://twitter.com/uliwitness) [{f}](https://www.facebook.com/uliwitness)
 * Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
+* Vicki Tourtouras [{@}](https://twitter.com/vickitourtouras)
 *	Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
 * Vinay Gupta [{W3}](http://vinay.howtolivewiki.com) [{@}](https://twitter.com/leashless)
@@ -455,6 +457,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [GitHub]: http://github.com
 [Glimworm]: http://www.glimworm.com
 [Iconfactory]: http://iconfactory.com
+[iMore]: http://imore.com
 [MartianCraft]: http://martiancraft.com
 [New Lemurs]: http://newlemurs.com
 [Omni Group]: http://omnigroup.com
