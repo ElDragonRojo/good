@@ -107,6 +107,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Colin Barrett [{f}](https://www.facebook.com/colin.barrett)
 * __Collin Donnell__ [{f}](https://www.facebook.com/collindonnell)
 * __Corbin Dunn__ [{@}](https://twitter.com/nibroc) [{f}](https://www.facebook.com/nibroc), [Apple], __Industry Legend__
+* Cory Wiles [{W3}](http://corywiles.com/) [{@}](https://twitter.com/kwylez), [Salesforce]
 * Craig Hockenberry, [Iconfactory]
 * Dallas Brown [{G+}](https://plus.google.com/110990329338234434988)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
@@ -175,7 +176,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Hans verschooten [{@}](https://twitter.com/hansv)
 * Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
 * Dr. Helge Staedtler
-* Henry Balanon
+* Henry Balanon [{W3}](http://balanon.com) [{@}](https://twitter.com/balanon)
 * __*Hernan Pelassini*__ [{@}](https://twitter.com/hernanp)
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
 * Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
@@ -268,7 +269,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Krzysztof Zabłocki
 *	*Kyle Kinkade*
 * __Kyle Richter__ [{f}](https://www.facebook.com/kyle.richter.33), [Empirical Development]
-* Lassi Kurkijärvi
+* Lassi Kurkijärvi [{@}](https://twitter.com/lassi), [Sanoma]
 * Laurens Bon [{f}](https://www.facebook.com/laurens.bon)
 * Lauwrens Metz
 * Layton Duncan
@@ -456,6 +457,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Panic]: http://panic.com
 [PushIO]: http://push.io
 [Rogue Amoeba]: http://www.rogueamoeba.com
+[Salesforce]: http://salesforce.com
+[Sanoma]: http://sanoma.com
 [The Loop]: http://loopinsight.com
 [The Next Web]: http://thenextweb.com
 [TUAW]: http://tuaw.com
