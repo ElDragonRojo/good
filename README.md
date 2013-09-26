@@ -48,10 +48,10 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Amber Conville [{LI}](http://www.linkedin.com/pub/amber-conville/8/855/61), [Detroit Labs]
 * Amy Hoy [{W3}](http://unicornfree.com) [{@}](https://twitter.com/amyhoy)
 * Amy Jane Gruber [{@}](https://twitter.com/amyjane), ["Just The Tip"](http://justthetip.fm)
-* Amy Worrall
-* André LaBranche
-* *Andrew Kimpel*
-* __Andrew Stone__, Stone Design, __Industry Legend__
+* Amy Worrall [{W3}](http://amyworrall.com) [{a}](https://alpha.app.net/amy) [{@}](https://twitter.com/amyruthworrall) [{GH}](https://github.com/amyworrall)
+* André LaBranche [{W3}](http://dreness.com) [{@}](https://twitter.com/GuacamoleQueen) [{LI}](http://www.linkedin.com/pub/andre-labranche/2/517/aa8), [Apple]
+* *Andrew Kimpel* [{LI}](http://www.linkedin.com/in/andrewkimpel)
+* __Andrew Stone__ [{@}](https://twitter.com/twittelator), [Stone Design](http://stone.com), __Industry Legend__
 * Andria Jensen [{@}](https://twitter.com/andriajensen), [Appsolute Genius](http://appsolutegenius.com)
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
 * Andy Ihnatko [{W3}](http://ihnatko.com) [{@}](https://twitter.com/ihnatko), Chicago Sun-Times
@@ -59,8 +59,8 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
 * Anthony Agius [{W3}](http://decryption.wordpress.com) [{@}](https://twitter.com/decryption)
 * *Aral Balkan* [{W3}](http://aralbalkan.com) [{@}](https://twitter.com/aral), [Codename Prometheus}(http://codename-prometheus.eu)
-* Ariel Michaeli
-* Ash Furrow
+* Ariel Michaeli [{a}](https://alpha.app.net/rel) [{@}](https://twitter.com/arielmichaeli) [{LI}](http://www.linkedin.com/profile/view?id=15089805), [appFigures](http://appfigures.com)
+* Ash Furrow [{W3}](http://ashfurrow.com) [{@}](https://twitter.com/ashfurrow) [{GH}](https://github.com/AshFurrow)
 * August Joki [{f}](https://www.facebook.com/august.joki)
 * August "Gus" Mueller [{@}](https://twitter.com/ccgus) [{f}](https://www.facebook.com/ccgus), Flying Meat
 * Ben Hogan [{W3}](http://agileben.com) [{@}](https://twitter.com/agileben) [{LI}](http://www.linkedin.com/in/agileben)
