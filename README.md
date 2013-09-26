@@ -133,7 +133,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	David Ballard
 *	David Barnard [{@}](https://twitter.com/drbarnard), [Contrast](http://contrast.co) (Formerly App Cubby)
 *	David Chartier [{W3}](http://davidchartier.com) [{@}](https://twitter.com/chartier)
-*	David Duncan [{f}](https://www.facebook.com/wizzard42), [Apple]
+*	David Duncan [{@}](https://twitter.com/rincewindsama) [{f}](https://www.facebook.com/wizzard42), [Apple]
 *	David Lanham
 *	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
 *	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
@@ -161,7 +161,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
 *	Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
 *	Faruk Ates
-*	Federico Viticci
+*	Federico Viticci [{@}](https://twitter.com/viticci), [MacStories](http://macstories.net)
 *	Felix Lepoutre
 *	Florian Brueckner
 *	Floris van Alkemade, [New Lemurs]
@@ -202,7 +202,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jared Wyles
 * Jason Beaver [{f}](https://www.facebook.com/jasoncbeaver), [Apple]
 * Jason Harris [{@}](https://twitter.com/smeger) [{f}](https://www.facebook.com/smeger)
-* Jason Snell
+* Jason Snell [{W3}](http://intertext.com) [{me}](http://about.me/jsnell) [{@}](https://twitter.com/jsnell)
 * Jason Yeo [{f}](https://www.facebook.com/jasonyeoyeoyeo), [Apple]
 * Jasper Hauser [{f}](https://www.facebook.com/jasper.hauser), [Facebook]
 *	Jay Freeman
@@ -251,7 +251,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Jose Vazquez [{@}](https://twitter.com/josevazquez), NSCoderNightDC, [Rogue Amoeba]
 * Josh Clark, "Tapworthy"
 * Josh Johnson
-* __Josh Michaels__
+* __Josh Michaels__ [{@}](https://twitter.com/joshjet) [Jetson Creative](http://magicwindowapp.com)
 * Joshua McKenty
 * Joy-Vincent Niemantsverdriet [{f}](https://www.facebook.com/joyvincentn), [Instagram]
 * __Judy Chen__ [{@}](https://twitter.com/judykitteh), [Appsterdam]
@@ -301,7 +301,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
 * Mark Pospesel
-* Mark Voermans, Microsoft
+* Mark Voermans [{W3}](http://markvoer.com) [{@}](https://twitter.com/markvoer), [Microsoft]
 * Markus Nigrin
 * Martin Adoue
 * Martinus Meiborg [{f}](https://www.facebook.com/martinus.meiborg), [Appsterdam]
@@ -340,7 +340,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Moshen Chan
 * Nate True [{W3}](http://cre.ations.net/blog) [{@}](https://twitter.com/natetrue) [{f}](https://www.facebook.com/Natetrue)
 * Nathan De Vries
-* __Nathan Eror__, [Empirical Development]
+* __Nathan Eror__ [{@}](https://twitter.com/neror), [Empirical Development], [Free Time Studios](http://freetimestudios.com)
 * Neil Inglis [{W3}](http://neilinglis.com/)  [{@}](https://twitter.com/neilinglis)
 *	Nevan King [{@}](https://twitter.com/NevanKing)
 *	Neven Mrgan, [Panic]
@@ -463,6 +463,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Iconfactory]: http://iconfactory.com
 [iMore]: http://imore.com
 [MartianCraft]: http://martiancraft.com
+[Microsoft]: http://microsoft.com
 [New Lemurs]: http://newlemurs.com
 [Omni Group]: http://omnigroup.com
 [Pacific Helm]: http://pacifichelm.com
