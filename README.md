@@ -57,6 +57,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Ash Furrow
 * August Joki [{f}](https://www.facebook.com/august.joki)
 * August "Gus" Mueller [{@}](https://twitter.com/ccgus) [{f}](https://www.facebook.com/ccgus), Flying Meat
+* Ben Hogan [{W3}](http://agileben.com) [{@}](https://twitter.com/agileben) [{LI}](http://www.linkedin.com/in/agileben)
 * Ben Jackson
 * Ben Scheirman
 * Ben Trumbull
