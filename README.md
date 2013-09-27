@@ -178,6 +178,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
 *	Gerald Hensel [{@}](https://twitter.com/ghensel)
 *	Gertjan Rösken, [{@}](https://twitter.com/GertjanRosken) [{LI}](http://www.linkedin.com/pub/gertjan-rösken/4/12/a41), [Rabobank](http://rabobank.com)
+* Gijs van Klooster [{@}](https://twitter.com/abcgijs)
 *	Giovanni Maggini [{@}](https://twitter.com/maggix)
 *	__Glen Aspeslagh__ [{@}](https://twitter.com/pimpinglen)
 *	__Graham Lee__ [{@}](https://twitter.com/secboffin) [{f}](https://www.facebook.com/iamleeg)
