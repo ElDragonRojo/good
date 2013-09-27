@@ -49,6 +49,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Adam Swift [{f}](https://www.facebook.com/redmud), [Apple]
 * Adrian Kosmaczewski [{W3}](http://kosmaczewski.net) [{@}](https://twitter.com/akosma) [{LI}](http://www.linkedin.com/in/akosma)
 * Alan Francis [{W3}](http://alancfrancis.com) [{a}](https://alpha.app.net/acf) [{@}](https://twitter.com/alancfrancis) [{LI}](http://www.linkedin.com/in/alancfrancis) [{GH}](https://github.com/acf), [LivingSocial](https://corporate.livingsocial.com)
+* Alastair Houghton [{@}](https://twitter.com/alastairh)
 * Alex Blewitt [{W3}](http://alblue.bandlem.com) [{@}](https://twitter.com/alblue) [{LI}](http://www.linkedin.com/in/alblue) 
 * Alex Cone [{@}](https://twitter.com/alexcone), [CodeFab]
 * Alex Lagutin, [Rogue Amoeba]
