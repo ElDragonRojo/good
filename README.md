@@ -115,6 +115,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __Corbin Dunn__ [{@}](https://twitter.com/nibroc) [{f}](https://www.facebook.com/nibroc), [Apple], __Industry Legend__
 * Cory Wiles [{W3}](http://corywiles.com/) [{@}](https://twitter.com/kwylez), [Salesforce]
 * Craig Hockenberry, [Iconfactory]
+* Craig Stanford [{@}](https://twitter.com/thepaddedcell)
 * Dallas Brown [{G+}](https://plus.google.com/110990329338234434988)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
 * Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
@@ -291,8 +292,9 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Lili Sang [{f}](https://www.facebook.com/lili.sang.3), [Apple]
 * Linda Ouandji [{f}](https://www.facebook.com/linda.ouandji)
 * Lindsay Giachetti [{@}](https://twitter.com/lgiachetti) [{d}](http://dribbble.com/lgiachetti), [Double Encore]
+* __Loren Brichter__ [{@}](https://twitter.com/lorenb) [{LI}](http://www.linkedin.com/in/lorenbrichter) [{GH}](https://github.com/atebits), [atebits](http://atebits.com)
 * __*Louie Mantia*__ [{@}](https://twitter.com/mantia) [{d}](http://dribbble.com/mantia), [Pacific Helm]
-* Lucius Kwok
+* Lucius Kwok [{@}](https://twitter.com/luciuskwok), [felt tip](http://felttip.com)
 * Lyndia Ives Zarra [{f}](https://www.facebook.com/lizarra)
 * Magnus Dahl
 * Malcolm Crawford, __Industry Legend__
@@ -339,6 +341,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * __*Mike Ash*__ [{W3}](http://mikeash.com) [{@}](https://twitter.com/mikeash)
 * Mike Berg [{@}](https://twitter.com/weheartgames) [We Heart Games](http://weheartgames.com)
 * Mike Cohen [{@}](https://twitter.com/mike3k) [{f}](https://www.facebook.com/mike3k)
+* Mike Glass [{@}](https://twitter.com/Skroob)
 * __*Mike Matas*__ [{f}](https://www.facebook.com/mikematas), [Facebook]
 * *Mike Monteiro* [{W3}](http://mikemonteiro.com) [{@}](https://twitter.com/mike_ftw)
 * __Mikey Ward__ [{@}](https://twitter.com/wookiee), [Big Nerd Ranch]
@@ -436,6 +439,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 * Tom Maes [{@}](https://twitter.com/tmaes)
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
+* Tony Arnold [{@}](https://twitter.com/TonyArnold)
 * __Tristan O'Tierney__ [{W3}](http://otierney.net) [{me}](http://about.me/tristanotierney) [{@}](https://twitter.com/tristan) [{f}](https://www.facebook.com/omnivector) [{LI}](http://www.linkedin.com/in/tristanotierney)
 * Tyler Morrison, [Haiku Software](http://haikusoftware.com)
 * __Uli Kusterer__ [{@}](https://twitter.com/uliwitness) [{f}](https://www.facebook.com/uliwitness)
