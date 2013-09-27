@@ -92,7 +92,8 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Bradley Ellis [{f}](https://www.facebook.com/BradleyEllis), [Pacific Helm]
 * Brandon Walkin [{f}](https://www.facebook.com/bwalkin)
 * __Brent Simmons__ [{@}](https://twitter.com/brentsimmons), __Industry Legend__
-* Brian LeRoux 
+* Brian Henderson [{me}](http://flavors.me/brian_henderson) [{@}](https://twitter.com/brian_henderson)
+* Brian LeRoux [{W3}](http://brian.io) [{@}](https://twitter.com/brianleroux) [{LI}](http://www.linkedin.com/profile/view?id=182534) [{GH}](https://github.com/brianleroux)
 * Brianna Wu [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal), Giant Spacekat
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 * Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
