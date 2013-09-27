@@ -255,6 +255,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	*John Randolph* [{@}](https://twitter.com/NSResponder) [{f}](https://www.facebook.com/NSResponder), __Industry Legend__
 *	*John Welch*
 * __John Wilker__ [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), __Industry Legend__
+* Jon Woodroof [{@}](https://twitter.com/twotoneatl), [Big Nerd Ranch]
 * Jonah Neugass
 * Jonathan Carter, [Glimworm]
 * Jonathan Dann [{f}](https://www.facebook.com/j.p.dann), [Facebook]
@@ -270,6 +271,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Jorn van Dijk [{f}](https://www.facebook.com/jornvandijk)
 * Jose Vazquez [{@}](https://twitter.com/josevazquez), NSCoderNightDC, [Rogue Amoeba]
 * Josh Clark, "Tapworthy"
+* Josh Graham [{@}](https://twitter.com/delitescere)
 * Josh Johnson
 * __Josh Michaels__ [{@}](https://twitter.com/joshjet) [Jetson Creative](http://magicwindowapp.com)
 * Joshua McKenty [{me}](http://about.me/jmckenty) [{@}](https://twitter.com/jmckenty)
@@ -289,6 +291,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Kevin Ballard [{f}](https://www.facebook.com/kevinballard)
 * Kevin Elliott [{f}](https://www.facebook.com/kevin.elliott.3323), [Apple]
 * Kevin Hoctor [{f}](https://www.facebook.com/kevinhoctor)
+* Kevin Kim [{@}](https://twitter.com/kykim)
 * Kirby Turner [{W3}](http://kirbyturner.com) [{@}](https://twitter.com/kirbyt) [{GH}](https://github.com/kirbyt)
 * Klaas Pieter Annema [{f}](https://www.facebook.com/klaaspieter)
 * __*Klaas Speller*__ [{@}](https://twitter.com/spllr) [{f}](https://www.facebook.com/klaasspeller), [New Lemurs]
@@ -439,6 +442,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Stephen Ives__ [{f}](https://www.facebook.com/smives), Smirk Design
 * *Stephen Martin* [{f}](https://www.facebook.com/stephen.martin.9081)
 * __Steve "Scotty" Scott__ [{@}](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), __Industry Legend__
+* Steve Sorbo [{@}](https://twitter.com/macsosguy) [{f}](https://www.facebook.com/srsorbo) [{LI}](http://www.linkedin.com/pub/steve-sorbo/11/467/629), [MacS.O.S.](http://seattlemacsos.com)
 * Steven Frank, [Panic]
 * Stoney Gamble [{f}](https://www.facebook.com/stoneygamble)
 * __Tara Ross__ [{@}](https://twitter.com/tross6) [{f}](https://www.facebook.com/tara.ross.520), [Appsterdam]
