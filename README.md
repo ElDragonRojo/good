@@ -2,15 +2,27 @@
 
 This is a partial list of good companies and people I believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. 
 
-Companies listed are large enough that I don't know everyone who works there, but well regarded enough that merely working there is enough to earn my respect and admiration.
+### How to think of this list
+
+If you needed a job, and I could afford it, I would hire you if:
+
+1. Your name is on this list.
+2. You worked for a company on this list.
+3. You were introduced to me by someone whose name is in __bold__.
+
+### Legend
 
 Names in __bold__ are people of exceptional quality—typically people I have worked with or know well enough to go so far as to risk my personal reputation to vouch for them. Names in *italics* are intensely strong-willed people with me on the A* list.
 
 Industry Legends are people who have been around for a very long time, are very well known, have been involved in so many things that there's no easy way to describe them, or are generally considered to have made such tremendous contributions to the industry in the past that nothing further is expected from them.
 
-This list should not be considered complete, nor does non-inclusion imply anything. Please file issues to suggest changes, and fork this list to create your own.
+### Disclaimer
 
-## Companies
+This list should not be considered complete, nor does non-inclusion imply anything. For more information, read the [WAT](./WAT.md).
+
+Please [file issues](./issues) to suggest changes, and fork this list to create your own.
+
+## Good Companies
 
 * [Apple]
 * [Atlassian]
@@ -29,7 +41,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	[Realmac Software]
 *	[Rogue Amoeba]
 
-## People
+## Good People
 
 * __Aaron Hillegass__ [{@}](https://twitter.com/aaronhillegass), [Big Nerd Ranch], __Industry Legend__
 * Aaron Tuller [{@}](https://twitter.com/tullera) [{f}](https://www.facebook.com/tullera) [{LI}](http://www.linkedin.com/in/tullera)
