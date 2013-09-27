@@ -18,9 +18,9 @@ Industry Legends are people who have been around for a very long time, are very 
 
 ### Disclaimer
 
-This list should not be considered complete, nor does non-inclusion imply anything. For more information, read the [WAT](./WAT.md).
+This list should not be considered complete, nor does non-inclusion imply anything. For more information, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
 
-Please [file issues](./issues) to suggest changes, and fork this list to create your own.
+Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own.
 
 ## Good Companies
 
