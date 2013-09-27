@@ -413,7 +413,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Ros (Hodgekiss) De Vries
 * *Rudy Richter*
 * Ryan Nielsen [{@}](https://twitter.com/ryannielsen) [{f}](https://www.facebook.com/ryannielsen), [Tumult]
-* Sal Conigliaro
+* Sal Conigliaro [{@}](https://twitter.com/sconig), [{a}](https://alpha.app.net/sconig), [e design](http://www.erinedesign.com)
 * *Sam Noble*
 * __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
 * __Saul Mora__ [{@}](https://twitter.com/casademora) [{f}](https://www.facebook.com/saulmora), [Magical Panda](http://magicalpanda.com)__
