@@ -346,7 +346,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Merel Ivens [{f}](https://www.facebook.com/MissMerel)
 * Michael Gorbach [{f}](https://www.facebook.com/mgorbach), [Black Pixel]
 * __Dr. Michael Johnson__, [Pixar], __Industry Legend__
-* *Michael Margolis*
+* *Michael Margolis* [{W3}](http://shutternomad.com) [{@}](https://twitter.com/yipe)
 * Michael Rose, [TUAW]
 * __Michael Simmons__
 * __Michael Jurewitz__ [{@}](https://twitter.com/Jury) [{f}](https://www.facebook.com/jurewitz), __Industry Legend__
