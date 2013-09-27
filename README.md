@@ -95,6 +95,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Brian Henderson [{me}](http://flavors.me/brian_henderson) [{@}](https://twitter.com/brian_henderson)
 * Brian LeRoux [{W3}](http://brian.io) [{@}](https://twitter.com/brianleroux) [{LI}](http://www.linkedin.com/profile/view?id=182534) [{GH}](https://github.com/brianleroux)
 * Brianna Wu [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal), Giant Spacekat
+* Bruno Koga [{@}](https://twitter.com/brunokoga) [{LI}](http://www.linkedin.com/in/brunokoga) [{GH}](https://github.com/brunokoga)
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 * Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
 *	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
