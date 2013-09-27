@@ -401,7 +401,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	Rick Ballard
 *	Rob Elkin [{@}](https://twitter.com/robelkin)
 *	__Rob Longridge__
-* __*Rob Rhyne* [{@}](https://twitter.com/capttaco), [MartianCraft]
+* __*Rob Rhyne*__ [{@}](https://twitter.com/capttaco), [MartianCraft]
 *	Robb Albright
 *	Robert Andersen [{f}](https://www.facebook.com/robertshane)
 *	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
