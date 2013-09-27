@@ -212,6 +212,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Jack Brewster
 * Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
 * Jacqui Cheng [{me}](http://about.me/jacquicheng) [{@}](https://twitter.com/ejacqui)
+* Jaimee Newberry [{me}](http://ohheyjaimee.tumblr.com/about) [{@}](https://twitter.com/jaimeejaimee)
 * Jake Behrens [{W3}](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
@@ -254,6 +255,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	*John Gruber* [{@}](https://twitter.com/gruber)
 *	John Moltz [{W3}](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
 *	*John Randolph* [{@}](https://twitter.com/NSResponder) [{f}](https://www.facebook.com/NSResponder), __Industry Legend__
+* John Siracusa [{W3}](http://hypercritical.co) [{@}](https://twitter.com/siracusa)
 *	*John Welch*
 * __John Wilker__ [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), __Industry Legend__
 * Jon Woodroof [{@}](https://twitter.com/twotoneatl), [Big Nerd Ranch]
@@ -344,6 +346,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Maxie Ketschau-Repty
 * Mercedes Portales
 * Merel Ivens [{f}](https://www.facebook.com/MissMerel)
+* Michael Fey [{me}](http://about.me/michaelfey) [{@}](https://twitter.com/MrRooni)
 * Michael Gorbach [{f}](https://www.facebook.com/mgorbach), [Black Pixel]
 * __Dr. Michael Johnson__, [Pixar], __Industry Legend__
 * *Michael Margolis* [{W3}](http://shutternomad.com) [{@}](https://twitter.com/yipe)
@@ -444,6 +447,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * *Stephen Martin* [{f}](https://www.facebook.com/stephen.martin.9081)
 * __Steve "Scotty" Scott__ [{@}](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), __Industry Legend__
 * Steve Sorbo [{@}](https://twitter.com/macsosguy) [{f}](https://www.facebook.com/srsorbo) [{LI}](http://www.linkedin.com/pub/steve-sorbo/11/467/629), [MacS.O.S.](http://seattlemacsos.com)
+* Steve Weller [{W3}](http://steveweller.com) [{@}](https://twitter.com/Bagelturf)
 * Steven Frank, [Panic]
 * Stoney Gamble [{f}](https://www.facebook.com/stoneygamble)
 * __Tara Ross__ [{@}](https://twitter.com/tross6) [{f}](https://www.facebook.com/tara.ross.520), [Appsterdam]
@@ -451,6 +455,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Thad McDowell
 * *Thijs van der Vossen* [{W3}](http://www.vandervossen.net) [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen), [Fingertips] 
 * Thomas Muldowney [{@}](https://twitter.com/temas) [{LI}](http://www.linkedin.com/profile/view?id=4877683)
+* Tim Burks [{W3}](http://radtastical.com) [{@}](https://twitter.com/timburks) [{LI}](http://www.linkedin.com/in/timburks) [{GH}](https://github.com/timburks)
 * Tim Titus [{f}](https://www.facebook.com/TimTituskukje)
 * Tim Wood [{@}](https://twitter.com/tjw) [{LI}](http://www.linkedin.com/pub/timothy-wood/10/727/860), [Omni Group]
 * Timo de Winter [{W3}](http://timodewinter.nl) [{@}](https://twitter.com/timotje) [{LI}](http://www.linkedin.com/in/timodewinter)
