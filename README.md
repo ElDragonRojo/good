@@ -185,7 +185,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 *	Grant Farr, [Rogue Amoeba]
 *	Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
 * __Guy English__ [{W3}](http://kickingbear.com) [{@}](https://twitter.com/gte) [{f}](https://www.facebook.com/kickingbear), [Aged and Distilled]
-* Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), Industry Legend
+* Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), [Industry Legend]
 * Halle Winkler [{@}](https://twitter.com/Politepix)
 * Hans verschooten [{@}](https://twitter.com/hansv)
 * Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
@@ -480,6 +480,7 @@ This list should not be considered complete, nor does non-inclusion imply anythi
 [Heroku]: https://heroku.com
 [Iconfactory]: http://iconfactory.com
 [iMore]: http://imore.com
+[Instagram]: http://instagram.com
 [MartianCraft]: http://martiancraft.com
 [Mental Faculty]: http://mentalfaculty.com
 [Microsoft]: http://microsoft.com
