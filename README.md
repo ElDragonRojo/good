@@ -63,7 +63,6 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Amy Jane Gruber [{@}](https://twitter.com/amyjane), ["Just The Tip"](http://justthetip.fm)
 * Amy Worrall [{W3}](http://amyworrall.com) [{a}](https://alpha.app.net/amy) [{@}](https://twitter.com/amyruthworrall) [{GH}](https://github.com/amyworrall)
 * André LaBranche [{W3}](http://dreness.com) [{@}](https://twitter.com/GuacamoleQueen) [{LI}](http://www.linkedin.com/pub/andre-labranche/2/517/aa8), [Apple]
-* *Andrew Kimpel* [{LI}](http://www.linkedin.com/in/andrewkimpel)
 * __Andrew Stone__ [{@}](https://twitter.com/twittelator), [Stone Design](http://stone.com), __Industry Legend__
 * Andria Jensen [{@}](https://twitter.com/andriajensen), [Appsolute Genius](http://appsolutegenius.com)
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
