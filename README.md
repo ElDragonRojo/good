@@ -326,6 +326,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Markus Nigrin
 * Martin Adoue
 * Martinus Meiborg [{f}](https://www.facebook.com/martinus.meiborg), [Appsterdam]
+* __Mary Brunson__
 * Mathys van Abbe [{@}](https://twitter.com/mathys), [Mobypicture](http://mobypicture.com)
 * __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance) [{f}](https://www.facebook.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
