@@ -402,7 +402,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 *	Quentin Carnicelli, [Rogue Amoeba]
 *	__Rachel Kinkade__
 *	Raul Portales
-*	Ray Wenderlic [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
+*	Ray Wenderlich [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
 *	Rene Ritchie [{me}](http://about.me/reneritchie) [{@}](https://twitter.com/reneritchie), [iMore]
 *	Rich Siegel [{@}](https://twitter.com/siegel) [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
