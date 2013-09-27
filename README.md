@@ -337,7 +337,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Matt Drance__ [{W3}](http://appleoutsider.com) [{@}](https://twitter.com/drance) [{f}](https://www.facebook.com/drance), [Bookhouse Software](http://bookhousesoftware.com), __Industry Legend__
 * Matt Feigal
 * Matt Johnson [{W3}](http://cimota.com) [{@}](https://twitter.com/cimota)
-* __Matt Gemmell__ [{W3}](mattgemmell.com) [{@}](https://twitter.com/mattgemmell)
+* __Matt Gemmell__ [{W3}](http://mattgemmell.com) [{@}](https://twitter.com/mattgemmell)
 * Matt Long [{W3}](http://skyeroadsystems.com) [{@}](https://twitter.com/perlmunger)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
 * Matt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
