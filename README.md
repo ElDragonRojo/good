@@ -345,7 +345,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Matt Gemmell__ [{W3}](http://mattgemmell.com) [{@}](https://twitter.com/mattgemmell)
 * Matt Long [{W3}](http://skyeroadsystems.com) [{@}](https://twitter.com/perlmunger)
 * Matt Pennig [{@}](https://twitter.com/pennig), [Space150](http://space150.com)
-* Matt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
+* Mattt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
 * Maxie Ketschau-Repty
