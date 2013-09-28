@@ -1,6 +1,12 @@
 # The Good List
 
-This is a partial list of good companies and people I believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. 
+Everyone has a list of good companies and people they believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Mine just happens to be on GitHub.
+
+### Disclaimer
+
+This list should not be considered complete, nor does non-inclusion imply anything. For more information, and before complaining about it, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
+
+Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own, because I certainly don't know who all the good people are.
 
 ### How to think of this list
 
@@ -16,11 +22,6 @@ Names in __bold__ are people of exceptional quality—typically people I have wo
 
 Industry Legends are people who have been around for a very long time, are very well known, have been involved in so many things that there's no easy way to describe them, or are generally considered to have made such tremendous contributions to the industry in the past that nothing further is expected from them.
 
-### Disclaimer
-
-This list should not be considered complete, nor does non-inclusion imply anything. For more information, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
-
-Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own.
 
 ## Good Companies
 
