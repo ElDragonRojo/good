@@ -304,6 +304,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * __Kyle Richter__ [{f}](https://www.facebook.com/kyle.richter.33), [Empirical Development]
 * Lassi Kurkijärvi [{@}](https://twitter.com/lassi), [Sanoma]
 * Laurens Bon [{f}](https://www.facebook.com/laurens.bon)
+* Laurent Baumann [{W3}](http://lbaumann.com) [{@}](https://twitter.com/lobau)
 * Lauwrens Metz
 * Layton Duncan
 * Lee Falin, [Rogue Amoeba]
