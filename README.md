@@ -469,7 +469,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Tim Wood [{@}](https://twitter.com/tjw) [{LI}](http://www.linkedin.com/pub/timothy-wood/10/727/860), [Omni Group]
 * Timo de Winter [{W3}](http://timodewinter.nl) [{@}](https://twitter.com/timotje) [{LI}](http://www.linkedin.com/in/timodewinter)
 * Tom Clark, [Apple]
-* Tom Harrington
+* Tom Harrington [{W3}](http://atomicbird.com) [{@}](https://twitter.com/atomicbird)
 * Tom Maes [{@}](https://twitter.com/tmaes)
 * __Tom Ortega__ [{@}](https://twitter.com/LordBron), [Omega Ortega](http://omegaortega.com)
 * *Tom Santero* [{@}](https://twitter.com/tsantero)
