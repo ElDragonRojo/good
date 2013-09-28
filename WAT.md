@@ -39,7 +39,7 @@ In general, no. Being on the list means that I know you, and have no reason to n
 
 ### What about privacy?
 
-I have tried hard to only use public information, to respect people's privacy, and to keep things as accurate as possible. For example, I might think someone works at Apple, but if they haven't said so publicly, maybe the left Apple, or they don't want people to know where they work. Either way, I'm not trying to out anyone, and if you ever want your name or information removed from the list, I am happy to oblige.
+I have tried hard to only use public information, to respect people's privacy, and to keep things as accurate as possible. For example, I might think someone works at Apple, but if they haven't said so publicly, maybe they left Apple, or they don't want people to know where they work. Either way, I'm not trying to out anyone, and if you ever want your name or information removed from the list, I am happy to oblige.
 
 
 ### What is the "A* List"?
