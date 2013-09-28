@@ -15,7 +15,7 @@ If you needed a job, and I could afford it, I would hire you if:
 Names in __bold__ are people of exceptional quality—typically people I have worked with or know well enough to go so far as to risk my personal reputation to vouch for them. Names in *italics* are intensely strong-willed people with me on the A* list.
 
 Industry Legends are people who have been around for a very long time, are very well known, have been involved in so many things that there's no easy way to describe them, or are generally considered to have made such tremendous contributions to the industry in the past that nothing further is expected from them.
-t
+
 ### Disclaimer
 
 This list should not be considered complete, nor does non-inclusion imply anything. For more information, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
