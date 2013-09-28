@@ -135,7 +135,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
 * Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
 * Dan Counsell [{W3}](dancounsell.com) [{@}](https://twitter.com/dancounsell), [Realmac Software]
-* Dan Frakes
+* Dan Frakes [{W3}](http://danfrakes.com) [{a}](https://alpha.app.net/danfrakes) [{@}](https://twitter.com/danfrakes)
 * Dan North
 * Dan Weeks [{a}](http://alpha.app.net/danimal) [{@}](https://twitter.com/danimal)
 * Dan Wood
