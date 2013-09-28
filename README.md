@@ -207,6 +207,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
 * Dr. Helge Staedtler [{W3}](http://noxymo.com) [{@}](https://twitter.com/noxymo) [{GH}](https://github.com/trailblazr)
 * Henry Balanon [{W3}](http://balanon.com) [{@}](https://twitter.com/balanon)
+* __Hernan "CJ" Calabrese__ [{W3}](http://hernanc.com.ar) [{@}](https://twitter.com/hernancalabrese)
 * __*Hernan Pelassini*__ [{@}](https://twitter.com/hernanp)
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
 * Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
