@@ -138,7 +138,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
 * Dan Counsell [{W3}](dancounsell.com) [{@}](https://twitter.com/dancounsell), [Realmac Software]
 * Dan Frakes [{W3}](http://danfrakes.com) [{a}](https://alpha.app.net/danfrakes) [{@}](https://twitter.com/danfrakes)
-* Dan North
+* Dan North [{W3}](http://dannorth.net) [{@}](https://twitter.com/tastapod)
 * Dan Weeks [{a}](http://alpha.app.net/danimal) [{@}](https://twitter.com/danimal)
 * Dan Wood
 * Daniel Jalkut [{f}](https://www.facebook.com/jalkut), __Industry Legend__
