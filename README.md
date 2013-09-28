@@ -222,6 +222,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * James Thomson, PCalc
 * Jana Boruta
 * Jane Lee [{W3}](http://janeylicious.com) [{@}](https://twitter.com/janeylicious) [{f}](https://www.facebook.com/janeylicious) [{G+}](https://plus.google.com/117394978411570387460)
+* __Jane McGonigal__ [{W3}](http://janemcgonigal.com) [{@}](https://twitter.com/avantgame), __Industry Legend__
 * Janene Pappas, [Black Pixel]
 * Jared Wyles
 * Jason Beaver [{f}](https://www.facebook.com/jasoncbeaver), [Apple]
