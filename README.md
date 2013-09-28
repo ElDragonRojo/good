@@ -332,6 +332,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Marga Keuvelaar [{@}](https://twitter.com/whakkee) [{f}](https://www.facebook.com/whakkee), Obvious Matter
 * Mark Aufflick [{W3}](http://mark.aufflick.com) [{@}](https://twitter.com/markaufflick)
 * Mark Boszko [{@}](https://twitter.com/bobtiki) [{f}](https://www.facebook.com/bobtiki)
+* Mark Dalrymple [{W3}](http://borkwarellc.wordpress.com) [{@}](https://twitter.com/borkware), [Big Nerd Ranch]
 * __Mark Johns__ [{W3}](http://doomlaser.com) [{@}](https://twitter.com/doomlaser) [{f}](https://www.facebook.com/hobos)
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
