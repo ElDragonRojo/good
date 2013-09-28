@@ -209,6 +209,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
 * Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
 * Igor Sutton [{f}](https://www.facebook.com/igorsutton)
+* Ingrid Lunden [{@}](http://twitter.com/ingridlunden), [Techcrunch]
 * Ivo Jansch, Egeniq
 * Jack Brewster
 * Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
@@ -519,6 +520,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 [Rogue Amoeba]: http://www.rogueamoeba.com
 [Salesforce]: http://salesforce.com
 [Sanoma]: http://sanoma.com
+[Techcrunch]: http://techcrunch.com
 [The Loop]: http://loopinsight.com
 [The Next Web]: http://thenextweb.com
 [TUAW]: http://tuaw.com
