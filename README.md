@@ -210,6 +210,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
 * Igor Sutton [{f}](https://www.facebook.com/igorsutton)
 * Ingrid Lunden [{@}](http://twitter.com/ingridlunden), [Techcrunch]
+* Isaiah Carew [{me}](http://about.me/isaiah) [{a}](https://alpha.app.net/isaiah) [{@}](https://twitter.com/isaiah) [YourHead Software](http://yourhead.com)
 * Ivo Jansch, Egeniq
 * Jack Brewster
 * Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
