@@ -111,7 +111,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Charles Perry [{@}](https://twitter.com/dazeend), [Leaf Hut Software](http://leafhut.com)
 *	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 *	Chris Barajas, [Rogue Amoeba]
-* __Chris "Clarko" Clark__ [{f}](https://www.facebook.com/christopher.russell.clark)
+* __Chris "Clarko" Clark__ [{@}](https://twitter.com/clarko) [{f}](https://www.facebook.com/christopher.russell.clark)
 * *Chris Espinosa* [{@}](https://twitter.com/cdespinosa) [{f}](https://www.facebook.com/cdespinosa), [Apple], __Industry Legend__
 * Chris Foresman [{@}](https://twitter.com/foresmac)
 * Chris Hansen [{@}](https://twitter.com/eschaton) [{f}](https://www.facebook.com/eschaton), [Apple]
@@ -123,7 +123,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Chris Walters [{@}](https://twitter.com/chwalters)
 * Christa Mrgan [{@}](https://twitter.com/antichrista), [Rogue Amoeba]
 * __Christine Palmieri-Bumgarner__ [{f}](https://www.facebook.com/bbumgarner)
-* Christopher Bowns [{f}](https://www.facebook.com/cbowns)
+* Christopher Bowns [{@}](https://twitter.com/cbowns) [{f}](https://www.facebook.com/cbowns)
 * Christopher Phin [{@}](https://twitter.com/chrisphin)
 * Chuck Toporek [{f}](https://www.facebook.com/chuckdude)
 * Cindy Morris
