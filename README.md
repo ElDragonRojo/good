@@ -256,7 +256,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Joe Heck [{f}](https://www.facebook.com/ccjoe)
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
 * __Joe Ricioppo__
-* Joey Hagedorn [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
+* Joey Hagedorn [{@}](https://twitter.com/joeyhagedorn) [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
 * __John Fox__
 * John Geleynse, [Apple]
 *	*John Gruber* [{@}](https://twitter.com/gruber)
@@ -269,7 +269,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Jonah Neugass
 * Jonathan Carter, [Glimworm]
 * Jonathan Dann [{f}](https://www.facebook.com/j.p.dann), [Facebook]
-* Jonathan Deutsch [{f}](https://www.facebook.com/tumultco), [Tumult]
+* Jonathan Deutsch [{@}](https://twitter.com/jmfd) [{f}](https://www.facebook.com/tumultco), [Tumult]
 * Jonathan Penn
 * Jonathan Rhyne, Smith Debnam Attorneys at Law
 * __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
@@ -363,7 +363,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Michael Simmons__
 * __Michael Jurewitz__ [{@}](https://twitter.com/Jury) [{f}](https://www.facebook.com/jurewitz), __Industry Legend__
 * __Michael Lowdermilk__ [{f}](https://www.facebook.com/michael.lowdermilk)
-* Michele Titolo
+* Michele Titolo [{@}](https://twitter.com/micheletitolo)
 * Michelle Yaiser
 * Michiel de Graaf [{W3}](http://www.michieldegraaf.com) [{@}](https://twitter.com/graafdemichiel) [{f}](https://www.facebook.com/graafmichiel) [{d}](http://dribbble.com/michieldegraaf)
 * Michiel van Meeteren [{f}](https://www.facebook.com/michielvanmeeteren)
