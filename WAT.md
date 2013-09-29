@@ -4,7 +4,7 @@ After years in this industry, much of which has been spent traveling and talking
 
 Tempting though it is to publicly shame the people and companies many of us know to be "bad," there are several potential problems with that. It opens you up for legal harassment, but more than that, it doesn't seem to be effective. Dire warnings just don't change people's behavior as much as they should.
 
-It is a much greater challenge to instead list all the people who are not known to be bad, but it is safer from a legal standpoint, and more effective from a psychological standpoint. Fighting the negative by accentuating the positive is the purpose of this list.
+It is a much greater challenge to instead list all the people who are not known to be bad, but it is safer from a legal standpoint, and more effective from a psychological standpoint. Fighting the negative by accentuating the positive is the purpose of this list. If you are on this list, it is only to honor you, and recognize my respect for you.
 
 
 ### What qualifies you to create this list?
@@ -44,7 +44,7 @@ I have tried hard to only use public information, to respect people's privacy, a
 
 ### What is the "A* List"?
 
-It's not a caveat and it doesn't mean "asshole." The easiest way to explain this is to say that, while I would work with anyone on the list, the names in italics are the people I would expect to argue with a lot. I do not consider this a bad thing, and prize these people dearly, but your working style, and therefore your mileage, may vary.
+There has been some conjecture that the italicized people are the people who suck. No. The people who suck are not on the list. The whole point of the list is to recognize people who are good. The people in bold __inspire__ me, the people in italics _challenge_ me—mostly by being so smart I feel I have to be 110% of my best around them. Not everyone likes being challenged. I do. That's why I've made this one of two classes of great among the good.
 
 
 ### Can I clone, fork, or issue pull requests?
