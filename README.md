@@ -420,6 +420,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Rob Elkin [{@}](https://twitter.com/robelkin)
 *	__Rob Longridge__
 * __*Rob Rhyne*__ [{@}](https://twitter.com/capttaco), [MartianCraft]
+* Rob Rix [{@}](https://twitter.com/rob_rix) [{GH}](https://github.com/robrix), [Black Pixel]
 *	Robb Albright
 *	Robert Andersen [{f}](https://www.facebook.com/robertshane)
 *	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
