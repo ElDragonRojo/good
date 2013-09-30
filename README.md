@@ -432,6 +432,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Ros (Hodgekiss) De Vries
 * *Rudy Richter*
 * Ryan Nielsen [{@}](https://twitter.com/ryannielsen) [{f}](https://www.facebook.com/ryannielsen), [Tumult]
+* Ryan Smith [Black Pixel]
 * Sal Conigliaro [{@}](https://twitter.com/sconig), [{a}](https://alpha.app.net/sconig), [e design](http://www.erinedesign.com)
 * *Sam Noble*
 * __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
