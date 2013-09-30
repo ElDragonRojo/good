@@ -71,7 +71,7 @@ Please [file issues](../../issues?state=open) to suggest changes, and fork this 
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
 * Anne Halsall [{@}](https://twitter.com/annekate) [{f}](https://www.facebook.com/annekate)
 * Anthony Agius [{W3}](http://decryption.wordpress.com) [{@}](https://twitter.com/decryption)
-* *Aral Balkan* [{W3}](http://aralbalkan.com) [{@}](https://twitter.com/aral), [Codename Prometheus}(http://codename-prometheus.eu)
+* *Aral Balkan* [{W3}](http://aralbalkan.com) [{@}](https://twitter.com/aral), [Codename Prometheus](http://codename-prometheus.eu)
 * Ariel Michaeli [{a}](https://alpha.app.net/rel) [{@}](https://twitter.com/arielmichaeli) [{LI}](http://www.linkedin.com/profile/view?id=15089805), [appFigures](http://appfigures.com)
 * Ash Furrow [{W3}](http://ashfurrow.com) [{@}](https://twitter.com/ashfurrow) [{GH}](https://github.com/AshFurrow)
 * August Joki [{f}](https://www.facebook.com/august.joki)
