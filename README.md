@@ -252,7 +252,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Jim Dalrymple, [The Loop], __Industry Legend__
 * Jim Dovey [{f}](https://www.facebook.com/jimdovey)
 * Jim Puls [{@}](https://twitter.com/puls)
-* Jiva DeVoe
+* Jiva DeVoe [{@}](https://twitter.com/jivadevoe) [{a}](https://alpha.app.net/jiva) [{f}](https://facebook.com/jiva.devoe), [Random Ideas]
 * Joe Heck [{f}](https://www.facebook.com/ccjoe)
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
 * __Joe Ricioppo__
