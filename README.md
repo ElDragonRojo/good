@@ -391,6 +391,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Neven Mrgan, [Panic]
 *	Nicole Wilker
 *	Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
+*	Nick vd Berg, [Small Mountain](http://smallmountain.nl)
 *	Pam Lefkowitz
 *	Pamela Fox
 *	Pat Costaldo
