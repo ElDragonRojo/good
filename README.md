@@ -340,6 +340,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Mark Voermans [{W3}](http://markvoer.com) [{@}](https://twitter.com/markvoer), [Microsoft]
 * Markus Nigrin
 * Martin Adoue
+* Martin Marconcini [{@}](https://twitter.com/Gryzor)
 * Martinus Meiborg [{f}](https://www.facebook.com/martinus.meiborg), [Appsterdam]
 * __Mary Brunson__
 * Mathys van Abbe [{@}](https://twitter.com/mathys), [Mobypicture](http://mobypicture.com)
