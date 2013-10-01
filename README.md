@@ -485,6 +485,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
 * __Victoria Wang__ [{@}](https://twitter.com/violasong)
 * Vinay Gupta [{W3}](http://vinay.howtolivewiki.com) [{@}](https://twitter.com/leashless)
+* Vincent Foster [{@}](https:twitter.com/FosterTheFlow)
 * Volker Mohr [{W3}](http://elgrowzone.com) [{@}](https://twitter.com/elgrowzone)
 * Werner Vogels [{f}](https://www.facebook.com/wernervogels), [Amazon]
 * Whitney Deatherage
