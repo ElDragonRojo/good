@@ -66,6 +66,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Amy Jane Gruber [{@}](https://twitter.com/amyjane), ["Just The Tip"](http://justthetip.fm)
 * Amy Worrall [{W3}](http://amyworrall.com) [{a}](https://alpha.app.net/amy) [{@}](https://twitter.com/amyruthworrall) [{GH}](https://github.com/amyworrall)
 * André LaBranche [{W3}](http://dreness.com) [{@}](https://twitter.com/GuacamoleQueen) [{LI}](http://www.linkedin.com/pub/andre-labranche/2/517/aa8), [Apple]
+* Andrew Pontious [{@}](https://twitter.com/apontious)
 * __Andrew Stone__ [{@}](https://twitter.com/twittelator), [Stone Design](http://stone.com), __Industry Legend__
 * Andria Jensen [{@}](https://twitter.com/andriajensen), [Appsolute Genius](http://appsolutegenius.com)
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
@@ -157,6 +158,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	David Duncan [{@}](https://twitter.com/rincewindsama) [{f}](https://www.facebook.com/wizzard42), [Apple]
 *	__David Lanham__ [{W3}](http://dlanham.com) [{@}](https://twitter.com/dlanham) [{f}](https://www.facebook.com/pages/David-Lanham/37915836001)
 *	David Smith [{W3}](http://dscoder.com) [{@}](https://twitter.com/Catfish_Man)
+*	Davide Casarin [{@}](https://twitter.com/dcasarin)
 *	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
 *	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
 *	Dieter Oude Kotte [{LI}](http://www.linkedin.com/pub/dieter-oude-kotte/21/a26/b76), City of Amsterdam
@@ -180,12 +182,14 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Erik Romijn [{f}](https://www.facebook.com/cavia)
 *	Evadne Wu [{@}](https://twitter.com/evadne)
 *	Evan Davis
+*	Evgenia Grinblo [{@}](https://twitter,com/Grinblo)
 *	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
+*	Fabio Gallonetto [{@}](https://twitter.com/duhanebel)
 *	Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
-*	Faruk Ates
+*	Faruk Ates [{@}](https://twitter.com/KuraFire)
 *	Federico Viticci [{@}](https://twitter.com/viticci), [MacStories](http://macstories.net)
-*	Felix Lepoutre
-*	Florian Brueckner
+*	Felix Lepoutre [{@}](https://twitter.com/FelixLepoutre)
+*	Florian Brueckner [{@}](https://twitter.com/bloomingbridges)
 *	Floris van Alkemade, [New Lemurs]
 *	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 *	Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
