@@ -81,7 +81,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * August "Gus" Mueller [{@}](https://twitter.com/ccgus) [{f}](https://www.facebook.com/ccgus), Flying Meat
 * Ben Hogan [{W3}](http://agileben.com) [{@}](https://twitter.com/agileben) [{LI}](http://www.linkedin.com/in/agileben)
 * Ben Jackson
-* Ben Scheirman
+* Ben Scheirman [{W3}](http://benscheirman.com) [{@}](https://twitter.com/subdigital), [NSScreencast](http://nsscreencast.com)
 * Ben Trumbull
 * Beth Massa, Microsoft
 * __Bill Bumgarner__ [{W3}](http://friday.com) [{@}](https://twitter.com/bbum) [{f}](https://www.facebook.com/bbumgarner), [Apple], __Industry Legend__
