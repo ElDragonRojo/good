@@ -142,6 +142,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Dan North [{W3}](http://dannorth.net) [{@}](https://twitter.com/tastapod)
 * Dan Weeks [{a}](http://alpha.app.net/danimal) [{@}](https://twitter.com/danimal)
 * Dan Wood
+* Daniel Demiss [{@}](https://twitter.com/__block)
 * Daniel Jalkut [{f}](https://www.facebook.com/jalkut), __Industry Legend__
 * Daniel Jilg [{W3}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
 * __Daniel Pasco__ [{@}](https://twitter.com/dlpasco) [{f}](https://www.facebook.com/dlpasco), [Black Pixel]
@@ -228,6 +229,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
 * James Dempsey [{@}](https://twitter.com/JamesDempsey), __Industry Legend__
 * James Thomson, PCalc
+* Jan Jungnickel [{@}](https://twitter.com/jjungnickel)
 * Jana Boruta
 * Jane Lee [{W3}](http://janeylicious.com) [{@}](https://twitter.com/janeylicious) [{f}](https://www.facebook.com/janeylicious) [{G+}](https://plus.google.com/117394978411570387460)
 * __Jane McGonigal__ [{W3}](http://janemcgonigal.com) [{@}](https://twitter.com/avantgame), __Industry Legend__
@@ -294,6 +296,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Judy Hoctor
 * Justin Williams
 * __Kai Cherry__
+* Karl Bode [{@}](https://twitter.com/kpbode)
 * __Keith Duncan__ [{@}](https://twitter.com/keith_duncan) [{GH}](https://github.com/keithduncan), [GitHub]
 * Keith Mortensen [{f}](https://www.facebook.com/keith.mortensen), [Apple]
 * Keith Stattenfield [{f}](https://www.facebook.com/keith.stattenfield), [Apple]
@@ -357,7 +360,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Mattt Thompson [{W3}](http://mattt.me) [{@}](https://twitter.com/mattt), [Heroku]
 * Matteo Manferdini [{@}](https://twitter.com/MatManferdini)
 * Matthew "Trent" Trentacoste
-* Maxie Ketschau-Repty
+* Maxie Ketschau-Repty [{@}](https://twitter.com/yumyoko)
 * Mercedes Portales
 * Merel Ivens [{f}](https://www.facebook.com/MissMerel)
 * Michael Fey [{me}](http://about.me/michaelfey) [{@}](https://twitter.com/MrRooni)
@@ -470,6 +473,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Steve Weller [{W3}](http://steveweller.com) [{@}](https://twitter.com/Bagelturf)
 * Steven Frank [{@}](https://twitter.com/stevenf), [Panic]
 * Stoney Gamble [{f}](https://www.facebook.com/stoneygamble)
+* Tammo Freese [{@}](https://twitter.com/tammofreese) 
 * __Tara Ross__ [{@}](https://twitter.com/tross6) [{f}](https://www.facebook.com/tara.ross.520), [Appsterdam]
 * Terry Cabeen [{@}](https://twitter.com/tcabeen)
 * Thad McDowell
