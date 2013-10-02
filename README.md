@@ -477,7 +477,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Soesanto Arp
 * Sophia Teutschler [{f}](https://www.facebook.com/sophiateutschler), [Apple]
 * *Stefaan Lesage* [{@}](https://twitter.com/stefaanlesage), [Devia](http://devia.be)
-* Stephanie Grimes
+* Stephanie Grimes [{@}](https://twitter.com/createdbysteph)
 * __Stephen Ives__ [{f}](https://www.facebook.com/smives), Smirk Design
 * *Stephen Martin* [{f}](https://www.facebook.com/stephen.martin.9081)
 * __Steve "Scotty" Scott__ [{@}](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), __Industry Legend__
