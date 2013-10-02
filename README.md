@@ -392,10 +392,11 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Nicole Wilker
 *	Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
 *	Nick vd Berg, [Small Mountain](http://smallmountain.nl)
-*	Pam Lefkowitz
-*	Pamela Fox
-*	Pat Costaldo
-*	Patrick Burleson
+*	Niko Lanzuisi [{@}](https://twitter.com/studiodonbe)
+*	Pam Lefkowitz [{@}](https://twitter.com/AlwaysDNS)
+*	Pamela Fox [{@}](https://twitter.com/pamelafox)
+*	Pat Castaldo [{@}](https://twitter.com/PatC) [{f}](https://www.facebook.com/PatCastaldo) [{LI}](http://www.linkedin.com/pub/pat-castaldo/1/4a2/3ab)
+*	Patrick Burleson [{@}](https://twitter.com/pbur)
 *	Patrick de Laive, [The Next Web]
 *	Patrick Gibson [{W3}](http://fadeover.org) [{@}](https://twitter.com/patr1ck), [Pacific Helm]
 *	Paul Darcey [{@}](https://twitter.com/pauldarcey)
@@ -458,6 +459,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Shawn Grimes
 * Sidney de Koning [{W3}](http://funky-monkey.nl) [{@}](https://twitter.com/sidneydekoning)
 * Simon Wolf
+* Sjef van Gaalen [{@}](https://twitter.com/thesjef)
 * Soesanto Arp
 * Sophia Teutschler [{f}](https://www.facebook.com/sophiateutschler), [Apple]
 * Stephanie Grimes
