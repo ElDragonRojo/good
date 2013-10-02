@@ -475,6 +475,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Sjef van Gaalen [{@}](https://twitter.com/thesjef)
 * Soesanto Arp
 * Sophia Teutschler [{f}](https://www.facebook.com/sophiateutschler), [Apple]
+* *Stefaan Lesage* [{@}](https://twitter.com/stefaanlesage), [Devia](http://devia.be)
 * Stephanie Grimes
 * __Stephen Ives__ [{f}](https://www.facebook.com/smives), Smirk Design
 * *Stephen Martin* [{f}](https://www.facebook.com/stephen.martin.9081)
