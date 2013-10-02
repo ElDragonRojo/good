@@ -445,13 +445,13 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
 * __Saul Mora__ [{@}](https://twitter.com/casademora) [{f}](https://www.facebook.com/saulmora), [Magical Panda](http://magicalpanda.com)__
 * __Scott Lopatin__ [{f}](https://www.facebook.com/Sceeter), [Apple]
-* Scott McAlister
+* Scott McAlister [{@}](https://twitter.com/scott4arrows)
 * Scott Maier [{@}](https://twitter.com/rezedit) [{f}](https://www.facebook.com/rezedit), [Apple]
 * Scott Perry [{W3}](http://numist.net) [{@}](https://twitter.com/numist)
 * __Scott Richie__ [{f}](https://www.facebook.com/scottaritchie), [Big Nerd Ranch]
 * *Scott Stevenson* [{f}](https://www.facebook.com/scott.stevenson.9421)
 * Sean Fannan [{f}](https://www.facebook.com/fannan)
-* Sean Heber
+* Sean Heber [{@}](https://twitter.com/bigzaphod)
 * Sebastiaan Capel [{W3}](http://sebastiaancapel.nl/pages/english), City of Amsterdam
 * Sebastiaan de With [{f}](https://www.facebook.com/sdewith)
 * Shaan Pruden, [Apple]
@@ -466,10 +466,10 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Steve "Scotty" Scott__ [{@}](https://twitter.com/macdevnet), [NSConference](http://nsconference.com), __Industry Legend__
 * Steve Sorbo [{@}](https://twitter.com/macsosguy) [{f}](https://www.facebook.com/srsorbo) [{LI}](http://www.linkedin.com/pub/steve-sorbo/11/467/629), [MacS.O.S.](http://seattlemacsos.com)
 * Steve Weller [{W3}](http://steveweller.com) [{@}](https://twitter.com/Bagelturf)
-* Steven Frank, [Panic]
+* Steven Frank [{@}](https://twitter.com/stevenf), [Panic]
 * Stoney Gamble [{f}](https://www.facebook.com/stoneygamble)
 * __Tara Ross__ [{@}](https://twitter.com/tross6) [{f}](https://www.facebook.com/tara.ross.520), [Appsterdam]
-* Terry Cabeen
+* Terry Cabeen [{@}](https://twitter.com/tcabeen)
 * Thad McDowell
 * *Thijs van der Vossen* [{W3}](http://www.vandervossen.net) [{@}](https://twitter.com/thijs) [{d}](http://dribbble.com/thijs) [{GH}](https://github.com/tvandervossen), [Fingertips] 
 * Thomas Muldowney [{@}](https://twitter.com/temas) [{LI}](http://www.linkedin.com/profile/view?id=4877683)
