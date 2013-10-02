@@ -469,9 +469,10 @@ Industry Legends are people who have been around for a very long time, are very 
 * Sebastiaan Capel [{W3}](http://sebastiaancapel.nl/pages/english), City of Amsterdam
 * Sebastiaan de With [{f}](https://www.facebook.com/sdewith)
 * Shaan Pruden, [Apple]
-* Shawn Grimes
+* Shane Crawford [{@}](https://twitter.com/shanezilla), [Blue Lightning Labs](http://bluelightninglabs.com)
+* Shawn Grimes [{@}](https://twitter.com/shawng)
 * Sidney de Koning [{W3}](http://funky-monkey.nl) [{@}](https://twitter.com/sidneydekoning)
-* Simon Wolf
+* Simon Wolf [{@}](https://twitter.com/sgaw)
 * Sjef van Gaalen [{@}](https://twitter.com/thesjef)
 * Soesanto Arp
 * Sophia Teutschler [{f}](https://www.facebook.com/sophiateutschler), [Apple]
