@@ -498,7 +498,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Whitney Deatherage
 * __*Wil Shipley*__ [{W3}](http://wilshipley.com) [{@}](https://twitter.com/wilshipley) [{f}](https://www.facebook.com/wilshipley), [Delicious Monster](http://delicious-monster.com), __Industry Legend__
 * William Mottl
-* William Scarvie
+* William Scarvie [{@}](https://twitter.com/wscarvie)
 * Yuan-Ping Wu
 * Zbigniew Sobiecki
 * Zee Kane, [The Next Web]
