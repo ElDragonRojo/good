@@ -430,6 +430,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Raul Portales
 *	Raven Zachary [{W3}](http://raven.me) [{@}](https://twitter.com/ravenme)
 *	Ray Wenderlich [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
+*	Reed Mangino [{@}](https://twitter.com/Reed_Mangino)
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
 *	Rene Ritchie [{me}](http://about.me/reneritchie) [{@}](https://twitter.com/reneritchie), [iMore]
 *	Rich Siegel [{@}](https://twitter.com/siegel) [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
@@ -440,7 +441,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	__Rob Longridge__
 * __*Rob Rhyne*__ [{@}](https://twitter.com/capttaco), [MartianCraft]
 * Rob Rix [{@}](https://twitter.com/rob_rix) [{GH}](https://github.com/robrix), [Black Pixel]
-*	Robb Albright
+*	Robb Albright [{@}](https://twitter.com/vegangeek)
 *	Robert Andersen [{f}](https://www.facebook.com/robertshane)
 *	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
 *	Robert McGovern
@@ -448,8 +449,8 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Robi Ganguly, [Apptentive]
 * Ron Jones
 * Ronald Rietveld
-* Ros (Hodgekiss) De Vries
-* *Rudy Richter*
+* Ros (Hodgekiss) De Vries [{@}](https://twitter.com/yarrcat)
+* *Rudy Richter* [{@}](https://twitter.com/rudyrichter), [Black Pixel]
 * Ryan Nielsen [{@}](https://twitter.com/ryannielsen) [{f}](https://www.facebook.com/ryannielsen), [Tumult]
 * Ryan Smith [Black Pixel]
 * Sal Conigliaro [{@}](https://twitter.com/sconig), [{a}](https://alpha.app.net/sconig), [e design](http://www.erinedesign.com)
