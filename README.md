@@ -432,7 +432,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Robert Andersen [{f}](https://www.facebook.com/robertshane)
 *	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
 *	Robert McGovern
-*	Robert-Jan Mersch [{a}](https://alpha.app.net/fohn)
+*	Robert-Jan Mersch [{a}](https://alpha.app.net/fohn) [{@}](https://twitter.com/fohnetic)
 *	Robi Ganguly, [Apptentive]
 * Ron Jones
 * Ronald Rietveld
