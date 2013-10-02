@@ -222,7 +222,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Ian Baird [{@}](https://twitter.com/rtmfd) [{f}](https://www.facebook.com/rtmfd), [Apple]
 * Ian McDougall [{f}](https://www.facebook.com/ianlmcdougall), [Apple]
 * Igor Sutton [{f}](https://www.facebook.com/igorsutton)
-* Ingrid Lunden [{@}](http://twitter.com/ingridlunden), [Techcrunch]
+* Ingrid Lunden [{@}](http://twitter.com/ingridlunden), [TechCrunch]
 * Isaiah Carew [{me}](http://about.me/isaiah) [{a}](https://alpha.app.net/isaiah) [{@}](https://twitter.com/isaiah) [YourHead Software](http://yourhead.com)
 * Ivo Jansch, Egeniq
 * Jack Brewster
@@ -372,6 +372,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Maxie Ketschau-Repty [{@}](https://twitter.com/yumyoko)
 * Mercedes Portales
 * Merel Ivens [{f}](https://www.facebook.com/MissMerel)
+* MG Siegler [{W3}](http://parislemon.com) [{@}](https://twitter.com/parislemon), [TechCrunch]
 * Michael Fey [{me}](http://about.me/michaelfey) [{@}](https://twitter.com/MrRooni)
 * Michael Gorbach [{f}](https://www.facebook.com/mgorbach), [Black Pixel]
 * __Dr. Michael Johnson__, [Pixar], __Industry Legend__
@@ -556,7 +557,7 @@ Industry Legends are people who have been around for a very long time, are very 
 [Rogue Amoeba]: http://www.rogueamoeba.com
 [Salesforce]: http://salesforce.com
 [Sanoma]: http://sanoma.com
-[Techcrunch]: http://techcrunch.com
+[TechCrunch]: http://techcrunch.com
 [The Loop]: http://loopinsight.com
 [The Next Web]: http://thenextweb.com
 [TUAW]: http://tuaw.com
