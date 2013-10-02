@@ -18,7 +18,7 @@ If you needed a job, and I could afford it, I would hire you if:
 
 ### Legend
 
-Names in __bold__ are people of exceptional quality—typically people I have worked with or know well enough to go so far as to risk my personal reputation to vouch for them. Names in *italics* are intensely strong-willed people with me on the A* list.
+Names in __bold__ are people who inspire me with their exceptional quality—typically people I have worked with or know well enough to go so far as to risk my personal reputation to vouch for them. Names in *italics* are my A* list—people who challenge me, often by simply being so smart, I feel I have to be 110% of my best when I'm around them.
 
 Industry Legends are people who have been around for a very long time, are very well known, have been involved in so many things that there's no easy way to describe them, or are generally considered to have made such tremendous contributions to the industry in the past that nothing further is expected from them.
 
@@ -228,6 +228,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Jack Brewster
 * Jacob Gorban [{f}](https://www.facebook.com/jacob.gorban)
 * Jacqui Cheng [{me}](http://about.me/jacquicheng) [{@}](https://twitter.com/ejacqui)
+* *Jade Rauenzahn* [{@}](https://twitter.com/zahnster)
 * Jaimee Newberry [{me}](http://ohheyjaimee.tumblr.com/about) [{@}](https://twitter.com/jaimeejaimee)
 * Jake Behrens [{W3}](http://jakebehrens.com) [{@}](https://twitter.com/Behrens), [Apple]
 * James Bryan Graves
