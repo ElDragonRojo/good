@@ -416,6 +416,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Quentin Carnicelli, [Rogue Amoeba]
 *	__Rachel Kinkade__
 *	Raul Portales
+*	Raven Zachary [{W3}](http://raven.me) [{@}](https://twitter.com/ravenme)
 *	Ray Wenderlich [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
 *	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
 *	Rene Ritchie [{me}](http://about.me/reneritchie) [{@}](https://twitter.com/reneritchie), [iMore]
