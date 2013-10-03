@@ -1,14 +1,23 @@
 # The Good List
 
-Everyone has a list of good companies and people they believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. Mine just happens to be on GitHub.
+In my years in this industry, traveling around the world, greeting people at Appsterdam events, I've met around 500 people who have affected me in a good way.
+
+I think everyone has a list of good companies and people they believe to be ethical, smart, and hard-working—doing it the right way, for the right reasons. 
+
+I thought we might all benefit from knowing some good people, so put mine on GitHub.
 
 ### Disclaimer
 
-This list should not be considered complete, nor does non-inclusion imply anything. For more information, and before complaining about it, read the [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
+I don't know all the good people.
 
-Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own, because I certainly don't know who all the good people are.
+If you're an App Maker, I bet you know some people on this list, but haven't met some others yet. If I could see your list, it would be the same for me. I haven't met all the good people yet. Not by a long shot.
 
-### How to think of this list
+This list should not be considered complete. If a name is not on here, that doesn't mean anything. I can go on about this at great length, so I put that in a [WAT](https://github.com/ElDragonRojo/good/blob/master/WAT.md).
+
+Please [file issues](../../issues?state=open) to suggest changes, and fork this list to create your own. This list is just one man's experiences, but as part of a community exercise, it could be useful for everyone.
+
+
+### A simple way to think of this list
 
 If you needed a job, and I could afford it, I would hire you if:
 
