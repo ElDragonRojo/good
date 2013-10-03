@@ -64,6 +64,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Alex Blewitt [{W3}](http://alblue.bandlem.com) [{@}](https://twitter.com/alblue) [{LI}](http://www.linkedin.com/in/alblue) 
 * Alex Cone [{@}](https://twitter.com/alexcone), [CodeFab]
 * Alex Lagutin, [Rogue Amoeba]
+* Alex Rozanski [{@}](https://twitter.com/alexrozanski)
 * Alexander Griekspoor [{@}](https://twitter.com/mekentosj) [{LI}](http://www.linkedin.com/in/mekentosj)
 * Alexander Klöpping [{@}](https://twitter.com/AlexanderNL)
 * __Alexander Repty__ [{@}](https://twitter.com/arepty) [{f}](https://www.facebook.com/alexander.repty)
@@ -78,6 +79,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Andrew Pontious [{@}](https://twitter.com/apontious)
 * __Andrew Stone__ [{@}](https://twitter.com/twittelator), [Stone Design](http://stone.com), __Industry Legend__
 * Andria Jensen [{@}](https://twitter.com/andriajensen), [Appsolute Genius](http://appsolutegenius.com)
+* Andy Durdin [{@}](https://twitter.com/adurdin)
 * Andy Finnell [{@}](https://twitter.com/macgeek02)
 * Andy Ihnatko [{W3}](http://ihnatko.com) [{@}](https://twitter.com/ihnatko), Chicago Sun-Times
 * Andy Matuschak [{f}](https://www.facebook.com/andy.matuschak), [Apple]
@@ -144,6 +146,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Cory Wiles [{W3}](http://corywiles.com/) [{@}](https://twitter.com/kwylez), [Salesforce]
 * Craig Hockenberry, [Iconfactory]
 * Craig Stanford [{@}](https://twitter.com/thepaddedcell)
+* Cyril Godefroy [{a}](https://alpha.app.net/cyril) [{@}](https://twitter.com/cgodefroy)
 * Dallas Brown [{@}](https://twitter.com/kdbdallas)
 * Damian (O'Suilleabhain) Sullivan [{W3}](http://brightstarsoftware.com) [{@}](https://twitter.com/DamianOS3)
 * Dan Burcaw [{@}](https://twitter.com/burcaw) [{f}](https://www.facebook.com/burcaw) [{LI}](http://www.linkedin.com/in/danburcaw), [Double Encore]
@@ -156,6 +159,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Daniel Demiss [{@}](https://twitter.com/__block)
 * Daniel Jalkut [{f}](https://www.facebook.com/jalkut), __Industry Legend__
 * Daniel Jilg [{W3}](http://breakthesystem.org) [{a}](https://alpha.app.net/breakthesystem) [{@}](https://twitter.com/breakthesystem) [{bb}](https://bitbucket.org/winsmith) [{so}](http://stackoverflow.com/users/54547/winsmith)
+* Daniel Kennett [{@}](https://twitter.com/iKenndac)
 * __Daniel Pasco__ [{@}](https://twitter.com/dlpasco) [{f}](https://www.facebook.com/dlpasco), [Black Pixel]
 * Dave Addey
 * Dave DeLong [{W3}](http://davedelong.com) [{@}](https://twitter.com/davedelong), [Apple]
@@ -187,6 +191,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Elliot Harris [{f}](https://www.facebook.com/elliotth), [Apple]
 * __Elon Musk__, SpaceX, Tesla
 * Eloy Durán [{@}](https://twitter.com/alloy) [{GH}](https://github.com/alloy)
+* Eric Knapp [{@}](https://twitter.com/ejknapp)
 * Eric Sabban [{f}](https://www.facebook.com/ericsabban)
 * Eric Vitiello [{@}](https://twitter.com/pixel), [Apple]
 * Erik Lammerding
@@ -276,8 +281,9 @@ Industry Legends are people who have been around for a very long time, are very 
 * Jiva DeVoe [{@}](https://twitter.com/jivadevoe) [{a}](https://alpha.app.net/jiva) [{f}](https://facebook.com/jiva.devoe), [Random Ideas]
 * Joe Heck [{f}](https://www.facebook.com/ccjoe)
 * __Joe Pezzillo__ [{@}](https://twitter.com/ejoep) [{f}](https://www.facebook.com/ejoep), [PushIO], __Industry Legend__
-* __Joe Ricioppo__
+* __Joe Ricioppo__ [{@}](https://twitter.com/joericioppo)
 * Joey Hagedorn [{@}](https://twitter.com/joeyhagedorn) [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
+* John Eddie [{@}](https://twitter.com/iBloke)
 * __John Fox__
 * John Geleynse, [Apple]
 * *John Gruber* [{@}](https://twitter.com/gruber)
@@ -349,6 +355,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Lyndia Ives Zarra [{f}](https://www.facebook.com/lizarra)
 * Magnus Dahl
 * Malcolm Crawford, __Industry Legend__
+* Marcel Borsten [{@}](https://twitter.com/mborsten)
 * Marcel Speller, [Big Nerd Ranch]
 * Marco Arment [{W3}](http://marco.org) [{@}](https://twitter.com/marcoarment)
 * Marcus Alkemade [{f}](https://www.facebook.com/marcus.alkemade.7)
@@ -357,12 +364,14 @@ Industry Legends are people who have been around for a very long time, are very 
 * Mark Aufflick [{W3}](http://mark.aufflick.com) [{@}](https://twitter.com/markaufflick)
 * Mark Boszko [{@}](https://twitter.com/bobtiki) [{f}](https://www.facebook.com/bobtiki)
 * Mark Dalrymple [{W3}](http://borkwarellc.wordpress.com) [{@}](https://twitter.com/borkware), [Big Nerd Ranch]
+* Mark Hughes [{a}](https://alpha.app.net/mdhughes) [{@}](https://twitter.com/mdhughes)
 * __Mark Johns__ [{W3}](http://doomlaser.com) [{@}](https://twitter.com/doomlaser) [{f}](https://www.facebook.com/hobos)
 * Mark Malone [{a}](https://alpha.app.net/malonicus) [{@}](https://twitter.com/malonicus) [{LI}](http://www.linkedin.com/pub/mark-malone/0/673/201), [Apple]
 * Mark Pauley
 * Mark Pospesel
 * Mark Voermans [{W3}](http://markvoer.com) [{@}](https://twitter.com/markvoer), [Microsoft]
 * Markus Nigrin
+* Markus Palmanto [{@}](https://twitter.com/markuspalmanto)
 * Martin Adoue
 * Martin Marconcini [{@}](https://twitter.com/Gryzor)
 * Martinus Meiborg [{f}](https://www.facebook.com/martinus.meiborg), [Appsterdam]
@@ -414,6 +423,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Nicole Wilker
 * Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
 * Nick vd Berg, [Small Mountain](http://smallmountain.nl)
+* Nicklas Saers [{@}](https://twitter.com/niklassaers)
 * Niko Lanzuisi [{@}](https://twitter.com/studiodonbe)
 * Pam Lefkowitz [{@}](https://twitter.com/AlwaysDNS)
 * Pamela Fox [{@}](https://twitter.com/pamelafox)
@@ -438,6 +448,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Phillip Bowden [{@}](https://twitter.com/pbowden)
 * Quentin Carnicelli, [Rogue Amoeba]
 * __Rachel Kinkade__
+* Raj Sharma [{@}](https://twitter.com/iRightRaj)
 * Raul Portales
 * Raven Zachary [{W3}](http://raven.me) [{@}](https://twitter.com/ravenme)
 * Ray Wenderlich [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
@@ -465,10 +476,12 @@ Industry Legends are people who have been around for a very long time, are very 
 * Ryan Nielsen [{@}](https://twitter.com/ryannielsen) [{f}](https://www.facebook.com/ryannielsen), [Tumult]
 * Ryan Smith [Black Pixel]
 * Sal Conigliaro [{@}](https://twitter.com/sconig), [{a}](https://alpha.app.net/sconig), [e design](http://www.erinedesign.com)
+* Sam Deane [{@}](https://twitter.com/samdeane)
 * *Sam Noble*
 * __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
 * __Saul Mora__ [{@}](https://twitter.com/casademora) [{f}](https://www.facebook.com/saulmora), [Magical Panda](http://magicalpanda.com)
 * Scott Chandler [{@}](https://twitter.com/gschandler)
+* Scott Little [{@}](https://twitter.com/littleknown)
 * __Scott Lopatin__ [{f}](https://www.facebook.com/Sceeter), [Apple]
 * Scott McAlister [{@}](https://twitter.com/scott4arrows)
 * Scott Maier [{@}](https://twitter.com/rezedit) [{f}](https://www.facebook.com/rezedit), [Apple]
