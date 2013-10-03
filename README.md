@@ -107,8 +107,8 @@ Industry Legends are people who have been around for a very long time, are very 
 * Carolien Gehrels [{W3}](http://www.iamsterdam.com/en-GB/living/city-of-amsterdam/city-government/portfolios-mayor-alderpersons/alderperson-carolien-gehrels), City of Amsterdam
 * Casey Fleser [{W3}](http://somegeekintn.com) [{@}](https://twitter.com/somegeekintn)
 * Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
-* Cesare Rocchi [{@}](https://twitter.com/_funkyboy)
 * Cathy Shive [{f}](https://www.facebook.com/cathy.shive)
+* Cesare Rocchi [{@}](https://twitter.com/_funkyboy)
 * Charles Perry [{@}](https://twitter.com/dazeend), [Leaf Hut Software](http://leafhut.com)
 * Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
 * Chris Barajas, [Rogue Amoeba]
