@@ -28,19 +28,19 @@ Industry Legends are people who have been around for a very long time, are very 
 * [Apple]
 * [Atlassian]
 * [Big Nerd Ranch]
-*	[Black Pixel]
-*	[Double Encore]
-*	[Empirical Development]
-*	[Fingertips]
-*	[Glimworm]
-*	[Iconfactory]
-*	[MartianCraft]
-*	[Omni Group]
-*	[Pacific Helm]
-*	[Panic]
-*	[PushIO]
-*	[Realmac Software]
-*	[Rogue Amoeba]
+* [Black Pixel]
+* [Double Encore]
+* [Empirical Development]
+* [Fingertips]
+* [Glimworm]
+* [Iconfactory]
+* [MartianCraft]
+* [Omni Group]
+* [Pacific Helm]
+* [Panic]
+* [PushIO]
+* [Realmac Software]
+* [Rogue Amoeba]
 
 ## Good People
 
@@ -101,17 +101,17 @@ Industry Legends are people who have been around for a very long time, are very 
 * Bruno Koga [{W3}](http://www.brunokoga.com) [{@}](https://twitter.com/brunokoga) [{LI}](http://www.linkedin.com/in/brunokoga) [{GH}](https://github.com/brunokoga)
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 * Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
-*	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
-*	Cameron Barrie [{@}](https://twitter.com/whalec), [Bilue](http://bilue.com.au)
-*	Carl Brown [{@}](https://twitter.com/CarlBrwn), __King of Demos__
-*	Carolien Gehrels [{W3}](http://www.iamsterdam.com/en-GB/living/city-of-amsterdam/city-government/portfolios-mayor-alderpersons/alderperson-carolien-gehrels), City of Amsterdam
-*	Casey Fleser [{W3}](http://somegeekintn.com) [{@}](https://twitter.com/somegeekintn)
-*	Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
-*	Cesare Rocchi [{@}](https://twitter.com/_funkyboy)
-*	Cathy Shive [{f}](https://www.facebook.com/cathy.shive)
-*	Charles Perry [{@}](https://twitter.com/dazeend), [Leaf Hut Software](http://leafhut.com)
-*	Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
-*	Chris Barajas, [Rogue Amoeba]
+* __Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
+* Cameron Barrie [{@}](https://twitter.com/whalec), [Bilue](http://bilue.com.au)
+* Carl Brown [{@}](https://twitter.com/CarlBrwn), __King of Demos__
+* Carolien Gehrels [{W3}](http://www.iamsterdam.com/en-GB/living/city-of-amsterdam/city-government/portfolios-mayor-alderpersons/alderperson-carolien-gehrels), City of Amsterdam
+* Casey Fleser [{W3}](http://somegeekintn.com) [{@}](https://twitter.com/somegeekintn)
+* Casper Koomen [{@}](https:/twitter.com/CasperKoomen)
+* Cesare Rocchi [{@}](https://twitter.com/_funkyboy)
+* Cathy Shive [{f}](https://www.facebook.com/cathy.shive)
+* Charles Perry [{@}](https://twitter.com/dazeend), [Leaf Hut Software](http://leafhut.com)
+* Chris Adamson [{W3}](http://www.subfurther.com/blog/) [{@}](https://twitter.com/invalidname), ["Learning Core Audio"](http://www.amazon.com/Learning-Core-Audio-Hands-On-Programming/dp/0321636848)
+* Chris Barajas, [Rogue Amoeba]
 * __Chris "Clarko" Clark__ [{@}](https://twitter.com/clarko) [{f}](https://www.facebook.com/christopher.russell.clark)
 * *Chris Espinosa* [{@}](https://twitter.com/cdespinosa) [{f}](https://www.facebook.com/cdespinosa), [Apple], __Industry Legend__
 * Chris Foresman [{@}](https://twitter.com/foresmac)
@@ -154,62 +154,62 @@ Industry Legends are people who have been around for a very long time, are very 
 * Dave Hayden [{W3}](http://opaque.net/~dave/) [{@}](https://twitter.com/davehayden), __Puzzllotto Champion__
 * __Dave Thomas__ [{W3}](http://www.davethomas.net), Bedarra Research Labs
 * Dave Verwer
-*	*Dave Wiskus* [{@}](https://twitter.com/dwiskus) [{f}](https://www.facebook.com/dwiskus)
-*	David Ballard
-*	David Barnard [{@}](https://twitter.com/drbarnard), [Contrast](http://contrast.co) (Formerly App Cubby)
-*	David Chartier [{W3}](http://davidchartier.com) [{@}](https://twitter.com/chartier)
-*	David Duncan [{@}](https://twitter.com/rincewindsama) [{f}](https://www.facebook.com/wizzard42), [Apple]
-*	__David Lanham__ [{W3}](http://dlanham.com) [{@}](https://twitter.com/dlanham) [{f}](https://www.facebook.com/pages/David-Lanham/37915836001)
-*	David Smith [{W3}](http://dscoder.com) [{@}](https://twitter.com/Catfish_Man)
-*	Davide Casarin [{@}](https://twitter.com/dcasarin)
-*	Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
-*	Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
-*	Dieter Oude Kotte [{LI}](http://www.linkedin.com/pub/dieter-oude-kotte/21/a26/b76), City of Amsterdam
-*	Dirk Stoop [{f}](https://www.facebook.com/djstoop), [Facebook]
+* *Dave Wiskus* [{@}](https://twitter.com/dwiskus) [{f}](https://www.facebook.com/dwiskus)
+* David Ballard
+* David Barnard [{@}](https://twitter.com/drbarnard), [Contrast](http://contrast.co) (Formerly App Cubby)
+* David Chartier [{W3}](http://davidchartier.com) [{@}](https://twitter.com/chartier)
+* David Duncan [{@}](https://twitter.com/rincewindsama) [{f}](https://www.facebook.com/wizzard42), [Apple]
+* __David Lanham__ [{W3}](http://dlanham.com) [{@}](https://twitter.com/dlanham) [{f}](https://www.facebook.com/pages/David-Lanham/37915836001)
+* David Smith [{W3}](http://dscoder.com) [{@}](https://twitter.com/Catfish_Man)
+* Davide Casarin [{@}](https://twitter.com/dcasarin)
+* Deric Horn [{f}](https://www.facebook.com/Derichorn), [Apple]
+* Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
+* Dieter Oude Kotte [{LI}](http://www.linkedin.com/pub/dieter-oude-kotte/21/a26/b76), City of Amsterdam
+* Dirk Stoop [{f}](https://www.facebook.com/djstoop), [Facebook]
 * Don Ritzen [{@}](https://twitter.com/donritzen), [Rockstart]
 * *Doug Russell* [{W3}](http://takingnotes.co) [{a}](https://alpha.app.net/rustle) [{GH}](https://github.com/rustle)
-*	Drew McCormack, Mental Faculty
-*	Duncan Davidson
-*	Duncan Wilcox [{@}](https://twitter.com/duncanwilcox)
-*	__Ed Wynne__, [Rogue Amoeba]
-*	Edward Marczak
-*	Elger van der Avoird [{@}](https://twitter.com/evanderavoird)
-*	Eli Hodapp [{@}](https://twitter.com/hodapp)
-*	Elliot Harris [{f}](https://www.facebook.com/elliotth), [Apple]
-*	__Elon Musk__, SpaceX, Tesla
+* Drew McCormack, Mental Faculty
+* Duncan Davidson
+* Duncan Wilcox [{@}](https://twitter.com/duncanwilcox)
+* __Ed Wynne__, [Rogue Amoeba]
+* Edward Marczak
+* Elger van der Avoird [{@}](https://twitter.com/evanderavoird)
+* Eli Hodapp [{@}](https://twitter.com/hodapp)
+* Elliot Harris [{f}](https://www.facebook.com/elliotth), [Apple]
+* __Elon Musk__, SpaceX, Tesla
 * Eloy Durán [{@}](https://twitter.com/alloy) [{GH}](https://github.com/alloy)
 * Eric Sabban [{f}](https://www.facebook.com/ericsabban)
 * Eric Vitiello [{@}](https://twitter.com/pixel), [Apple]
 * Erik Lammerding
-*	Erik Meijer [{LI}](http://www.linkedin.com/pub/erik-meijer/0/5ba/924)
-*	Erik Rietveld
-*	Erik Romijn [{f}](https://www.facebook.com/cavia)
-*	Evadne Wu [{@}](https://twitter.com/evadne)
-*	Evan Davis
-*	Evan Doll [{W3}](http://evandoll.com) [{@}](https://twitter.com/edog1203)
-*	Evgenia Grinblo [{@}](https://twitter,com/Grinblo)
-*	Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
-*	Fabio Gallonetto [{@}](https://twitter.com/duhanebel)
-*	Fabio Tiriticco [{@}](https://twitter.com/ticofab)
-*	Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
-*	Faruk Ates [{@}](https://twitter.com/KuraFire)
-*	Federico Viticci [{@}](https://twitter.com/viticci), [MacStories](http://macstories.net)
-*	Felix Lepoutre [{@}](https://twitter.com/FelixLepoutre)
-*	Florian Brueckner [{@}](https://twitter.com/bloomingbridges)
-*	Floris van Alkemade, [New Lemurs]
-*	Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
-*	Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
-*	Gedeon Maheux [{W3}](http://gedblog.com) [{@}](https://twitter.com/gedeon), [Iconfactory]
-*	George Dick [{@}](https://twitter.com/georgedick) [{f}](https://www.facebook.com/georgedick), [Black Pixel]
-*	George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
-*	Gerald Hensel [{@}](https://twitter.com/ghensel)
-*	Gertjan Rösken, [{@}](https://twitter.com/GertjanRosken) [{LI}](http://www.linkedin.com/pub/gertjan-rösken/4/12/a41), [Rabobank](http://rabobank.com)
+* Erik Meijer [{LI}](http://www.linkedin.com/pub/erik-meijer/0/5ba/924)
+* Erik Rietveld
+* Erik Romijn [{f}](https://www.facebook.com/cavia)
+* Evadne Wu [{@}](https://twitter.com/evadne)
+* Evan Davis
+* Evan Doll [{W3}](http://evandoll.com) [{@}](https://twitter.com/edog1203)
+* Evgenia Grinblo [{@}](https://twitter,com/Grinblo)
+* Ezra Siegel [{@}](https://twitter.com/EzraMax), [Apptentive]
+* Fabio Gallonetto [{@}](https://twitter.com/duhanebel)
+* Fabio Tiriticco [{@}](https://twitter.com/ticofab)
+* Faisal Jawdat [{f}](https://www.facebook.com/faisalnjawdat)
+* Faruk Ates [{@}](https://twitter.com/KuraFire)
+* Federico Viticci [{@}](https://twitter.com/viticci), [MacStories](http://macstories.net)
+* Felix Lepoutre [{@}](https://twitter.com/FelixLepoutre)
+* Florian Brueckner [{@}](https://twitter.com/bloomingbridges)
+* Floris van Alkemade, [New Lemurs]
+* Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
+* Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
+* Gedeon Maheux [{W3}](http://gedblog.com) [{@}](https://twitter.com/gedeon), [Iconfactory]
+* George Dick [{@}](https://twitter.com/georgedick) [{f}](https://www.facebook.com/georgedick), [Black Pixel]
+* George Warner [{f}](https://www.facebook.com/geowar1), [Apple]
+* Gerald Hensel [{@}](https://twitter.com/ghensel)
+* Gertjan Rösken, [{@}](https://twitter.com/GertjanRosken) [{LI}](http://www.linkedin.com/pub/gertjan-rösken/4/12/a41), [Rabobank](http://rabobank.com)
 * Gijs van Klooster [{@}](https://twitter.com/abcgijs)
-*	Giovanni Maggini [{@}](https://twitter.com/maggix)
-*	__Glen Aspeslagh__ [{@}](https://twitter.com/pimpinglen)
-*	__Graham Lee__ [{@}](https://twitter.com/secboffin) [{f}](https://www.facebook.com/iamleeg)
-*	Grant Farr, [Rogue Amoeba]
-*	Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
+* Giovanni Maggini [{@}](https://twitter.com/maggix)
+* __Glen Aspeslagh__ [{@}](https://twitter.com/pimpinglen)
+* __Graham Lee__ [{@}](https://twitter.com/secboffin) [{f}](https://www.facebook.com/iamleeg)
+* Grant Farr, [Rogue Amoeba]
+* Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
 * __Guy English__ [{W3}](http://kickingbear.com) [{@}](https://twitter.com/gte) [{f}](https://www.facebook.com/kickingbear), [Aged and Distilled]
 * Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), __Industry Legend__
 * Halle Winkler [{@}](https://twitter.com/Politepix)
@@ -246,11 +246,11 @@ Industry Legends are people who have been around for a very long time, are very 
 * Jason Snell [{W3}](http://intertext.com) [{me}](http://about.me/jsnell) [{@}](https://twitter.com/jsnell)
 * Jason Yeo [{f}](https://www.facebook.com/jasonyeoyeoyeo), [Apple]
 * Jasper Hauser [{f}](https://www.facebook.com/jasper.hauser), [Facebook]
-*	Jay Freeman
-*	Jay Thrash [{a}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
+* Jay Freeman
+* Jay Thrash [{a}](https://alpha.app.net/jaythrash) [{@}](https://twitter.com/jaythrash)
 * Jed Wesley-Smith
 * Jeff Atwood
-*	Jeff Johnson, [Rogue Amoeba]
+* Jeff Johnson, [Rogue Amoeba]
 * __Jeff LaMarche__ [{@}](https://twitter.com/jeff_lamarche) [{f}](https://www.facebook.com/jeff.lamarche.50), [MartianCraft]
 * Jeff McLeman [{me}](http://about.me/Jeffmc) [{@}](https://twitter.com/jeffmc), [Black Pixel]
 * __*Jeffrey Czerniak*__ [{@}](https://twitter.com/geekable)
@@ -271,11 +271,11 @@ Industry Legends are people who have been around for a very long time, are very 
 * Joey Hagedorn [{@}](https://twitter.com/joeyhagedorn) [{f}](https://www.facebook.com/joeyhagedorn), [Apple]
 * __John Fox__
 * John Geleynse, [Apple]
-*	*John Gruber* [{@}](https://twitter.com/gruber)
-*	John Moltz [{W3}](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
-*	*John Randolph* [{@}](https://twitter.com/NSResponder) [{f}](https://www.facebook.com/NSResponder), __Industry Legend__
+* *John Gruber* [{@}](https://twitter.com/gruber)
+* John Moltz [{W3}](http://verynicewebsite.net) [{@}](https://twitter.com/moltz)
+* *John Randolph* [{@}](https://twitter.com/NSResponder) [{f}](https://www.facebook.com/NSResponder), __Industry Legend__
 * John Siracusa [{W3}](http://hypercritical.co) [{@}](https://twitter.com/siracusa)
-*	*John Welch*
+* *John Welch*
 * __John Wilker__ [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), __Industry Legend__
 * Jon Woodroof [{@}](https://twitter.com/twotoneatl), [Big Nerd Ranch]
 * Jonah Neugass
@@ -319,7 +319,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Klaas Pieter Annema [{f}](https://www.facebook.com/klaaspieter)
 * __*Klaas Speller*__ [{@}](https://twitter.com/spllr) [{f}](https://www.facebook.com/klaasspeller), [New Lemurs]
 * Krzysztof Zabłocki [{W3}](http://merowing.info) [{@}](https://twitter.com/merowing_) [{LI}](http://www.linkedin.com/pub/krzysztof-zabłocki/26/200/442) [{GH}](https://github.com/krzysztofzablocki)
-*	*Kyle Kinkade*
+* *Kyle Kinkade*
 * __Kyle Richter__ [{f}](https://www.facebook.com/kyle.richter.33), [Empirical Development]
 * Lassi Kurkijärvi [{@}](https://twitter.com/lassi), [Sanoma]
 * Laurens Bon [{f}](https://www.facebook.com/laurens.bon)
@@ -400,55 +400,55 @@ Industry Legends are people who have been around for a very long time, are very 
 * Nathan De Vries
 * __Nathan Eror__ [{@}](https://twitter.com/neror), [Empirical Development], [Free Time Studios](http://freetimestudios.com)
 * Neil Inglis [{W3}](http://neilinglis.com/)  [{@}](https://twitter.com/neilinglis)
-*	Nevan King [{@}](https://twitter.com/NevanKing)
-*	Neven Mrgan, [Panic]
-*	Nicole Wilker
-*	Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
-*	Nick vd Berg, [Small Mountain](http://smallmountain.nl)
-*	Niko Lanzuisi [{@}](https://twitter.com/studiodonbe)
-*	Pam Lefkowitz [{@}](https://twitter.com/AlwaysDNS)
-*	Pamela Fox [{@}](https://twitter.com/pamelafox)
-*	Pat Castaldo [{@}](https://twitter.com/PatC) [{f}](https://www.facebook.com/PatCastaldo) [{LI}](http://www.linkedin.com/pub/pat-castaldo/1/4a2/3ab)
-*	Patrick Burleson [{@}](https://twitter.com/pbur)
-*	Patrick de Laive, [The Next Web]
-*	Patrick Gibson [{W3}](http://fadeover.org) [{@}](https://twitter.com/patr1ck), [Pacific Helm]
-*	Paul Darcey [{@}](https://twitter.com/pauldarcey)
-*	Paul de Medeiros
-*	Paul Goracke [{@}](https://twitter.com/pgor)
-*	*Paul Kafasis* [{W3}](http://onefoottsunami.com) [{@}](https://twitter.com/pbones) [{f}](https://www.facebook.com/paulkafasis), [Rogue Amoeba]
-*	Paul Manwaring, [Glimworm]
-*	Paul Schreiber [{f}](https://www.facebook.com/paulschreiber)
-*	Paul van Dijk
-*	Peter Bierman [{W3}](http://peter.bierman.com) [{@}](https://twitter.com/pmb777) [{f}](https://www.facebook.com/peter.bierman)
-*	__Peter Cohen__ [{@}](https://twitter.com/flargh), [iMore], [The Loop]
-*	__Peter Hosey__ [{@}](https://twitter.com/boredzo)
-*	Peter Mitchell
-*	Peter Robinett [{f}](https://www.facebook.com/probinett)
-*	Peter Steinberger [{W3}](http://petersteinberger.com) [{@}](https://twitter.com/steipete)
-*	Peter Tuszynski
-*	Phillip Bowden [{@}](https://twitter.com/pbowden)
-*	Quentin Carnicelli, [Rogue Amoeba]
-*	__Rachel Kinkade__
-*	Raul Portales
-*	Raven Zachary [{W3}](http://raven.me) [{@}](https://twitter.com/ravenme)
-*	Ray Wenderlich [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
-*	Reed Mangino [{@}](https://twitter.com/Reed_Mangino)
-*	Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
-*	Rene Ritchie [{me}](http://about.me/reneritchie) [{@}](https://twitter.com/reneritchie), [iMore]
-*	Rich Siegel [{@}](https://twitter.com/siegel) [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
-*	Richard Branson [{@}](https://twitter.com/richardbranson), Virgin, __Industry Legend__
-*	Richard Feldman [{@}](https://twitter.com/rtfeldman)
-*	Rick Ballard
-*	Rob Elkin [{@}](https://twitter.com/robelkin)
-*	__Rob Longridge__
+* Nevan King [{@}](https://twitter.com/NevanKing)
+* Neven Mrgan, [Panic]
+* Nicole Wilker
+* Nick Pellow [{@}](https://twitter.com/niick), [Atlassian]
+* Nick vd Berg, [Small Mountain](http://smallmountain.nl)
+* Niko Lanzuisi [{@}](https://twitter.com/studiodonbe)
+* Pam Lefkowitz [{@}](https://twitter.com/AlwaysDNS)
+* Pamela Fox [{@}](https://twitter.com/pamelafox)
+* Pat Castaldo [{@}](https://twitter.com/PatC) [{f}](https://www.facebook.com/PatCastaldo) [{LI}](http://www.linkedin.com/pub/pat-castaldo/1/4a2/3ab)
+* Patrick Burleson [{@}](https://twitter.com/pbur)
+* Patrick de Laive, [The Next Web]
+* Patrick Gibson [{W3}](http://fadeover.org) [{@}](https://twitter.com/patr1ck), [Pacific Helm]
+* Paul Darcey [{@}](https://twitter.com/pauldarcey)
+* Paul de Medeiros
+* Paul Goracke [{@}](https://twitter.com/pgor)
+* *Paul Kafasis* [{W3}](http://onefoottsunami.com) [{@}](https://twitter.com/pbones) [{f}](https://www.facebook.com/paulkafasis), [Rogue Amoeba]
+* Paul Manwaring, [Glimworm]
+* Paul Schreiber [{f}](https://www.facebook.com/paulschreiber)
+* Paul van Dijk
+* Peter Bierman [{W3}](http://peter.bierman.com) [{@}](https://twitter.com/pmb777) [{f}](https://www.facebook.com/peter.bierman)
+* __Peter Cohen__ [{@}](https://twitter.com/flargh), [iMore], [The Loop]
+* __Peter Hosey__ [{@}](https://twitter.com/boredzo)
+* Peter Mitchell
+* Peter Robinett [{f}](https://www.facebook.com/probinett)
+* Peter Steinberger [{W3}](http://petersteinberger.com) [{@}](https://twitter.com/steipete)
+* Peter Tuszynski
+* Phillip Bowden [{@}](https://twitter.com/pbowden)
+* Quentin Carnicelli, [Rogue Amoeba]
+* __Rachel Kinkade__
+* Raul Portales
+* Raven Zachary [{W3}](http://raven.me) [{@}](https://twitter.com/ravenme)
+* Ray Wenderlich [{W3}](http://raywenderlich.com) [{@}](https://twitter.com/rwenderlich)
+* Reed Mangino [{@}](https://twitter.com/Reed_Mangino)
+* Renato Valdés Olmos [{f}](https://www.facebook.com/renatovaldes)
+* Rene Ritchie [{me}](http://about.me/reneritchie) [{@}](https://twitter.com/reneritchie), [iMore]
+* Rich Siegel [{@}](https://twitter.com/siegel) [{f}](https://www.facebook.com/rmsiegel), [Bare Bones](http://barebones.com), __Industry Legend__
+* Richard Branson [{@}](https://twitter.com/richardbranson), Virgin, __Industry Legend__
+* Richard Feldman [{@}](https://twitter.com/rtfeldman)
+* Rick Ballard
+* Rob Elkin [{@}](https://twitter.com/robelkin)
+* __Rob Longridge__
 * __*Rob Rhyne*__ [{@}](https://twitter.com/capttaco), [MartianCraft]
 * Rob Rix [{@}](https://twitter.com/rob_rix) [{GH}](https://github.com/robrix), [Black Pixel]
-*	Robb Albright [{@}](https://twitter.com/vegangeek)
-*	Robert Andersen [{f}](https://www.facebook.com/robertshane)
-*	Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
-*	Robert McGovern
-*	Robert-Jan Mersch [{a}](https://alpha.app.net/fohn) [{@}](https://twitter.com/fohnetic)
-*	Robi Ganguly, [Apptentive]
+* Robb Albright [{@}](https://twitter.com/vegangeek)
+* Robert Andersen [{f}](https://www.facebook.com/robertshane)
+* Robert Gaal [{f}](https://www.facebook.com/Robertgaal)
+* Robert McGovern
+* Robert-Jan Mersch [{a}](https://alpha.app.net/fohn) [{@}](https://twitter.com/fohnetic)
+* Robi Ganguly, [Apptentive]
 * Ron Jones
 * Ronald Rietveld
 * Ros (Hodgekiss) De Vries [{@}](https://twitter.com/yarrcat)
@@ -509,7 +509,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Uli Kusterer__ [{@}](https://twitter.com/uliwitness) [{f}](https://www.facebook.com/uliwitness)
 * Vicki Murley [{@}](https://twitter.com/vickimurley), [Apple]
 * Vicki Tourtouras [{@}](https://twitter.com/vickitourtouras)
-*	Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
+* Vicki Wenderlich [{@}](https://twitter.com/vwenderlich)
 * __Victor Agreda, Jr.__ [{@}](https://twitter.com/superpixels), [TUAW]
 * __Victoria Wang__ [{@}](https://twitter.com/violasong)
 * Vinay Gupta [{W3}](http://vinay.howtolivewiki.com) [{@}](https://twitter.com/leashless)
