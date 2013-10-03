@@ -98,7 +98,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Brian Henderson [{me}](http://flavors.me/brian_henderson) [{@}](https://twitter.com/brian_henderson)
 * Brian LeRoux [{W3}](http://brian.io) [{@}](https://twitter.com/brianleroux) [{LI}](http://www.linkedin.com/profile/view?id=182534) [{GH}](https://github.com/brianleroux)
 * Brianna Wu [{a}](https://alpha.app.net/spacekatgal) [{@}](https://twitter.com/spacekatgal), Giant Spacekat
-* Bruno Koga [{@}](https://twitter.com/brunokoga) [{LI}](http://www.linkedin.com/in/brunokoga) [{GH}](https://github.com/brunokoga)
+* Bruno Koga [{W3}](http://www.brunokoga.com) [{@}](https://twitter.com/brunokoga) [{LI}](http://www.linkedin.com/in/brunokoga) [{GH}](https://github.com/brunokoga)
 * Bryan Bell [{W3}](http://www.bryanbell.com) [{@}](https://twitter.com/bryanbell)
 * Buzz Andersen [{f}](https://www.facebook.com/buzzandersen)
 *	__Cabel Sasser__ [{@}](https://twitter.com/cabel), [Panic], __Industry Legend__
@@ -211,7 +211,7 @@ Industry Legends are people who have been around for a very long time, are very 
 *	Grant Farr, [Rogue Amoeba]
 *	Greg Parker [{W3}](http://www.sealiesoftware.com) [{@}](https://twitter.com/gparker)
 * __Guy English__ [{W3}](http://kickingbear.com) [{@}](https://twitter.com/gte) [{f}](https://www.facebook.com/kickingbear), [Aged and Distilled]
-* Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), [Industry Legend]
+* Guy Kawasaki [{@}](https://twitter.com/GuyKawasaki), __Industry Legend__
 * Halle Winkler [{@}](https://twitter.com/Politepix)
 * Hans verschooten [{@}](https://twitter.com/hansv)
 * Hansen Hsu [{f}](https://www.facebook.com/hansnhsu), [Big Nerd Ranch]
@@ -282,7 +282,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Jonathan Carter, [Glimworm]
 * Jonathan Dann [{f}](https://www.facebook.com/j.p.dann), [Facebook]
 * Jonathan Deutsch [{@}](https://twitter.com/jmfd) [{f}](https://www.facebook.com/tumultco), [Tumult]
-* Jonathan Penn
+* Jonathan Penn [{W3}](http://cocoamanifest.net) [{@}](https://twitter.com/jonathanpenn)
 * Jonathan Rhyne, Smith Debnam Attorneys at Law
 * __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
 * *Jonathan Wight* [{@}](https://twitter.com/schwa) [{f}](https://www.facebook.com/schwa)
@@ -381,7 +381,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * __Michael Simmons__
 * __Michael Jurewitz__ [{@}](https://twitter.com/Jury) [{f}](https://www.facebook.com/jurewitz), __Industry Legend__
 * __Michael Lowdermilk__ [{f}](https://www.facebook.com/michael.lowdermilk)
-* Michele Titolo [{@}](https://twitter.com/micheletitolo)
+* Michele Titolo [{W3}](http://michele.io) [{@}](https://twitter.com/micheletitolo) 
 * Michelle Yaiser
 * Michiel de Graaf [{W3}](http://www.michieldegraaf.com) [{@}](https://twitter.com/graafdemichiel) [{f}](https://www.facebook.com/graafmichiel) [{d}](http://dribbble.com/michieldegraaf)
 * Michiel van Meeteren [{f}](https://www.facebook.com/michielvanmeeteren)
@@ -458,7 +458,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Sal Conigliaro [{@}](https://twitter.com/sconig), [{a}](https://alpha.app.net/sconig), [e design](http://www.erinedesign.com)
 * *Sam Noble*
 * __Samuel Goodwin__ [{@}](https://twitter.com/samuelgoodwin) [{f}](https://www.facebook.com/the.electric.six), [Roundwall Software](http://roundwallsoftware.com)
-* __Saul Mora__ [{@}](https://twitter.com/casademora) [{f}](https://www.facebook.com/saulmora), [Magical Panda](http://magicalpanda.com)__
+* __Saul Mora__ [{@}](https://twitter.com/casademora) [{f}](https://www.facebook.com/saulmora), [Magical Panda](http://magicalpanda.com)
 * Scott Chandler [{@}](https://twitter.com/gschandler)
 * __Scott Lopatin__ [{f}](https://www.facebook.com/Sceeter), [Apple]
 * Scott McAlister [{@}](https://twitter.com/scott4arrows)
