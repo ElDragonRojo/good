@@ -179,6 +179,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Diederik Hoogenboom [{f}](https://www.facebook.com/dhoogenboom), Obvious Matter
 * Dieter Oude Kotte [{LI}](http://www.linkedin.com/pub/dieter-oude-kotte/21/a26/b76), City of Amsterdam
 * Dirk Stoop [{f}](https://www.facebook.com/djstoop), [Facebook]
+* Don McAllister [{@}](https://twitter.com/donmcallister)
 * Don Ritzen [{@}](https://twitter.com/donritzen), [Rockstart]
 * *Doug Russell* [{W3}](http://takingnotes.co) [{a}](https://alpha.app.net/rustle) [{GH}](https://github.com/rustle)
 * Drew McCormack, Mental Faculty
