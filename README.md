@@ -210,7 +210,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Faruk Ates [{@}](https://twitter.com/KuraFire)
 * Federico Viticci [{@}](https://twitter.com/viticci), [MacStories](http://macstories.net)
 * Felix Lepoutre [{@}](https://twitter.com/FelixLepoutre)
-* Florian Brueckner [{ⓡ}](https://github.com/ElDragonRojo/good/blob/master/people/FlorianBrueckner.md) [{@}](https://twitter.com/bloomingbridges)
+* Florian Brueckner [ⓡ](https://github.com/ElDragonRojo/good/blob/master/people/FlorianBrueckner.md) [{@}](https://twitter.com/bloomingbridges)
 * Floris van Alkemade, [New Lemurs]
 * Fraser Speirs [{W3}](http://speirs.org) [{@}](https://twitter.com/FraserSpeirs)
 * Gavin Morris [{@}](https://twitter.com/g7morris) [{f}](https://www.facebook.com/g7morris)
