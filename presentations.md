@@ -1,25 +1,68 @@
-I asked people on Twitter, "What's the best presentation you've ever seen at a tech conference?"
+What's the best presentation you've ever seen at a tech conference?
 
-Daniel Jalkut [{t}](http://twitter.com/danielpunkass) the one that sticks with me the most as being great, even though I don't remember much, is Aaron Hillegass' [{t}](http://twitter.com/AaronHillegass) at C4[0] It was your pitch to developers to tackle niche markets like e.g. the dental office software that BNR did.
+## [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
-Gordon Hughes [{t}](http://twitter.com/GordonHughes): Bret Victor's [{t}](http://twitter.com/worrydream) Prototyping iPhone Interfaces at WWDC ‘09 has long been a standout for me. His more recent work is truly stellar.
+### Presented by Rich Hickey [{t}](https://twitter.com/richhickey) at Strange Loop 2011 in St Louis
 
-Sam Noble [{t}](http://twitter.com/samnoble): probably SJ’s no-sdk shit sandwich
+#### Suggested by Richard Feldman [{t}](https://twitter.com/rtfeldman)
 
-Robert Wijas [{t}](http://twitter.com/robertwijas): Aral Balkan's [{t}](http://twitter.com/aral) at nsconf 2011 was for a long time my no. 1, but now it’s the last Michael Lopp's [{t}](http://twitter.com/rands) talk that I can’t stop thinking about
+## [_Unknown Title_]()
 
-Updates from Aral: http://t.co/aXTYz9UXoG & http://t.co/jWyDdr869R
+### Presented by Dave Addey [{t}](https://twitter.com/daveaddey) at [iOSDevUK](https://twitter.com/iosdevuk) 2013 in Aberystwyth
 
-Richar Feldman [{t}](http://twitter.com/rtfeldman): This one: http://t.co/Tq5SfJCDTz
+#### Suggested by Steven Vandeweghe [{t}](https://twitter.com/bluecrowbar)
 
-littleknown: @bmf Just in terms of presentation, @lexfri & @dmoren at #cingleton 1
+## [When We Build](http://vimeo.com/34017777)
 
-RuiAAPeres: @bmf for me the best one was given by @unclebobmartin
+### Presented by [Wilson Miner](https://twitter.com/wilsonminer) at Build 2011 in Belfast
 
-Cyriel [{t}](http://twitter.com/mindcrash): Wilson Miner's "When we build" at Build 2011 http://t.co/pGIrfmB9ec
+#### Suggested by Cyriel [{t}](https://twitter.com/mindcrash)
 
-diogot: @bmf the one that @twittelator did at altWWDC last year
+## Pitch to developers to tackle niche markets like e.g. the dental office software that BNR did.
 
-bluecrowbar: @bmf Not sure about the best, but the funniest one by far was @daveaddey’s talk at last year’s @iosdevuk.
+### Presented by Aaron Hillegass [{t}](http://twitter.com/AaronHillegass) at C4[0] in Chicago
 
-shawng: @bmf this one guy showed up with a friggin mariachi band!!
+#### Suggested by Daniel Jalkut [{t}](https://twitter.com/danielpunkass)
+
+## Prototyping iPhone Interfaces
+
+### Presented by [Bret Victor](http://twitter.com/worrydream) at WWDC 2009 in San Francisco
+
+#### Suggested by [Gordon Hughes](http://twitter.com/GordonHughes)
+
+## Unknown Title Links from Aral: http://t.co/aXTYz9UXoG & http://t.co/jWyDdr869R
+
+### Presented by Aral Balkan [{t}](http://twitter.com/aral) at NSConference 2011 in England
+
+#### Suggested by Robert Wijas [{t}](http://twitter.com/robertwijas)
+
+## Engineer, Designer, Dictator
+
+### Presented by Michael Lopp [{t}](http://twitter.com/rands) at NSConference 2014
+
+#### Suggested by Robert Wijas [{t}](http://twitter.com/robertwijas)
+
+## Unknown Title
+
+### Presented by Lex Friedman [{t}](https://twitter.com/lexfri) and Dan Moren [{t}](https://twitter.com/dmoren) at Cingleton 1
+
+#### Suggested by Scott Little [{t}](https://twitter.com/littleknown)
+
+## Unknown Title
+
+### Presented by Bob Martin [{t}](https://twitter.com/unclebobmartin)
+
+#### Suggested by [{t}](https://twitter.com/RuiAAPeres)
+
+## DMT, NeXT, and the Soul of the Machine
+
+### Presented by Andy Stone [{t}](https://twitter.com/twittelator) at AltWWDC 2013 in San Francisco
+
+#### Suggested by [{t}](https://twitter.com/diogot)
+
+## Product Engineering
+
+### Presented by Mike Lee [{t}](https://twitter.com/bmf) in cities around the world
+
+#### Suggested by Shawn Grimes [{t}](https://twitter.com/shawng)
+
