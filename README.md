@@ -249,7 +249,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * James Bryan Graves
 * James Cox [{@}](https://twitter.com/JamesAaronCox)
 * James Dempsey [{@}](https://twitter.com/JamesDempsey), __Industry Legend__
-* James Thomson, PCalc
+* James Thomson [{@}](https://twitter.com/jamesthomson), PCalc
 * Jan Jungnickel [{@}](https://twitter.com/jjungnickel)
 * Jana Boruta
 * Jane Lee [{W3}](http://janeylicious.com) [{@}](https://twitter.com/janeylicious) [{f}](https://www.facebook.com/janeylicious) [{G+}](https://plus.google.com/117394978411570387460)
@@ -293,13 +293,13 @@ Industry Legends are people who have been around for a very long time, are very 
 * John Siracusa [{W3}](http://hypercritical.co) [{@}](https://twitter.com/siracusa)
 * *John Welch*
 * __John Wilker__ [{@}](https://twitter.com/jwilker), [360 Conferences](http://www.360conferences.com), __Industry Legend__
-* Jon Woodroof [{@}](https://twitter.com/twotoneatl), [Big Nerd Ranch]
+* Jon Woodroof [{@}](https://twitter.com/twotoneams)
 * Jonah Neugass
 * Jonathan Carter, [Glimworm]
 * Jonathan Dann [{f}](https://www.facebook.com/j.p.dann), [Facebook]
 * Jonathan Deutsch [{@}](https://twitter.com/jmfd) [{f}](https://www.facebook.com/tumultco), [Tumult]
 * Jonathan Penn [{W3}](http://cocoamanifest.net) [{@}](https://twitter.com/jonathanpenn)
-* Jonathan Rhyne, Smith Debnam Attorneys at Law
+* Jonathan Rhyne [{@}](https://twitter.com/jdrhyne) [{li}](http://www.linkedin.com/pub/jonathan-rhyne/11/848/540), Smith Debnam Attorneys at Law
 * __Jonathan "Wolf" Rentzsch__ [{W3}](http://rentzsch.com) [{@}](https://twitter.com/rentzsch) [{f}](https://www.facebook.com/wolfrentzsch) [{g}](https://github.com/rentzsch), __Industry Legend__
 * *Jonathan Wight* [{@}](https://twitter.com/schwa) [{f}](https://www.facebook.com/schwa)
 * Jordan Breeding [{@}](https://twitter.com/jorbsd) [{f}](https://www.facebook.com/jorbsd), [Apple]
@@ -345,7 +345,7 @@ Industry Legends are people who have been around for a very long time, are very 
 * Lee Falin, [Rogue Amoeba]
 * Lemont Washington [{f}](https://www.facebook.com/lemontw)
 * Len Case
-* Lex Friedman
+* Lex Friedman [{@}](https://twitter.com/lexfri)
 * Lili Sang [{f}](https://www.facebook.com/lili.sang.3), [Apple]
 * Linda Ouandji [{f}](https://www.facebook.com/linda.ouandji)
 * Lindsay Giachetti [{@}](https://twitter.com/lgiachetti) [{d}](http://dribbble.com/lgiachetti), [Double Encore]
