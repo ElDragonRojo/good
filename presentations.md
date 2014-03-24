@@ -55,9 +55,9 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 
 #### Suggested by [Robert Wijas](https://twitter.com/robertwijas)
 
-## [_Unknown Title_](http://www.imore.com/cingleton-deux-day-three)
+## [Apple Is Huge Now and That Sucks Title_](http://www.imore.com/cingleton-deux-day-three)
 
-### Presented by [Lex Friedman](https://twitter.com/lexfri) and [Dan Moren](https://twitter.com/dmoren) at  [Çingleton](https://twitter.com/cingleton) [2012](http://lanyrd.com/2012/cingleton/)
+### Presented by [Dan Moren](https://twitter.com/dmoren) and [Lex Friedman](https://twitter.com/lexfri) at  [Çingleton Deux](https://twitter.com/cingleton) [2012](http://lanyrd.com/2012/cingleton/)
 
 #### Suggested by [Scott Little](https://twitter.com/littleknown)
 
@@ -81,9 +81,16 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 
 ## [Identity 2.0](http://dickhardt.org/presentations-2/)
 
-The [original site](http://conferences.oreillynet.com/os2005/) is still up
-
 ### Presented by [Dick Hardt](https://twitter.com/dickhardt) at OSCON [2005](http://lanyrd.com/2005/oscon/) in Portland
+
+The [original site](http://conferences.oreillynet.com/os2005/) is still available
 
 #### Suggested by [Paul Schreiber](https://twitter.com/paulschreiber)
 
+## [How Designers Destroyed the World](http://vimeo.com/68470326)
+
+### Presented by [Mike Monteiro](https://twitter.com/mike_ftw) at [Webstock](https://twitter.com/webstock) [2013](http://lanyrd.com/2013/webstock/) in Wellington
+
+The [original site](http://www.webstock.org.nz/13/) is still available.
+
+#### Suggested by [Daniel Barden](https://twitter.com/danielbarden)
