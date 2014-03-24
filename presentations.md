@@ -79,3 +79,11 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 
 #### Suggested by [Shawn Grimes](https://twitter.com/shawng/status/113393324450267136)
 
+## [Identity 2.0](http://dickhardt.org/presentations-2/)
+
+The [original site](http://conferences.oreillynet.com/os2005/) is still up
+
+### Presented by [Dick Hardt](https://twitter.com/dickhardt) at OSCON [2005](http://lanyrd.com/2005/oscon/) in Portland
+
+#### Suggested by [Paul Schreiber](https://twitter.com/paulschreiber)
+
