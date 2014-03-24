@@ -97,9 +97,7 @@ As an updated replacement [Aral](http://aralbalkan.com/3803/) recommends:
 
 #### Suggested by [Gordon Hughes](https://twitter.com/GordonHughes)
 
-## [_Unknown Title_](http://www.tuaw.com/2006/10/21/c4-commenceth-day-one/)
-
-_"It was a pitch to developers to tackle niche markets like e.g. the dental office software that BNR did."_
+## [Solve Real Problems](https://al3x.net/2006/10/30/c4-day-two-aaron-hillegass-on.html)
 
 ### Presented by [Aaron Hillegass](https://twitter.com/AaronHillegass) at C4[0] [2006](http://lanyrd.com/2006/c40/) in Chicago
 
