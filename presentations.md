@@ -55,7 +55,7 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 
 #### Suggested by [Robert Wijas](https://twitter.com/robertwijas)
 
-## [Apple Is Huge Now and That Sucks Title_](http://www.imore.com/cingleton-deux-day-three)
+## [Apple Is Huge Now and That Sucks](http://www.imore.com/cingleton-deux-day-three)
 
 ### Presented by [Dan Moren](https://twitter.com/dmoren) and [Lex Friedman](https://twitter.com/lexfri) at  [Çingleton Deux](https://twitter.com/cingleton) [2012](http://lanyrd.com/2012/cingleton/)
 
