@@ -1,10 +1,12 @@
 # What's the best presentation you've ever seen at a tech conference?
 
-## [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
-### Presented by [Rich Hickey](https://twitter.com/richhickey) at [Strange Loop](https://twitter.com/strangeloop_stl) [2011](http://lanyrd.com/2011/strange-loop/) in St Louis
+## [The Engineer, The Designer, and the Dictator](http://nsconference.com/#talks)
 
-#### Suggested by [Richard Feldman](https://twitter.com/rtfeldman)
+### Presented by [Michael Lopp](https://twitter.com/rands) at [NSConference](https://twitter.com/nsconf) 6 [2014](http://lanyrd.com/2014/nsconf/) in Leicester
+
+#### Suggested by [Robert Wijas](https://twitter.com/robertwijas)
+
 
 ## [The Little Ideas]()
 
@@ -16,27 +18,57 @@
 
 #### Suggested by [Steven Vandeweghe](https://twitter.com/bluecrowbar)
 
+
+## [DMT, the NeXT and the Soul of the Human/Machine](http://altwwdc.com/schedule/2013/6/12/dmt-the-next-and-the-soul-of-the-humanmachine)
+
+### Presented by [Andy Stone](https://twitter.com/twittelator) at AltWWDC [2013](http://lanyrd.com/2013/altwwdc/) in San Francisco
+
+#### Suggested by [Diogo Tridapalli](https://twitter.com/diogot)
+
+
+## [How Designers Destroyed the World](http://vimeo.com/68470326)
+
+### Presented by [Mike Monteiro](https://twitter.com/mike_ftw) at [Webstock](https://twitter.com/webstock) [2013](http://lanyrd.com/2013/webstock/) in Wellington
+
+The [original site](http://www.webstock.org.nz/13/) is still available.
+
+#### Suggested by [Daniel Barden](https://twitter.com/danielbarden)
+
+
+## [Apple Is Huge Now and That Sucks](http://www.imore.com/cingleton-deux-day-three)
+
+### Presented by [Dan Moren](https://twitter.com/dmoren) and [Lex Friedman](https://twitter.com/lexfri) at  [Çingleton Deux](https://twitter.com/cingleton) [2012](http://lanyrd.com/2012/cingleton/)
+
+#### Suggested by [Scott Little](https://twitter.com/littleknown)
+
+
+## [Craftsmanship and Ethics](http://www.infoq.com/presentations/craftmanship-ethics)
+
+### Presented by [Uncle Bob Martin](https://twitter.com/unclebobmartin) at The Skills Matter eXchange [2012](https://skillsmatter.com/meetups/1380-itb-uncle-bob) in London
+
+#### Suggested by [R. Peres](https://twitter.com/RuiAAPeres)
+
+
 ## [When We Build](http://vimeo.com/34017777)
 
 ### Presented by [Wilson Miner](https://twitter.com/wilsonminer) at Build [2011](http://lanyrd.com/2011/buildconf/) in Belfast
 
 #### Suggested by [Cyriel](https://twitter.com/mindcrash)
 
-## [_Unknown Title_](http://www.tuaw.com/2006/10/21/c4-commenceth-day-one/)
 
-_"It was a pitch to developers to tackle niche markets like e.g. the dental office software that BNR did."_
+## [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
-### Presented by [Aaron Hillegass](https://twitter.com/AaronHillegass) at C4[0] [2006](http://lanyrd.com/2006/c40/) in Chicago
+### Presented by [Rich Hickey](https://twitter.com/richhickey) at [Strange Loop](https://twitter.com/strangeloop_stl) [2011](http://lanyrd.com/2011/strange-loop/) in St Louis
 
-#### Suggested by [Daniel Jalkut](https://twitter.com/danielpunkass)
+#### Suggested by [Richard Feldman](https://twitter.com/rtfeldman)
 
-## Prototyping iPhone User Interfaces
 
-[Session 128](http://devimages.apple.com/products/video/wwdc09/wwdc09iphonesessionlist.pdf)
+## [Product Engineering](http://yow.eventer.com/yow-2011-1004/product-engineering-by-mike-lee-1052)
 
-### Presented by [Bret Victor](https://twitter.com/worrydream) at WWDC [2009](http://lanyrd.com/2009/wwdc/) in San Francisco
+### Presented by [Mike Lee](https://twitter.com/bmf) at [360|iDev](https://twitter.com/360iDev) [2011](http://lanyrd.com/2011/360idev/) in Denver
 
-#### Suggested by [Gordon Hughes](https://twitter.com/GordonHughes)
+#### Suggested by [Shawn Grimes](https://twitter.com/shawng/status/113393324450267136)
+
 
 ## [_Unknown Title_](http://alblue.bandlem.com/2011/03/nsconference-2011-day-3.html)
 
@@ -49,35 +81,23 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 
 #### Suggested by [Robert Wijas](https://twitter.com/robertwijas)
 
-## [The Engineer, The Designer, and the Dictator](http://nsconference.com/#talks)
 
-### Presented by [Michael Lopp](https://twitter.com/rands) at [NSConference](https://twitter.com/nsconf) 6 [2014](http://lanyrd.com/2014/nsconf/) in Leicester
+## Prototyping iPhone User Interfaces
 
-#### Suggested by [Robert Wijas](https://twitter.com/robertwijas)
+[Session 128](http://devimages.apple.com/products/video/wwdc09/wwdc09iphonesessionlist.pdf)
 
-## [Apple Is Huge Now and That Sucks](http://www.imore.com/cingleton-deux-day-three)
+### Presented by [Bret Victor](https://twitter.com/worrydream) at WWDC [2009](http://lanyrd.com/2009/wwdc/) in San Francisco
 
-### Presented by [Dan Moren](https://twitter.com/dmoren) and [Lex Friedman](https://twitter.com/lexfri) at  [Çingleton Deux](https://twitter.com/cingleton) [2012](http://lanyrd.com/2012/cingleton/)
+#### Suggested by [Gordon Hughes](https://twitter.com/GordonHughes)
 
-#### Suggested by [Scott Little](https://twitter.com/littleknown)
+## [_Unknown Title_](http://www.tuaw.com/2006/10/21/c4-commenceth-day-one/)
 
-## [Craftsmanship and Ethics](http://www.infoq.com/presentations/craftmanship-ethics)
+_"It was a pitch to developers to tackle niche markets like e.g. the dental office software that BNR did."_
 
-### Presented by [Uncle Bob Martin](https://twitter.com/unclebobmartin) at The Skills Matter eXchange [2012](https://skillsmatter.com/meetups/1380-itb-uncle-bob) in London
+### Presented by [Aaron Hillegass](https://twitter.com/AaronHillegass) at C4[0] [2006](http://lanyrd.com/2006/c40/) in Chicago
 
-#### Suggested by [R. Peres](https://twitter.com/RuiAAPeres)
+#### Suggested by [Daniel Jalkut](https://twitter.com/danielpunkass)
 
-## [DMT, the NeXT and the Soul of the Human/Machine](http://altwwdc.com/schedule/2013/6/12/dmt-the-next-and-the-soul-of-the-humanmachine)
-
-### Presented by [Andy Stone](https://twitter.com/twittelator) at AltWWDC [2013](http://lanyrd.com/2013/altwwdc/) in San Francisco
-
-#### Suggested by [Diogo Tridapalli](https://twitter.com/diogot)
-
-## [Product Engineering](http://yow.eventer.com/yow-2011-1004/product-engineering-by-mike-lee-1052)
-
-### Presented by [Mike Lee](https://twitter.com/bmf) at [360|iDev](https://twitter.com/360iDev) [2011](http://lanyrd.com/2011/360idev/) in Denver
-
-#### Suggested by [Shawn Grimes](https://twitter.com/shawng/status/113393324450267136)
 
 ## [Identity 2.0](http://dickhardt.org/presentations-2/)
 
@@ -86,11 +106,3 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 The [original site](http://conferences.oreillynet.com/os2005/) is still available
 
 #### Suggested by [Paul Schreiber](https://twitter.com/paulschreiber)
-
-## [How Designers Destroyed the World](http://vimeo.com/68470326)
-
-### Presented by [Mike Monteiro](https://twitter.com/mike_ftw) at [Webstock](https://twitter.com/webstock) [2013](http://lanyrd.com/2013/webstock/) in Wellington
-
-The [original site](http://www.webstock.org.nz/13/) is still available.
-
-#### Suggested by [Daniel Barden](https://twitter.com/danielbarden)
