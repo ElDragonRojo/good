@@ -70,9 +70,9 @@ The [original site](http://www.webstock.org.nz/13/) is still available.
 #### Suggested by [Shawn Grimes](https://twitter.com/shawng/status/113393324450267136)
 
 
-## [_Unknown Title_](http://alblue.bandlem.com/2011/03/nsconference-2011-day-3.html)
+## [Making the New Everyday Things](http://alblue.bandlem.com/2011/03/nsconference-2011-day-3.html)
 
-[Aral](http://aralbalkan.com/3803/) recommends: 
+As an updated replacement [Aral](http://aralbalkan.com/3803/) recommends: 
 
 * [Superheroes & Villains in Design](http://vimeo.com/70030549http://t.co/jWyDdr869R)
 * [Digital Feudalism & How to Avoid It](http://www.youtube.com/watch?v=G1QCBzQ0aNc)
