@@ -61,7 +61,7 @@ _"It was a pitch to developers to tackle niche markets like e.g. the dental offi
 
 #### Suggested by [Scott Little](https://twitter.com/littleknown)
 
-## [The S.O.L.I.D. Principles of OO and Agile Design](https://skillsmatter.com/skillscasts/3220-uncle-bob-expert-insights)
+## [Craftsmanship and Ethics](http://www.infoq.com/presentations/craftmanship-ethics)
 
 ### Presented by [Uncle Bob Martin](https://twitter.com/unclebobmartin) at The Skills Matter eXchange [2012](https://skillsmatter.com/meetups/1380-itb-uncle-bob) in London
 
