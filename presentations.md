@@ -35,7 +35,7 @@ The [original site](http://www.webstock.org.nz/13/) is still available.
 #### Suggested by [Daniel Barden](https://twitter.com/danielbarden)
 
 
-## [Apple Is Huge Now and That Sucks](http://www.imore.com/cingleton-deux-day-three)
+## [Apple Is Huge Now* (*And that sucks for you)](http://www.imore.com/cingleton-deux-day-three)
 
 ### Presented by [Dan Moren](https://twitter.com/dmoren) and [Lex Friedman](https://twitter.com/lexfri) at  [Çingleton Deux](https://twitter.com/cingleton) [2012](http://lanyrd.com/2012/cingleton/)
 
