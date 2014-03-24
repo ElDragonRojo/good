@@ -70,6 +70,13 @@ The [original site](http://www.webstock.org.nz/13/) is still available.
 #### Suggested by [Shawn Grimes](https://twitter.com/shawng/status/113393324450267136)
 
 
+## [Making Really Annoying iPad Apps](http://alblue.bandlem.com/2011/03/nsconference-2011-day-3.html)
+
+### Presented by "Evil" [Matt Gemmell](https://twitter.com/mattgemmell) at [NSConference](https://twitter.com/nsconf) [2011](http://lanyrd.com/2011/nsconf/) in Wokefield Park
+
+#### Suggested by ???
+
+
 ## [Making the New Everyday Things](http://alblue.bandlem.com/2011/03/nsconference-2011-day-3.html)
 
 As an updated replacement [Aral](http://aralbalkan.com/3803/) recommends: 
