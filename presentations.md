@@ -6,9 +6,9 @@
 
 #### Suggested by [Richard Feldman](https://twitter.com/rtfeldman)
 
-## [_Unknown Title_]()
+## [The Little Ideas]()
 
-But here's another of his:
+"Including my faux product launch for The Book." No video available, but here's another of his:
 
 * [So You Have An App Idea?](http://www.besquare.me/session/so-you-have-an-app-idea/)
 
