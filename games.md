@@ -67,6 +67,7 @@ In addition, some games not available for iOS:
 * [Fallen London](http://www.fallenlondon.com/) by Failbetter Games (Web)
 * [Fez](http://en.wikipedia.org/wiki/Fez_(video_game)) by Polytron (Xbox)
 * [Journey](http://en.wikipedia.org/wiki/Journey_(2012_video_game)) by Thatgamecompany (PS)
+* [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo (SNES)
 * [Portal](http://en.wikipedia.org/wiki/Portal_(video_game)) by Valve (Xbox)
 * [Skate](http://en.wikipedia.org/wiki/Skate_(Video_Game)) 1, 2, and 3 by EA Black Box (PS/Xbox)
 * [VIM Adventures](http://vim-adventures.com/) by Doron Linder (Web)
