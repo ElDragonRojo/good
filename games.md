@@ -33,6 +33,7 @@ Other games people recommended are:
 * [Groove Coaster](http://itunes.apple.com/us/app/groove-coaster/id442689429?mt=8) by TAITO Corporation
 * [Hero Academy](http://itunes.apple.com/us/app/hero-academy/id488156323?mt=8) by Robot Entertainment
 * [Jetpack Joyride](http://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8) by Halfbrick Studios
+* [Lode Runner Classic](http://www.loderunnerclassic.com) by Studio Voltz
 * [Machinarium](http://itunes.apple.com/us/app/machinarium/id459189186?mt=8) by Amanita Design
 * [Minecraft](http://itunes.apple.com/us/app/minecraft-pocket-edition/id479516143?mt=8) by Mojang
 * [Monsters Ate My Condo](http://itunes.apple.com/us/app/monsters-ate-my-condo/id459489208?mt=8) by [adult swim]
