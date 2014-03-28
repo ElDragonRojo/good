@@ -49,6 +49,7 @@ Other games people recommended are:
 * [Strimko](http://itunes.apple.com/us/app/strimko/id328286124?mt=8) by Grabarchuk Puzzles
 * [Superbrothers: Sword & Sworcery EP](http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id424912055?mt=8) by Capybara Games
 * [The Incident](http://itunes.apple.com/us/app/the-incident/id385533456?mt=8) by Big Bucket Software
+* [The Secret of Monkey Island: Special Edition](https://itunes.apple.com/us/app/secret-monkey-island-special/id324741347?mt=8) by LucasArts
 * [Ticket to Ride ](http://itunes.apple.com/us/app/ticket-to-ride/id432504470?mt=8)by Days Of Wonder
 * [Tiny Wings](http://itunes.apple.com/us/app/tiny-wings/id417817520?mt=8) by Andreas Illiger
 * [Trainyard](http://itunes.apple.com/us/app/trainyard/id348719156?mt=8) by Matt Rix
