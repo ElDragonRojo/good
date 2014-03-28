@@ -12,7 +12,7 @@ For starters, a lot of people recommended games by [PopCap](http://popcap.com). 
 * [Plants vs. Zombies](http://itunes.apple.com/us/app/plants-vs.-zombies/id350642635?mt=8)
 * [Zuma's Revenge!](http://itunes.apple.com/us/app/zumas-revenge!/id501499260?mt=8)
 
-Someone recommended anything by [Llamasoft](http://minotaurproject.co.uk/frontpage.php).
+Folks have recommended anything by [Llamasoft](http://minotaurproject.co.uk/frontpage.php) or [Playdek](http://www.playdekgames.com), and while not all their games may meet the criterion of non-violence, these developers certainly seem to meet the criterion of non-evil.
 
 Other games people recommended are:
 
