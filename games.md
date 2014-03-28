@@ -12,7 +12,7 @@ For starters, a lot of people recommended games by [PopCap](http://popcap.com). 
 * [Plants vs. Zombies](http://itunes.apple.com/us/app/plants-vs.-zombies/id350642635?mt=8)
 * [Zuma's Revenge!](http://itunes.apple.com/us/app/zumas-revenge!/id501499260?mt=8)
 
-Someone recommended anything by [Llamasoft](http://minotaurproject.co.uk/frontpage.php). I would have said anything by [ngmoco:)](http://www.ngmoco.com/games.php), yet they were conspicuously absent from people's recommendations. Why is that?
+Someone recommended anything by [Llamasoft](http://minotaurproject.co.uk/frontpage.php).
 
 Other games people recommended are:
 
