@@ -39,6 +39,7 @@ Other games people recommended are:
 * [Monsters Ate My Condo](http://itunes.apple.com/us/app/monsters-ate-my-condo/id459489208?mt=8) by [adult swim]
 * [Osmos](http://itunes.apple.com/us/app/osmos/id382991304?mt=8) by Hemisphere Games
 * [Paper Toss](http://itunes.apple.com/us/app/paper-toss/id317917431?mt=8) by Backflip Studios
+* [Scribblenauts Remix](https://itunes.apple.com/us/app/scribblenauts-remix/id444844790?mt=8) by Warner Bros.
 * [Shufflepuck Cantina](https://itunes.apple.com/us/app/shufflepuck-cantina/id553470733?mt=8) by Agharta Studio
 * [Smart Sokoban](http://itunes.apple.com/us/app/smart-sokoban/id294016504?mt=8) by Patrick Stein
 * [Sneezies](http://itunes.apple.com/us/app/sneezies/id298155609?mt=8) by Chillingo
