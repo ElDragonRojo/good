@@ -81,9 +81,11 @@ In addition, some games not available for iOS:
 * [Gone Home](http://gonehomegame.com) by The Fullbright Company (Mac)
 * [Journey](http://en.wikipedia.org/wiki/Journey_(2012_video_game)) by Thatgamecompany (PS)
 * [Kerbal Space Program](https://kerbalspaceprogram.com) by Squad (Steam)
-* [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo (SNES)
 * [Portal](http://en.wikipedia.org/wiki/Portal_(video_game)) by Valve (Xbox)
 * [Skate](http://en.wikipedia.org/wiki/Skate_(Video_Game)) 1, 2, and 3 by EA Black Box (PS/Xbox)
+* [Star Control 2](http://en.wikipedia.org/wiki/Star_Control_II) (Mac)
+* [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo (SNES)
+* [The Neverhood](https://en.wikipedia.org/wiki/The_Neverhood) by DreamWorks Interactive (PC/PS)
 * [VIM Adventures](http://vim-adventures.com/) by Doron Linder (Web)
 
 Thank you to everyone who gave a recommendation!
