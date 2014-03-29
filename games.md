@@ -1,6 +1,8 @@
-Non-violent games by non-evil companies, as recommended by my Twitter stream. 
+Non-violent games by non-evil companies, as recommended by my Twitter stream, where Plants vs. Zombies is designated as the most violent game by the most evil company that is allowed on this list. If you disagree with something listed here, please file an issue, fork it, and issue a pull request.
 
 I've listed things with an "iOS > Mac > Other" bias, but many of these are available on other platforms. Use your least unfavorite search engine, or check the developers' sites, for different versions.
+
+I've not listed sport franchises or dynasties like Mario, because that would artifically dilute the list with titles nobody has trouble finding, though I have listed games people seem particularly passionate about, such as [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past), considered by many to be the greatest video game of all time.
 
 For starters, a lot of people recommended games by [PopCap](http://popcap.com). These guys are the kings of casual gaming for a reason, and have published games on platforms I've never even heard of. Here are their iOS offerings:
 
@@ -12,7 +14,10 @@ For starters, a lot of people recommended games by [PopCap](http://popcap.com). 
 * [Plants vs. Zombies](http://itunes.apple.com/us/app/plants-vs.-zombies/id350642635?mt=8)
 * [Zuma's Revenge!](http://itunes.apple.com/us/app/zumas-revenge!/id501499260?mt=8)
 
-Folks have recommended anything by [Llamasoft](http://minotaurproject.co.uk/frontpage.php) or [Playdek](http://www.playdekgames.com), and while not all their games may meet the criterion of non-violence, these developers certainly seem to meet the criterion of non-evil.
+Folks have recommended anything by the following companies. While not all their games may meet the criterion of non-violence, these developers seem to meet the criterion of non-evil.
+
+* [Llamasoft](http://minotaurproject.co.uk/frontpage.php)
+* [Playdek](http://www.playdekgames.com)
 
 Other games people recommended are:
 
