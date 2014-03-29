@@ -19,6 +19,7 @@ Other games people recommended are:
 * [Beat Sneak Bandit](http://itunes.apple.com/us/app/beat-sneak-bandit/id473689550?mt=8) by Simogo
 * [Carcassonne](http://itunes.apple.com/us/app/carcassonne/id375295479?mt=8) by TheCodingMonkeys
 * [Circadia](http://itunes.apple.com/us/app/circadia/id489615659?mt=8) by Simple Machine
+* [Civilization](http://civilization.com) by Take-Two Interactive Software
 * [Clickomania](http://itunes.apple.com/us/app/clickomania/id357371876?mt=8) by R2 Soft
 * [Connectrode](http://itunes.apple.com/us/app/connectrode/id438450056?mt=8) by Deep Plaid Games
 * [Contre Jour](http://itunes.apple.com/us/app/contre-jour/id440693481?mt=8) by Chillingo
