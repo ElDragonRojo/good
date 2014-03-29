@@ -1,25 +1,25 @@
-Non-violent games by non-evil companies, as recommended by my Twitter stream, where Plants vs. Zombies is designated as the most violent game by the most evil company that is allowed on this list. If you disagree with something listed here, please file an issue, fork it, and issue a pull request.
+Non-violent games by non-evil companies, as recommended by my Twitter stream.
+
+## Standards
+
+[The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo is designated as the highest amount of artistic violence in a game and bad behavior in a company that is allowed on this list, given that both are considered by many to be the Greatest Of All Time. 
+
+Companies like Zynga, PopCap, and their parent company Electronic Arts, produce games that are often fun, but addictive and freemium-driven, at least on the App Store. 
+
+This list is meant to be an alternative to such games, if only because nobody has any trouble finding them. Similarly, I've not listed sport franchises or dynasties like Mario, because that would artifically dilute the list. 
+
+I may make provisional exceptions and list games people seem particularly passionate about, but I am often wrong, so if you disagree with something listed here, please file an issue, fork it, and issue a pull request.
 
 I've listed things with an "iOS > Mac > Other" bias, but many of these are available on other platforms. Use your least unfavorite search engine, or check the developers' sites, for different versions.
 
-I've not listed sport franchises or dynasties like Mario, because that would artifically dilute the list with titles nobody has trouble finding, though I have listed games people seem particularly passionate about, such as [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past), considered by many to be the greatest video game of all time.
+## Companies
 
-For starters, a lot of people recommended games by [PopCap](http://popcap.com). These guys are the kings of casual gaming for a reason, and have published games on platforms I've never even heard of. Here are their iOS offerings:
-
-* [Bejeweled](http://itunes.apple.com/us/app/bejeweled/id479536744?mt=8)
-* [Bookworm](http://itunes.apple.com/us/app/bookworm/id307176281?mt=8)
-* [Chuzzle](http://itunes.apple.com/us/app/chuzzle/id338309870?mt=8)
-* [Escape Rosecliff Island](http://itunes.apple.com/us/app/escape-rosecliff-island/id403376387?mt=8)
-* [Peggle](http://itunes.apple.com/us/app/peggle/id314303518?mt=8)
-* [Plants vs. Zombies](http://itunes.apple.com/us/app/plants-vs.-zombies/id350642635?mt=8)
-* [Zuma's Revenge!](http://itunes.apple.com/us/app/zumas-revenge!/id501499260?mt=8)
-
-Folks have recommended anything by the following companies. While not all their games may meet the criterion of non-violence, these developers seem to meet the criterion of non-evil.
+Folks have recommended anything by the following lesser-known game makers. While not all their games may meet the criterion of non-violence, as companies, they seem to meet the standards.
 
 * [Llamasoft](http://minotaurproject.co.uk/frontpage.php)
 * [Playdek](http://www.playdekgames.com)
 
-Other games people recommended are:
+## Games
 
 * [Beat Sneak Bandit](http://itunes.apple.com/us/app/beat-sneak-bandit/id473689550?mt=8) by Simogo
 * [Carcassonne](http://itunes.apple.com/us/app/carcassonne/id375295479?mt=8) by TheCodingMonkeys
@@ -53,7 +53,6 @@ Other games people recommended are:
 * [SpellTower](http://itunes.apple.com/us/app/spelltower/id476500832?mt=8) by Zach Gage
 * [Spirits](https://itunes.apple.com/us/app/spirits-for-ipad/id388636935?mt=8) by Spaces of Play
 * [SPY mouse](http://itunes.apple.com/us/app/spy-mouse/id445992496?mt=8) by Electronic Arts
-* [Stealth Inc.](https://itunes.apple.com/us/app/stealth-inc./id660730799?mt=8) by Curve Digital Games
 * [Strimko](http://itunes.apple.com/us/app/strimko/id328286124?mt=8) by Grabarchuk Puzzles
 * [Super Monkey Ball](http://en.wikipedia.org/wiki/Super_Monkey_Ball) by Amusement Vision 
 * [Superbrothers: Sword & Sworcery EP](http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id424912055?mt=8) by Capybara Games
