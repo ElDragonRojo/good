@@ -51,11 +51,13 @@ Other games people recommended are:
 * [Smart Sokoban](http://itunes.apple.com/us/app/smart-sokoban/id294016504?mt=8) by Patrick Stein
 * [Sneezies](http://itunes.apple.com/us/app/sneezies/id298155609?mt=8) by Chillingo
 * [SpellTower](http://itunes.apple.com/us/app/spelltower/id476500832?mt=8) by Zach Gage
+* [Spirits](https://itunes.apple.com/us/app/spirits-for-ipad/id388636935?mt=8) by Spaces of Play
 * [SPY mouse](http://itunes.apple.com/us/app/spy-mouse/id445992496?mt=8) by Electronic Arts
 * [Stealth Inc.](https://itunes.apple.com/us/app/stealth-inc./id660730799?mt=8) by Curve Digital Games
 * [Strimko](http://itunes.apple.com/us/app/strimko/id328286124?mt=8) by Grabarchuk Puzzles
 * [Super Monkey Ball](http://en.wikipedia.org/wiki/Super_Monkey_Ball) by Amusement Vision 
 * [Superbrothers: Sword & Sworcery EP](http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id424912055?mt=8) by Capybara Games
+* [Tengami](https://itunes.apple.com/us/app/tengami/id794960248?l=en&mt=8) by Nyamyam
 * [The Incident](http://itunes.apple.com/us/app/the-incident/id385533456?mt=8) by Big Bucket Software
 * [The Secret of Monkey Island: Special Edition](https://itunes.apple.com/us/app/secret-monkey-island-special/id324741347?mt=8) by LucasArts
 * [Ticket to Ride ](http://itunes.apple.com/us/app/ticket-to-ride/id432504470?mt=8)by Days Of Wonder
