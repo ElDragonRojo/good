@@ -53,6 +53,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Shufflepuck Cantina](https://itunes.apple.com/us/app/shufflepuck-cantina/id553470733?mt=8) by Agharta Studio
 * [Smart Sokoban](http://itunes.apple.com/us/app/smart-sokoban/id294016504?mt=8) by Patrick Stein
 * [Sneezies](http://itunes.apple.com/us/app/sneezies/id298155609?mt=8) by Chillingo
+* [Space Invaders Infinity Gene](https://itunes.apple.com/en/app/space-invaders-infinity-gene/id323665063?mt=8) by TAITO
 * [SpellGrid](https://itunes.apple.com/us/app/spellgrid+-game-many-words/id707409923?mt=8) by Song San Hong
 * [SpellTower](http://itunes.apple.com/us/app/spelltower/id476500832?mt=8) by Zach Gage
 * [Spirits](https://itunes.apple.com/us/app/spirits-for-ipad/id388636935?mt=8) by Spaces of Play
