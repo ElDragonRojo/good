@@ -22,10 +22,11 @@ Folks have recommended anything by the following lesser-known game makers. While
 ## Games
 
 * [Beat Sneak Bandit](http://itunes.apple.com/us/app/beat-sneak-bandit/id473689550?mt=8) by Simogo
+* [Bridge Constructor](https://itunes.apple.com/us/app/bridge-constructor/id503190232?mt=8) by Headup Games
 * [Carcassonne](http://itunes.apple.com/us/app/carcassonne/id375295479?mt=8) by TheCodingMonkeys
 * [Circadia](http://itunes.apple.com/us/app/circadia/id489615659?mt=8) by Simple Machine
 * [Clickomania](http://itunes.apple.com/us/app/clickomania/id357371876?mt=8) by R2 Soft
-* [Coolson's Pocket Pack](https://itunes.apple.com/us/app/coolsons-pocket-pack/id807447730?mt=8) by Things Made Out Of Other Things Ltd
+* [Coolson's Pocket Pack](https://itunes.apple.com/us/app/coolsons-pocket-pack/id807447730?mt=8) by Things Made Out Of Other Things
 * [Connectrode](http://itunes.apple.com/us/app/connectrode/id438450056?mt=8) by Deep Plaid Games
 * [Contre Jour](http://itunes.apple.com/us/app/contre-jour/id440693481?mt=8) by Chillingo
 * [DEVICE 6](https://itunes.apple.com/us/app/device-6/id680366065?mt=8) by Simogo
