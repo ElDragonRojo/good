@@ -1,6 +1,8 @@
 Non-violent games by non-evil companies, as recommended by my Twitter stream.
 
-## Standards
+I've listed things with an "iOS > Mac > Other" bias, but many of these are available on other platforms. Use your least unfavorite search engine, or check the developers' sites, for different versions.
+
+## Thomson-Grannell Standard of Video Game Goodness
 
 [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo is designated as the highest amount of artistic violence in a game and bad behavior in a company that is allowed on this list, given that both are considered by many to be the Greatest Of All Time. 
 
@@ -9,8 +11,6 @@ Companies like Zynga, PopCap, and their parent company Electronic Arts, produce 
 This list is meant to be an alternative to such games, if only because nobody has any trouble finding them. Similarly, I've not listed sport franchises or dynasties like Mario, because that would artifically dilute the list. 
 
 I may make provisional exceptions and list games people seem particularly passionate about, but I am often wrong, so if you disagree with something listed here, please file an issue, fork it, and issue a pull request.
-
-I've listed things with an "iOS > Mac > Other" bias, but many of these are available on other platforms. Use your least unfavorite search engine, or check the developers' sites, for different versions.
 
 ## Companies
 
@@ -28,6 +28,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Clickomania](http://itunes.apple.com/us/app/clickomania/id357371876?mt=8) by R2 Soft
 * [Connectrode](http://itunes.apple.com/us/app/connectrode/id438450056?mt=8) by Deep Plaid Games
 * [Contre Jour](http://itunes.apple.com/us/app/contre-jour/id440693481?mt=8) by Chillingo
+* [Crystal Quest](http://macintoshgarden.org/games/crystal-quest) by Patrick Buckland
 * [Enigmo](http://itunes.apple.com/us/app/enigmo/id281736535?mt=8) by Pangea Software
 * [Flight Control](http://itunes.apple.com/us/app/flight-control/id306220440?mt=8) by Firemint
 * [Fling!](http://itunes.apple.com/us/app/fling!/id325815008?mt=8) by CandyCane
