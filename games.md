@@ -54,6 +54,7 @@ Other games people recommended are:
 * [SPY mouse](http://itunes.apple.com/us/app/spy-mouse/id445992496?mt=8) by Electronic Arts
 * [Stealth Inc.](https://itunes.apple.com/us/app/stealth-inc./id660730799?mt=8) by Curve Digital Games
 * [Strimko](http://itunes.apple.com/us/app/strimko/id328286124?mt=8) by Grabarchuk Puzzles
+* [Super Monkey Ball](http://en.wikipedia.org/wiki/Super_Monkey_Ball) by Amusement Vision 
 * [Superbrothers: Sword & Sworcery EP](http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id424912055?mt=8) by Capybara Games
 * [The Incident](http://itunes.apple.com/us/app/the-incident/id385533456?mt=8) by Big Bucket Software
 * [The Secret of Monkey Island: Special Edition](https://itunes.apple.com/us/app/secret-monkey-island-special/id324741347?mt=8) by LucasArts
