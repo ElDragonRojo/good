@@ -36,6 +36,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Game Dev Story](http://itunes.apple.com/us/app/game-dev-story/id396085661?mt=8) by Kairosoft
 * [geoDefense Swarm](http://itunes.apple.com/us/app/geodefense-swarm/id326563285?mt=8) by Critical Thought Games
 * [Glider Classic](http://itunes.apple.com/us/app/glider-classic/id463484447?mt=8) by Soft Dorothy
+* [Gone Home](http://gonehomegame.com) by The Fullbright Company
 * [Groove Coaster](http://itunes.apple.com/us/app/groove-coaster/id442689429?mt=8) by TAITO Corporation
 * [Hero Academy](http://itunes.apple.com/us/app/hero-academy/id488156323?mt=8) by Robot Entertainment
 * [Jetpack Joyride](http://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8) by Halfbrick Studios
