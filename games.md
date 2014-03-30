@@ -86,6 +86,7 @@ In addition, some games not available for iOS:
 * [Journey](http://en.wikipedia.org/wiki/Journey_(2012_video_game)) by Thatgamecompany (PS)
 * [Kerbal Space Program](https://kerbalspaceprogram.com) by Squad (Steam)
 * [Portal](http://en.wikipedia.org/wiki/Portal_(video_game)) by Valve (Xbox)
+* [Rocksmith 2014](http://en.wikipedia.org/wiki/Rocksmith_2014) by Ubisoft (Mac)
 * [Skate](http://en.wikipedia.org/wiki/Skate_(Video_Game)) 1, 2, and 3 by EA Black Box (PS/Xbox)
 * [Star Control 2](http://en.wikipedia.org/wiki/Star_Control_II) (Mac)
 * [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo (SNES)
