@@ -6,7 +6,7 @@ I've listed things with an "iOS > Mac > Other" bias, but many of these are avail
 
 [The Legend of Zelda: A Link To The Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) by Nintendo is designated as the highest amount of artistic violence in a game and bad behavior in a company that is allowed on this list, given that both are considered by many to be the Greatest Of All Time. 
 
-Companies like Zynga, PopCap, and their parent company Electronic Arts, produce games that are often fun, but addictive and freemium-driven, at least on the App Store. 
+Companies like Zynga, PopCap, and their parent company Electronic Arts, produce games that are often fun, but addictive and freemium-driven, at least on the App Store. [What's wrong with freemium?](http://reverttosaved.com/2013/04/26/pay-per-play-exploring-the-pros-and-cons-of-freemium-gaming-on-ios/)
 
 This list is meant to be an alternative to such games, if only because nobody has any trouble finding them. Similarly, I've not listed sport franchises or dynasties like Mario, because that would artifically dilute the list. 
 
