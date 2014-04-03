@@ -46,6 +46,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Machinarium](http://itunes.apple.com/us/app/machinarium/id459189186?mt=8) by Amanita Design
 * [Minecraft](http://itunes.apple.com/us/app/minecraft-pocket-edition/id479516143?mt=8) by Mojang
 * [Monsters Ate My Condo](http://itunes.apple.com/us/app/monsters-ate-my-condo/id459489208?mt=8) by [adult swim]
+* [Monument Valley](https://itunes.apple.com/us/app/monument-valley/id728293409?mt=8) by [ustwo](http://www.monumentvalleygame.com)
 * [Osmos](http://itunes.apple.com/us/app/osmos/id382991304?mt=8) by Hemisphere Games
 * [Paper Toss](http://itunes.apple.com/us/app/paper-toss/id317917431?mt=8) by Backflip Studios
 * [Robot Unicorn Attack](http://en.wikipedia.org/wiki/Robot_Unicorn_Attack) by [adult swim]
