@@ -43,6 +43,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Jetpack Joyride](http://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8) by Halfbrick Studios
 * [Lemurs Chemistry: Water](https://itunes.apple.com/us/app/lemurs-chemistry-water/id573492466?mt=8) by New Lemurs
 * [Lode Runner Classic](https://itunes.apple.com/us/app/lode-runner-classic/id582864706) by Studio Voltz
+* [Lost Cities](https://itunes.apple.com/us/app/lost-cities/id465062454?mt=8) by TheCodingMonkeys
 * [Machinarium](http://itunes.apple.com/us/app/machinarium/id459189186?mt=8) by Amanita Design
 * [Minecraft](http://itunes.apple.com/us/app/minecraft-pocket-edition/id479516143?mt=8) by Mojang
 * [Monsters Ate My Condo](http://itunes.apple.com/us/app/monsters-ate-my-condo/id459489208?mt=8) by [adult swim]
