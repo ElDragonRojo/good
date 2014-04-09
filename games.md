@@ -75,6 +75,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Where's My Water](http://itunes.apple.com/us/app/wheres-my-water/id449735650?mt=8) by Disney
 * [Words Play](http://itunes.apple.com/us/app/words-play/id446768370?mt=8) by Stand Alone
 * [World of Goo](http://itunes.apple.com/us/app/world-of-goo-hd/id401301276?mt=8) by 2D BOY
+* [QatQi](https://itunes.apple.com/us/app/qatqi/id519861748?mt=8) by ZWorkbench, Inc
 
 In addition, some games not available for iOS:
 
