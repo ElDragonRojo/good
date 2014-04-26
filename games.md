@@ -66,6 +66,8 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Superbrothers: Sword & Sworcery EP](http://itunes.apple.com/us/app/superbrothers-sword-sworcery/id424912055?mt=8) by Capybara Games
 * [Tengami](https://itunes.apple.com/us/app/tengami/id794960248?l=en&mt=8) by Nyamyam
 * [The Incident](http://itunes.apple.com/us/app/the-incident/id385533456?mt=8) by Big Bucket Software
+* [The Room](https://itunes.apple.com/us/app/the-room/id552039496&mt=8) by Fireproof Games
+* [The Room Two](https://itunes.apple.com/us/app/the-room-two/id667362389?mt=8) by Fireproof Games
 * [The Secret of Monkey Island: Special Edition](https://itunes.apple.com/us/app/secret-monkey-island-special/id324741347?mt=8) by LucasArts
 * [Ticket to Ride ](http://itunes.apple.com/us/app/ticket-to-ride/id432504470?mt=8)by Days Of Wonder
 * [Tiny Wings](http://itunes.apple.com/us/app/tiny-wings/id417817520?mt=8) by Andreas Illiger
