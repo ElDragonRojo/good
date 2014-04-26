@@ -40,6 +40,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Glider Classic](http://itunes.apple.com/us/app/glider-classic/id463484447?mt=8) by Soft Dorothy
 * [Groove Coaster](http://itunes.apple.com/us/app/groove-coaster/id442689429?mt=8) by TAITO Corporation
 * [Hero Academy](http://itunes.apple.com/us/app/hero-academy/id488156323?mt=8) by Robot Entertainment
+* [iBlast Moki](https://itunes.apple.com/app/iblast-moki-hd/id364197277) by Godzilab
 * [Jetpack Joyride](http://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8) by Halfbrick Studios
 * [Lemurs Chemistry: Water](https://itunes.apple.com/us/app/lemurs-chemistry-water/id573492466?mt=8) by New Lemurs
 * [Leo's Fortune](https://itunes.apple.com/us/app/id830544402?mt=8) by 1337 & Senri
