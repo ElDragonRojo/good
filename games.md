@@ -42,6 +42,7 @@ Folks have recommended anything by the following lesser-known game makers. While
 * [Hero Academy](http://itunes.apple.com/us/app/hero-academy/id488156323?mt=8) by Robot Entertainment
 * [Jetpack Joyride](http://itunes.apple.com/us/app/jetpack-joyride/id457446957?mt=8) by Halfbrick Studios
 * [Lemurs Chemistry: Water](https://itunes.apple.com/us/app/lemurs-chemistry-water/id573492466?mt=8) by New Lemurs
+* [Leo's Fortune](https://itunes.apple.com/us/app/id830544402?mt=8) by 1337 & Senri
 * [Lode Runner Classic](https://itunes.apple.com/us/app/lode-runner-classic/id582864706) by Studio Voltz
 * [Lost Cities](https://itunes.apple.com/us/app/lost-cities/id465062454?mt=8) by TheCodingMonkeys
 * [Machinarium](http://itunes.apple.com/us/app/machinarium/id459189186?mt=8) by Amanita Design
